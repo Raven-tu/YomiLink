@@ -20,12 +20,14 @@ const anserInput = ref('')
     <input
       id="input"
       v-model="anserInput"
+      lang="en"
       :placeholder=" attemptsCount > 0 ? props.currentQuestion?.answer : '?'"
       type="text" autocomplete="off"
       p="x-4 y-2" m="t-5" w="250px"
       text="center" bg="transparent"
       border="~ rounded gray-200 dark:gray-700"
       outline="none active:none"
+      autoFocus
       @keydown.enter="props.submitAnswer(anserInput), anserInput = ''"
     >
   </section>

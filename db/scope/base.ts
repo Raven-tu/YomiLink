@@ -237,6 +237,419 @@ export const hiragana: QuestionList = {
   ],
 }
 
+export const katakana: QuestionList = {
+  name: 'katakana',
+  title: '片仮名',
+  data: [
+    {
+      question: 'ア',
+      answer: 'a',
+      explantion: 'ア',
+    },
+    {
+      question: 'イ',
+      answer: 'i',
+      explantion: 'イ',
+    },
+    {
+      question: 'ウ',
+      answer: 'u',
+      explantion: 'ウ',
+    },
+    {
+      question: 'エ',
+      answer: 'e',
+      explantion: 'エ',
+    },
+    {
+      question: 'オ',
+      answer: 'o',
+      explantion: 'オ',
+    },
+    {
+      question: 'カ',
+      answer: 'ka',
+      explantion: 'カ',
+    },
+    {
+      question: 'キ',
+      answer: 'ki',
+      explantion: 'キ',
+    },
+    {
+      question: 'ク',
+      answer: 'ku',
+      explantion: 'ク',
+    },
+    {
+      question: 'ケ',
+      answer: 'ke',
+      explantion: 'ケ',
+    },
+    {
+      question: 'コ',
+      answer: 'ko',
+      explantion: 'コ',
+    },
+    {
+      question: 'サ',
+      answer: 'sa',
+      explantion: 'サ',
+    },
+    {
+      question: 'シ',
+      answer: 'shi',
+      explantion: 'シ',
+    },
+    {
+      question: 'ス',
+      answer: 'su',
+      explantion: 'ス',
+    },
+    {
+      question: 'セ',
+      answer: 'se',
+      explantion: 'セ',
+    },
+    {
+      question: 'ソ',
+      answer: 'so',
+      explantion: 'ソ',
+    },
+    {
+      question: 'タ',
+      answer: 'ta',
+      explantion: 'タ',
+    },
+    {
+      question: 'チ',
+      answer: 'chi',
+      explantion: 'チ',
+    },
+    {
+      question: 'ツ',
+      answer: 'tsu',
+      explantion: 'ツ',
+    },
+    {
+      question: 'テ',
+      answer: 'te',
+      explantion: 'テ',
+    },
+    {
+      question: 'ト',
+      answer: 'to',
+      explantion: 'ト',
+    },
+    {
+      question: 'ナ',
+      answer: 'na',
+      explantion: 'ナ',
+    },
+    {
+      question: 'ニ',
+      answer: 'ni',
+      explantion: 'ニ',
+    },
+    {
+      question: 'ヌ',
+      answer: 'nu',
+      explantion: 'ヌ',
+    },
+    {
+      question: 'ネ',
+      answer: 'ne',
+      explantion: 'ネ',
+    },
+    {
+      question: 'ノ',
+      answer: 'no',
+      explantion: 'ノ',
+    },
+    {
+      question: 'ハ',
+      answer: 'ha',
+      explantion: 'ハ',
+    },
+    {
+      question: 'ヒ',
+      answer: 'hi',
+      explantion: 'ヒ',
+    },
+    {
+      question: 'フ',
+      answer: 'fu',
+      explantion: 'フ',
+    },
+    {
+      question: 'ヘ',
+      answer: 'he',
+      explantion: 'ヘ',
+    },
+    {
+      question: 'ホ',
+      answer: 'ho',
+      explantion: 'ホ',
+    },
+    {
+      question: 'マ',
+      answer: 'ma',
+      explantion: 'マ',
+    },
+    {
+      question: 'ミ',
+      answer: 'mi',
+      explantion: 'ミ',
+    },
+    {
+      question: 'ム',
+      answer: 'mu',
+      explantion: 'ム',
+    },
+    {
+      question: 'メ',
+      answer: 'me',
+      explantion: 'メ',
+    },
+    {
+      question: 'モ',
+      answer: 'mo',
+      explantion: 'モ',
+    },
+    {
+      question: 'ヤ',
+      answer: 'ya',
+      explantion: 'ヤ',
+    },
+    {
+      question: 'ユ',
+      answer: 'yu',
+      explantion: 'ユ',
+    },
+    {
+      question: 'ヨ',
+      answer: 'yo',
+      explantion: 'ヨ',
+    },
+    {
+      question: 'ラ',
+      answer: 'ra',
+      explantion: 'ラ',
+    },
+    {
+      question: 'リ',
+      answer: 'ri',
+      explantion: 'リ',
+    },
+    {
+      question: 'ル',
+      answer: 'ru',
+      explantion: 'ル',
+    },
+    {
+      question: 'レ',
+      answer: 're',
+      explantion: 'レ',
+    },
+    {
+      question: 'ロ',
+      answer: 'ro',
+      explantion: 'ロ',
+    },
+    {
+      question: 'ワ',
+      answer: 'wa',
+      explantion: 'ワ',
+    },
+    {
+      question: 'ヲ',
+      answer: 'wo',
+      explantion: 'ヲ',
+    },
+    {
+      question: 'ン',
+      answer: 'n',
+      explantion: 'ン',
+    },
+  ],
+}
+
+export const youon: QuestionList = {
+
+  name: 'youon',
+  title: '拗音',
+  data: [
+    {
+      question: 'きゃ',
+      answer: 'kya',
+      explantion: 'きゃ',
+    },
+    {
+      question: 'きゅ',
+      answer: 'kyu',
+      explantion: 'きゅ',
+    },
+    {
+      question: 'きょ',
+      answer: 'kyo',
+      explantion: 'きょ',
+    },
+    {
+      question: 'しゃ',
+      answer: 'sha',
+      explantion: 'しゃ',
+    },
+    {
+      question: 'しゅ',
+      answer: 'shu',
+      explantion: 'しゅ',
+    },
+    {
+      question: 'しょ',
+      answer: 'sho',
+      explantion: 'しょ',
+    },
+    {
+      question: 'ちゃ',
+      answer: 'cha',
+      explantion: 'ちゃ',
+    },
+    {
+      question: 'ちゅ',
+      answer: 'chu',
+      explantion: 'ちゅ',
+    },
+    {
+      question: 'ちょ',
+      answer: 'cho',
+      explantion: 'ちょ',
+    },
+    {
+      question: 'にゃ',
+      answer: 'nya',
+      explantion: 'にゃ',
+    },
+    {
+      question: 'にゅ',
+      answer: 'nyu',
+      explantion: 'にゅ',
+    },
+    {
+      question: 'にょ',
+      answer: 'nyo',
+      explantion: 'にょ',
+    },
+    {
+      question: 'ひゃ',
+      answer: 'hya',
+      explantion: 'ひゃ',
+    },
+    {
+      question: 'ひゅ',
+      answer: 'hyu',
+      explantion: 'ひゅ',
+    },
+    {
+      question: 'ひょ',
+      answer: 'hyo',
+      explantion: 'ひょ',
+    },
+    {
+      question: 'みゃ',
+      answer: 'mya',
+      explantion: 'みゃ',
+    },
+    {
+      question: 'みゅ',
+      answer: 'myu',
+      explantion: 'みゅ',
+    },
+    {
+      question: 'みょ',
+      answer: 'myo',
+      explantion: 'みょ',
+    },
+    {
+      question: 'りゃ',
+      answer: 'rya',
+      explantion: 'りゃ',
+    },
+    {
+      question: 'りゅ',
+      answer: 'ryu',
+      explantion: 'りゅ',
+    },
+    {
+      question: 'りょ',
+      answer: 'ryo',
+      explantion: 'りょ',
+    },
+    {
+      question: 'ぎゃ',
+      answer: 'gya',
+      explantion: 'ぎゃ',
+    },
+    {
+      question: 'ぎゅ',
+      answer: 'gyu',
+      explantion: 'ぎゅ',
+    },
+    {
+      question: 'ぎょ',
+      answer: 'gyo',
+      explantion: 'ぎょ',
+    },
+    {
+      question: 'じゃ',
+      answer: 'ja',
+      explantion: 'じゃ',
+    },
+    {
+      question: 'じゅ',
+      answer: 'ju',
+      explantion: 'じゅ',
+    },
+    {
+      question: 'じょ',
+      answer: 'jo',
+      explantion: 'じょ',
+    },
+    {
+      question: 'びゃ',
+      answer: 'bya',
+      explantion: 'びゃ',
+    },
+    {
+      question: 'びゅ',
+      answer: 'byu',
+      explantion: 'びゅ',
+    },
+    {
+      question: 'びょ',
+      answer: 'byo',
+      explantion: 'びょ',
+    },
+    {
+      question: 'ぴゃ',
+      answer: 'pya',
+      explantion: 'ぴゃ',
+    },
+    {
+      question: 'ぴゅ',
+      answer: 'pyu',
+      explantion: 'ぴゅ',
+    },
+    {
+      question: 'ぴょ',
+      answer: 'pyo',
+      explantion: 'ぴょ',
+    },
+
+  ],
+}
+
 export default {
   hiragana,
+  katakana,
+  youon,
 }

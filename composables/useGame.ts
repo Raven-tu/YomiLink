@@ -13,6 +13,11 @@ export function useGame() {
   const currentQuestionAnswer = computed(() => questionList.value.at(currentIdx.value)?.answer ?? '')
   const currentQuestionExplantion = computed(() => questionList.value.at(currentIdx.value)?.explantion ?? '')
 
+  watchEffect(() => {
+    if (scopeTitle.value)
+      initGame()
+  })
+
   function initGame() {
     currentIdx.value = 0
     attemptsCount.value = 0
@@ -35,7 +40,6 @@ export function useGame() {
 
   function submitAnswer(answer: string) {
     currentInput.value = answer
-    console.log('currentInput.value', currentInput.value)
     if (judgement())
       nextQuestion()
     else

@@ -13,10 +13,23 @@ provide('currentInput', currentInput)
 
 <template>
   <section class="flex-center flex-1 overflow-auto p-20">
-    <div class="flex-center h-full max-w-560px w-full flex-col space-y-4">
+    <div v-if="currentQuestion" class="flex-center h-full max-w-560px w-full flex-col space-y-4">
       <GameHead :scope-title :current-idx :question-size />
       <GameMain :attempts-count :current-question :submit-answer />
       <GameFoot :current-question-answer :attempts-count :current-question-explantion />
+    </div>
+    <!--  -->
+    <div v-else class="hero">
+      <div class="hero-content text-center">
+        <div class="max-w-md">
+          <h1 class="text-5xl font-bold">
+            Hello there
+          </h1>
+          <p class="py-6">
+            Click on the menu on the right to select the topic of the exercise.
+          </p>
+        </div>
+      </div>
     </div>
   </section>
 </template>
