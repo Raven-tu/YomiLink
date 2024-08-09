@@ -1,11 +1,14 @@
 {
+  "name": "yomilink",
   "type": "module",
+  "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@9.1.0",
+  "description": "An interactive Japanese vocabulary learning app that helps users practice proper spelling of Japanese words.",
   "scripts": {
     "build": "nuxi build",
     "dev:pwa": "VITE_PLUGIN_PWA=true nuxi dev",
-    "dev": "nuxi dev",
+    "dev": "nuxi dev --host",
     "generate": "nuxi generate",
     "prepare": "nuxi prepare",
     "start": "node .output/server/index.mjs",
@@ -26,11 +29,16 @@
     "@vite-pwa/nuxt": "^0.7.0",
     "@vueuse/nuxt": "^10.9.0",
     "consola": "^3.2.3",
+    "daisyui": "^3.9.4",
+    "dayjs": "^1.11.9",
     "eslint": "^9.2.0",
     "eslint-plugin-format": "^0.1.1",
     "nuxt": "^3.11.2",
     "pinia": "^2.1.7",
+    "std-env": "^3.3.3",
     "typescript": "^5.4.5",
+    "unocss-preset-daisy": "^7.0.0",
     "vue-tsc": "^2.0.17"
   }
+
 }

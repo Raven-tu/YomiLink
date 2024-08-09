@@ -1,2 +1,2 @@
-export const appName = 'Vitesse for Nuxt 3'
-export const appDescription = 'Vitesse for Nuxt 3'
+export const appName = 'YomiLink'
+export const appDescription = 'An interactive Japanese vocabulary learning app that helps users practice proper spelling of Japanese words.'
