@@ -1,80 +1,48 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/11247099/140462375-7b7ac4db-35b7-453c-8a05-13d8d20282c4.png" width="600"/>
-</p>
+# YomiLink
 
-<h2 align="center">
-<a href="https://github.com/antfu/vitesse">Vitesse</a> for Nuxt 3
-</h2><br>
+YomiLink 是一个专注于日语词汇背诵的应用程序，帮助用户通过正确拼写日语单词来提升他们的词汇量。学习者必须在每个单词上正确拼写，然后才能继续下一个单词。
 
-<p align="center">
-<br>
-<a href="https://vitesse-nuxt3.netlify.app/">🖥 Online Preview</a>
-<br><br>
-<a href="https://stackblitz.com/github/antfu/vitesse-nuxt3"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt=""></a>
-</p>
+## 特性
 
-## Features
+- **日语单词拼写练习**：用户必须通过正确地拼写日语单词才能进入下一个单词。
+- **即时反馈**：在用户输入完单词后，立即给予拼写是否正确的反馈。
+- **逐步进阶**：根据学习进度调整单词难度，帮助用户不断挑战自我。
+- **用户进度跟踪**：记录每个用户的学习进度和表现，以便可以看到自己的成长。
 
-- 💚 [Nuxt 3](https://nuxt.com/) - SSR, ESR, File-based routing, components auto importing, modules, etc.
+## 安装
 
-- ⚡️ Vite - Instant HMR.
+请确保您已经安装了 [Node.js](https://nodejs.org/) 和 [npm](https://www.npmjs.com/)。
 
-- 🎨 [UnoCSS](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
+1. 克隆这个仓库到本地
 
-- 😃 Use icons from any icon sets in Pure CSS, powered by [UnoCSS](https://github.com/unocss/unocss).
-
-- 🔥 The `<script setup>` syntax.
-
-- 🍍 [State Management via Pinia](https://github.com/vuejs/pinia), see [./composables/user.ts](./composables/user.ts).
-
-- 📑 [Layout system](./layouts).
-
-- 📥 APIs auto importing - for Composition API, VueUse and custom composables.
-
-- 🏎 Zero-config cloud functions and deploy.
-
-- 🦾 TypeScript, of course.
-
-- 📲 [PWA](https://github.com/vite-pwa/nuxt) with offline support and auto-update behavior.
-
-## Plugins
-
-### Nuxt Modules
-
-- [VueUse](https://github.com/vueuse/vueuse) - collection of useful composition APIs.
-- [ColorMode](https://github.com/nuxt-modules/color-mode) - dark and Light mode with auto detection made easy with Nuxt.
-- [UnoCSS](https://github.com/unocss/unocss) - the instant on-demand atomic CSS engine.
-- [Pinia](https://github.com/vuejs/pinia) - intuitive, type safe, light and flexible Store for Vue.
-- [VitePWA](https://github.com/vite-pwa/nuxt) - zero-config PWA Plugin for Nuxt 3.
-- [DevTools](https://github.com/nuxt/devtools) - unleash Nuxt Developer Experience.
-
-## IDE
-
-We recommend using [VS Code](https://code.visualstudio.com/) with [Volar](https://github.com/johnsoncodehk/volar) to get the best experience (You might want to disable [Vetur](https://vuejs.github.io/vetur/) if you have it).
-
-## Variations
-
-- [vitesse](https://github.com/antfu/vitesse) - Opinionated Vite Starter Template
-- [vitesse-lite](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse
-- [vitesse-nuxt-bridge](https://github.com/antfu/vitesse-nuxt-bridge) - Vitesse for Nuxt 2 with Bridge
-- [vitesse-webext](https://github.com/antfu/vitesse-webext) - WebExtension Vite starter template
-
-## Try it now!
-
-### Online
-
-<a href="https://stackblitz.com/github/antfu/vitesse-nuxt3"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt=""></a>
-
-### GitHub Template
-
-[Create a repo from this template on GitHub](https://github.com/antfu/vitesse-nuxt3/generate).
-
-### Clone to local
-
-If you prefer to do it manually with the cleaner git history
-
-```bash
-npx degit antfu/vitesse-nuxt3 my-nuxt3-app
-cd my-nuxt3-app
-pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
+```sh
+git clone https://github.com/yourusername/yomilink.git
 ```
+
+2. 进入项目目录
+
+```sh
+cd yomilink
+```
+
+3. 安装依赖
+
+```sh
+npm install
+```
+
+## 运行
+
+在开发模式下启动应用
+
+```sh
+npm start
+
+在浏览器中打开 http://localhost:3000 查看你的应用。
+
+用法
+
+1. 启动应用后，您将看到一个界面显示第一个日语单词。
+2. 在输入框中输入单词的正确拼写。
+3. 按下“提交”按钮后，应用将验证拼写的正确性。
+4. 如果拼写正确，应用将显示下一个单词；如果拼写错误，将提示重新输入。
