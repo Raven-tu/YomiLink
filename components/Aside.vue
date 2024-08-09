@@ -1,27 +1,26 @@
-<script lang='ts' setup></script>
+<script lang='tsx' setup>
+import { nav } from '~/db/nav'
+
+const { updateScope } = useAppStore()
+
+function update(id: string) {
+  updateScope(id)
+}
+</script>
 
 <template>
   <ul class="menu bg-base-200 rounded-box h-full w-56">
-    <li><a>Item 1</a></li>
-    <li>
-      <details open>
-        <summary>Parent</summary>
+    <li v-for="(item, index) in nav" :key="index">
+      <details v-if="item.sub" open>
+        <summary>{{ item.title }}</summary>
         <ul>
-          <li><a>Submenu 1</a></li>
-          <li><a>Submenu 2</a></li>
-          <li>
-            <details open>
-              <summary>Parent</summary>
-              <ul>
-                <li><a>Submenu 1</a></li>
-                <li><a>Submenu 2</a></li>
-              </ul>
-            </details>
+          <li v-for="(subChild, subIdx) in item.sub" :key="subIdx">
+            <a @click="update(subChild.url)">{{ subChild.title }}</a>
           </li>
         </ul>
       </details>
+      <a v-else>{{ item.title }}</a>
     </li>
-    <li><a>Item 3</a></li>
   </ul>
 </template>
 

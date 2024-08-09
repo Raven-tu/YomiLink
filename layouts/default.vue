@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import Playground from '~/components/main/Playground.vue'
+
 const panelMenuWidth = ref(250)
 </script>
 
@@ -15,7 +17,7 @@ const panelMenuWidth = ref(250)
       class="app-main transition-margin-left relative h-100vh flex flex-col overflow-x-hidden duration-300"
       :style="{ marginLeft: `${panelMenuWidth}px` }"
     >
-      <slot />
+      <Playground />
     </section>
   </main>
 </template>
