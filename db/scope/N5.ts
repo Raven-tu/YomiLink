@@ -14,12 +14,12 @@ const n5 = [
   },
   {
     question: 'お兄さん',
-    answer: 'onīsan',
+    answer: 'onisan',
     explantion: '\n      汉字: お兄さん\n      读音: おにいさん\n      意思: (honorable) older brother\n      来源: waller\n      同义词: 御兄さん\n    ',
   },
   {
     question: 'お姉さん',
-    answer: 'onēsan',
+    answer: 'onesan',
     explantion: '\n      汉字: お姉さん\n      读音: おねえさん\n      意思: (honorable) older sister\n      来源: waller\n      同义词: お姐さん, 御姉さん, 御姐さん\n    ',
   },
   {
@@ -34,22 +34,22 @@ const n5 = [
   },
   {
     question: 'お父さん',
-    answer: 'otōsan',
+    answer: 'otosan',
     explantion: '\n      汉字: お父さん\n      读音: おとうさん\n      意思: (honorable) father\n      来源: waller\n      同义词: お父さん, 御父さん, 御父さん\n    ',
   },
   {
     question: 'お母さん',
-    answer: 'okāsan',
+    answer: 'okasan',
     explantion: '\n      汉字: お母さん\n      读音: おかあさん\n      意思: (honorable) mother\n      来源: waller\n      同义词: 御母さん\n    ',
   },
   {
     question: '此方',
-    answer: '此kata',
+    answer: 'kotchi',
     explantion: '\n      汉字: 此方\n      读音: こっち\n      意思: this person or way\n      来源: waller\n      同义词: 此方, , , 此方\n    ',
   },
   {
     question: '其処',
-    answer: '其sho',
+    answer: 'soko',
     explantion: '\n      汉字: 其処\n      读音: そこ\n      意思: that place\n      来源: waller\n      同义词: , 其所\n    ',
   },
   {
@@ -59,7 +59,7 @@ const n5 = [
   },
   {
     question: '如何',
-    answer: 'ika',
+    answer: 'do',
     explantion: '\n      汉字: 如何\n      读音: どう\n      意思: how\n      来源: in what way\n      同义词: 如何, \n    ',
   },
   {
@@ -99,7 +99,7 @@ const n5 = [
   },
   {
     question: '為る',
-    answer: 'naru',
+    answer: 'suru',
     explantion: '\n      汉字: 為る\n      读音: する\n      意思: to do\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -124,7 +124,7 @@ const n5 = [
   },
   {
     question: '一月',
-    answer: 'ichigatsu',
+    answer: 'hitotsuki',
     explantion: '\n      汉字: 一月\n      读音: ひとつき\n      意思: one month\n      来源: waller\n      同义词: 一月, ひと月\n    ',
   },
   {
@@ -179,7 +179,7 @@ const n5 = [
   },
   {
     question: '遠い',
-    answer: 'tōi',
+    answer: 'toi',
     explantion: '\n      汉字: 遠い\n      读音: とおい\n      意思: far\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -214,7 +214,7 @@ const n5 = [
   },
   {
     question: '温い',
-    answer: 'nukui',
+    answer: 'nurui',
     explantion: '\n      汉字: 温い\n      读音: ぬるい\n      意思: luke warm\n      来源: waller\n      同义词: , , 温い, 緩い, 微温い\n    ',
   },
   {
@@ -274,7 +274,7 @@ const n5 = [
   },
   {
     question: '火曜日',
-    answer: 'kayōbi',
+    answer: 'kayoubi',
     explantion: '\n      汉字: 火曜日\n      读音: かようび\n      意思: Tuesday\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -354,12 +354,12 @@ const n5 = [
   },
   {
     question: '角',
-    answer: 'kaku',
+    answer: 'kado',
     explantion: '\n      汉字: 角\n      读音: かど\n      意思: a corner\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '学校',
-    answer: 'gakkō',
+    answer: 'gatsuko',
     explantion: '\n      汉字: 学校\n      读音: がっこう\n      意思: School\n      来源: waller\n      同义词: 學校\n    ',
   },
   {
@@ -429,7 +429,7 @@ const n5 = [
   },
   {
     question: '喫茶店',
-    answer: 'kissaten',
+    answer: 'kitsusaten',
     explantion: '\n      汉字: 喫茶店\n      读音: きっさてん\n      意思: coffee lounge\n      来源: waller\n      同义词: 喫茶店\n    ',
   },
   {
@@ -449,17 +449,17 @@ const n5 = [
   },
   {
     question: '牛肉',
-    answer: 'gyūniku',
+    answer: 'gyuuniku',
     explantion: '\n      汉字: 牛肉\n      读音: ぎゅうにく\n      意思: Beef\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '牛乳',
-    answer: 'gyūnyū',
+    answer: 'gyuunyuu',
     explantion: '\n      汉字: 牛乳\n      读音: ぎゅうにゅう\n      意思: Milk\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '去年',
-    answer: 'kyonen',
+    answer: 'kiyonen',
     explantion: '\n      汉字: 去年\n      读音: きょねん\n      意思: last year\n      来源: waller\n      同义词: 去年\n    ',
   },
   {
@@ -474,7 +474,7 @@ const n5 = [
   },
   {
     question: '教室',
-    answer: 'kyōshitsu',
+    answer: 'kyoshitsu',
     explantion: '\n      汉字: 教室\n      读音: きょうしつ\n      意思: Classroom\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -509,12 +509,12 @@ const n5 = [
   },
   {
     question: '金曜日',
-    answer: 'kin\'yōbi',
+    answer: 'kinyobi',
     explantion: '\n      汉字: 金曜日\n      读音: きんようび\n      意思: Friday\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '銀行',
-    answer: 'ginkō',
+    answer: 'ginko',
     explantion: '\n      汉字: 銀行\n      读音: ぎんこう\n      意思: Bank\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -524,7 +524,7 @@ const n5 = [
   },
   {
     question: '九日',
-    answer: 'kyūnichi',
+    answer: 'kokonoka',
     explantion: '\n      汉字: 九日\n      读音: ここのか\n      意思: nine days\n      来源:  ninth day\n      同义词: 九日, 九日, ９日, ９日\n    ',
   },
   {
@@ -549,7 +549,7 @@ const n5 = [
   },
   {
     question: '兄弟',
-    answer: 'kyōdai',
+    answer: 'kyodai',
     explantion: '\n      汉字: 兄弟\n      读音: きょうだい\n      意思: (humble) siblings\n      来源: waller\n      同义词: 兄弟\n    ',
   },
   {
@@ -569,7 +569,7 @@ const n5 = [
   },
   {
     question: '結構',
-    answer: 'kekkō',
+    answer: 'kekko',
     explantion: '\n      汉字: 結構\n      读音: けっこう\n      意思: splendid\n      来源:  enough\n      同义词: 結構\n    ',
   },
   {
@@ -579,7 +579,7 @@ const n5 = [
   },
   {
     question: '月曜日',
-    answer: 'getsuyōbi',
+    answer: 'getsuyobi',
     explantion: '\n      汉字: 月曜日\n      读音: げつようび\n      意思: Monday\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -654,7 +654,7 @@ const n5 = [
   },
   {
     question: '五日',
-    answer: 'gonichi',
+    answer: 'itsuka',
     explantion: '\n      汉字: 五日\n      读音: いつか\n      意思: five days\n      来源:  fifth day\n      同义词: 五日, ５日\n    ',
   },
   {
@@ -669,7 +669,7 @@ const n5 = [
   },
   {
     question: '後',
-    answer: 'nochi',
+    answer: 'ato',
     explantion: '\n      汉字: 後\n      读音: あと\n      意思: afterwards\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -684,12 +684,12 @@ const n5 = [
   },
   {
     question: '交番',
-    answer: 'kōban',
+    answer: 'koban',
     explantion: '\n      汉字: 交番\n      读音: こうばん\n      意思: police box\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '公園',
-    answer: 'kōen',
+    answer: 'koen',
     explantion: '\n      汉字: 公園\n      读音: こうえん\n      意思: Park\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -704,7 +704,7 @@ const n5 = [
   },
   {
     question: '向こう',
-    answer: 'mukō',
+    answer: 'muko',
     explantion: '\n      汉字: 向こう\n      读音: むこう\n      意思: over there\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -719,7 +719,7 @@ const n5 = [
   },
   {
     question: '紅茶',
-    answer: 'kōcha',
+    answer: 'koucha',
     explantion: '\n      汉字: 紅茶\n      读音: こうちゃ\n      意思: black tea\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -759,12 +759,12 @@ const n5 = [
   },
   {
     question: '今週',
-    answer: 'konshū',
+    answer: 'konshu',
     explantion: '\n      汉字: 今週\n      读音: こんしゅう\n      意思: this week\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '今晩',
-    answer: 'komban',
+    answer: 'konban',
     explantion: '\n      汉字: 今晩\n      读音: こんばん\n      意思: this evening\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -784,7 +784,7 @@ const n5 = [
   },
   {
     question: '砂糖',
-    answer: 'satō',
+    answer: 'sato',
     explantion: '\n      汉字: 砂糖\n      读音: さとう\n      意思: Sugar\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -809,7 +809,7 @@ const n5 = [
   },
   {
     question: '財布',
-    answer: 'saifu',
+    answer: 'saiu',
     explantion: '\n      汉字: 財布\n      读音: さいふ\n      意思: Wallet\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -844,7 +844,7 @@ const n5 = [
   },
   {
     question: '三日',
-    answer: 'sannichi',
+    answer: 'mitsuka',
     explantion: '\n      汉字: 三日\n      读音: みっか\n      意思: three days\n      来源:  third day of the month\n      同义词: 三日, ３日\n    ',
   },
   {
@@ -869,7 +869,7 @@ const n5 = [
   },
   {
     question: '使う',
-    answer: 'tsukau',
+    answer: 'tsuka',
     explantion: '\n      汉字: 使う\n      读音: つかう\n      意思: to use\n      来源: waller\n      同义词: 遣う\n    ',
   },
   {
@@ -879,7 +879,7 @@ const n5 = [
   },
   {
     question: '四日',
-    answer: 'yonnichi',
+    answer: 'yotsuka',
     explantion: '\n      汉字: 四日\n      读音: よっか\n      意思: four days\n      来源:  fouth day of the month\n      同义词: 四日, ４日\n    ',
   },
   {
@@ -919,7 +919,7 @@ const n5 = [
   },
   {
     question: '歯',
-    answer: 'ha',
+    answer: 'wa',
     explantion: '\n      汉字: 歯\n      读音: は\n      意思: tooth\n      来源: waller\n      同义词: 齒\n    ',
   },
   {
@@ -959,7 +959,7 @@ const n5 = [
   },
   {
     question: '自動車',
-    answer: 'jidōsha',
+    answer: 'jidosha',
     explantion: '\n      汉字: 自動車\n      读音: じどうしゃ\n      意思: Automobile\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1034,7 +1034,7 @@ const n5 = [
   },
   {
     question: '授業',
-    answer: 'jugyō',
+    answer: 'jiyugyou',
     explantion: '\n      汉字: 授業\n      读音: じゅぎょう\n      意思: lesson\n      来源:  class work\n      同义词: 授業\n    ',
   },
   {
@@ -1044,7 +1044,7 @@ const n5 = [
   },
   {
     question: '習う',
-    answer: 'narau',
+    answer: 'nara',
     explantion: '\n      汉字: 習う\n      读音: ならう\n      意思: to learn\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1054,7 +1054,7 @@ const n5 = [
   },
   {
     question: '十日',
-    answer: 'jūnichi',
+    answer: 'toka',
     explantion: '\n      汉字: 十日\n      读音: とおか\n      意思: ten days\n      来源: the tenth day\n      同义词: 十日, １０日\n    ',
   },
   {
@@ -1084,7 +1084,7 @@ const n5 = [
   },
   {
     question: '出口',
-    answer: 'ideguchi',
+    answer: 'deguchi',
     explantion: '\n      汉字: 出口\n      读音: でぐち\n      意思: exit\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1134,7 +1134,7 @@ const n5 = [
   },
   {
     question: '小さい',
-    answer: 'chīsai',
+    answer: 'chisai',
     explantion: '\n      汉字: 小さい\n      读音: ちいさい\n      意思: little\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1174,7 +1174,7 @@ const n5 = [
   },
   {
     question: '上手',
-    answer: 'jōzu',
+    answer: 'jozu',
     explantion: '\n      汉字: 上手\n      读音: じょうず\n      意思: Skillful\n      来源: waller\n      同义词: 上手, 上手\n    ',
   },
   {
@@ -1199,7 +1199,7 @@ const n5 = [
   },
   {
     question: '食堂',
-    answer: 'shokudō',
+    answer: 'shokudo',
     explantion: '\n      汉字: 食堂\n      读音: しょくどう\n      意思: dining hall\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1219,7 +1219,7 @@ const n5 = [
   },
   {
     question: '辛い',
-    answer: 'tsurai',
+    answer: 'karai',
     explantion: '\n      汉字: 辛い\n      读音: からい\n      意思: Spicy\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1239,7 +1239,7 @@ const n5 = [
   },
   {
     question: '水曜日',
-    answer: 'suiyōbi',
+    answer: 'suiyobi',
     explantion: '\n      汉字: 水曜日\n      读音: すいようび\n      意思: Wednesday\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1304,7 +1304,7 @@ const n5 = [
   },
   {
     question: '切手',
-    answer: 'kitte',
+    answer: 'kitsute',
     explantion: '\n      汉字: 切手\n      读音: きって\n      意思: postage stamp\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1329,7 +1329,7 @@ const n5 = [
   },
   {
     question: '先週',
-    answer: 'senshū',
+    answer: 'senshu',
     explantion: '\n      汉字: 先週\n      读音: せんしゅう\n      意思: last week\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1349,7 +1349,7 @@ const n5 = [
   },
   {
     question: '洗う',
-    answer: 'arau',
+    answer: 'ara',
     explantion: '\n      汉字: 洗う\n      读音: あらう\n      意思: to wash\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1369,7 +1369,7 @@ const n5 = [
   },
   {
     question: '掃除',
-    answer: 'sōji',
+    answer: 'soji',
     explantion: '\n      汉字: 掃除\n      读音: そうじ\n      意思: to clean\n      来源:  to sweep\n      同义词: 掃除\n    ',
   },
   {
@@ -1384,7 +1384,7 @@ const n5 = [
   },
   {
     question: '側',
-    answer: 'gawa',
+    answer: 'soba',
     explantion: '\n      汉字: 側\n      读音: そば\n      意思: near\n      来源:  beside\n      同义词: 側, , , 側, , 側, 傍, 傍, 端\n    ',
   },
   {
@@ -1404,7 +1404,7 @@ const n5 = [
   },
   {
     question: '多い',
-    answer: 'ōi',
+    answer: 'oi',
     explantion: '\n      汉字: 多い\n      读音: おおい\n      意思: many\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1439,7 +1439,7 @@ const n5 = [
   },
   {
     question: '大きな',
-    answer: 'ōkina',
+    answer: 'okina',
     explantion: '\n      汉字: 大きな\n      读音: おおきな\n      意思: big\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1459,7 +1459,7 @@ const n5 = [
   },
   {
     question: '大丈夫',
-    answer: 'daijōbu',
+    answer: 'daijobu',
     explantion: '\n      汉字: 大丈夫\n      读音: だいじょうぶ\n      意思: all right\n      来源: waller\n      同义词: 大丈夫\n    ',
   },
   {
@@ -1469,7 +1469,7 @@ const n5 = [
   },
   {
     question: '大勢',
-    answer: 'taisei',
+    answer: 'ozei',
     explantion: '\n      汉字: 大勢\n      读音: おおぜい\n      意思: great number of people\n      来源: waller\n      同义词: 大勢, 大ぜい, 大ぜい\n    ',
   },
   {
@@ -1504,7 +1504,7 @@ const n5 = [
   },
   {
     question: '誕生日',
-    answer: 'tanjōbi',
+    answer: 'tanjobi',
     explantion: '\n      汉字: 誕生日\n      读音: たんじょうび\n      意思: birthday\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1579,7 +1579,7 @@ const n5 = [
   },
   {
     question: '丁度',
-    answer: 'chōdo',
+    answer: 'chodo',
     explantion: '\n      汉字: 丁度\n      读音: ちょうど\n      意思: exactly\n      来源: waller\n      同义词: , 恰度\n    ',
   },
   {
@@ -1664,7 +1664,7 @@ const n5 = [
   },
   {
     question: '土曜日',
-    answer: 'doyōbi',
+    answer: 'doyobi',
     explantion: '\n      汉字: 土曜日\n      读音: どようび\n      意思: Saturday\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1689,7 +1689,7 @@ const n5 = [
   },
   {
     question: '動物',
-    answer: 'dōbutsu',
+    answer: 'dobutsu',
     explantion: '\n      汉字: 動物\n      读音: どうぶつ\n      意思: animal\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1739,7 +1739,7 @@ const n5 = [
   },
   {
     question: '二日',
-    answer: 'ninichi',
+    answer: 'futsuka',
     explantion: '\n      汉字: 二日\n      读音: ふつか\n      意思: two days\n      来源:  second day of the month\n      同义词: 二日, ２日\n    ',
   },
   {
@@ -1754,7 +1754,7 @@ const n5 = [
   },
   {
     question: '日曜日',
-    answer: 'nichiyōbi',
+    answer: 'nichiyobi',
     explantion: '\n      汉字: 日曜日\n      读音: にちようび\n      意思: Sunday\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1819,7 +1819,7 @@ const n5 = [
   },
   {
     question: '八日',
-    answer: 'hachinichi',
+    answer: 'yoka',
     explantion: '\n      汉字: 八日\n      读音: ようか\n      意思: eight days\n      来源:  eighth day of the month\n      同义词: 八日, ８日\n    ',
   },
   {
@@ -1834,7 +1834,7 @@ const n5 = [
   },
   {
     question: '半分',
-    answer: 'hambun',
+    answer: 'hanbun',
     explantion: '\n      汉字: 半分\n      读音: はんぶん\n      意思: half minute\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1849,7 +1849,7 @@ const n5 = [
   },
   {
     question: '番号',
-    answer: 'bangō',
+    answer: 'bangou',
     explantion: '\n      汉字: 番号\n      读音: ばんごう\n      意思: number\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1859,7 +1859,7 @@ const n5 = [
   },
   {
     question: '飛行機',
-    answer: 'hikōki',
+    answer: 'hikoki',
     explantion: '\n      汉字: 飛行機\n      读音: ひこうき\n      意思: aeroplane\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1874,12 +1874,12 @@ const n5 = [
   },
   {
     question: '病院',
-    answer: 'byōin',
+    answer: 'byoin',
     explantion: '\n      汉字: 病院\n      读音: びょういん\n      意思: hospital\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '病気',
-    answer: 'byōki',
+    answer: 'byoki',
     explantion: '\n      汉字: 病気\n      读音: びょうき\n      意思: illness\n      来源: waller\n      同义词: 病氣\n    ',
   },
   {
@@ -1899,7 +1899,7 @@ const n5 = [
   },
   {
     question: '封筒',
-    answer: 'fūtō',
+    answer: 'fuutou',
     explantion: '\n      汉字: 封筒\n      读音: ふうとう\n      意思: envelope\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1924,7 +1924,7 @@ const n5 = [
   },
   {
     question: '文章',
-    answer: 'bunshō',
+    answer: 'bunsho',
     explantion: '\n      汉字: 文章\n      读音: ぶんしょう\n      意思: sentence\n      来源: text\n      同义词: 文章, 文章, 文章\n    ',
   },
   {
@@ -1949,7 +1949,7 @@ const n5 = [
   },
   {
     question: '辺',
-    answer: 'atari',
+    answer: 'hen',
     explantion: '\n      汉字: 辺\n      读音: へん\n      意思: area\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1964,12 +1964,12 @@ const n5 = [
   },
   {
     question: '勉強',
-    answer: 'benkyō',
+    answer: 'benkyo',
     explantion: '\n      汉字: 勉強\n      读音: べんきょう\n      意思: to study\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: 'お弁当',
-    answer: 'obentō',
+    answer: 'obento',
     explantion: '\n      汉字: お弁当\n      读音: おべんとう\n      意思: boxed lunch\n      来源: waller\n      同义词: 御弁当\n    ',
   },
   {
@@ -1979,17 +1979,17 @@ const n5 = [
   },
   {
     question: '方',
-    answer: 'hō',
+    answer: 'kata',
     explantion: '\n      汉字: 方\n      读音: かた\n      意思: person\n      来源:  way of doing\n      同义词: 方\n    ',
   },
   {
     question: '方',
-    answer: 'hō',
+    answer: 'ho',
     explantion: '\n      汉字: 方\n      读音: ほう\n      意思: Used for comparison.\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '帽子',
-    answer: 'bōshi',
+    answer: 'boushi',
     explantion: '\n      汉字: 帽子\n      读音: ぼうし\n      意思: hat\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2019,7 +2019,7 @@ const n5 = [
   },
   {
     question: '本当',
-    answer: 'hontō',
+    answer: 'honto',
     explantion: '\n      汉字: 本当\n      读音: ほんとう\n      意思: truth\n      来源: waller\n      同义词: 本当, 本當, 本當, , , \n    ',
   },
   {
@@ -2029,12 +2029,12 @@ const n5 = [
   },
   {
     question: '妹',
-    answer: 'imōto',
+    answer: 'imoto',
     explantion: '\n      汉字: 妹\n      读音: いもうと\n      意思: (humble) younger sister\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '毎週',
-    answer: 'maishū',
+    answer: 'maishu',
     explantion: '\n      汉字: 毎週\n      读音: まいしゅう\n      意思: every week\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2074,7 +2074,7 @@ const n5 = [
   },
   {
     question: '明い',
-    answer: 'akai',
+    answer: 'akarui',
     explantion: '\n      汉字: 明い\n      读音: あかるい\n      意思: bright\n      来源: waller\n      同义词: 明るい\n    ',
   },
   {
@@ -2089,7 +2089,7 @@ const n5 = [
   },
   {
     question: '木曜日',
-    answer: 'mokuyōbi',
+    answer: 'mokuyobi',
     explantion: '\n      汉字: 木曜日\n      读音: もくようび\n      意思: Thursday\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2119,7 +2119,7 @@ const n5 = [
   },
   {
     question: '有名',
-    answer: 'yūmei',
+    answer: 'yuumei',
     explantion: '\n      汉字: 有名\n      读音: ゆうめい\n      意思: famous\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2129,22 +2129,22 @@ const n5 = [
   },
   {
     question: '郵便局',
-    answer: 'yūbinkyoku',
+    answer: 'yuubinkyoku',
     explantion: '\n      汉字: 郵便局\n      读音: ゆうびんきょく\n      意思: post office\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '昨夜',
-    answer: 'sakuya',
+    answer: 'yube',
     explantion: '\n      汉字: 昨夜\n      读音: ゆうべ\n      意思: last night\n      来源: waller\n      同义词: 夕べ, 昨夜, 昨夜\n    ',
   },
   {
     question: '夕方',
-    answer: 'yūgata',
+    answer: 'yuugata',
     explantion: '\n      汉字: 夕方\n      读音: ゆうがた\n      意思: evening\n      来源: waller\n      同义词: 夕がた\n    ',
   },
   {
     question: '洋服',
-    answer: 'yōfuku',
+    answer: 'yofuku',
     explantion: '\n      汉字: 洋服\n      读音: ようふく\n      意思: western-style clothes\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2174,7 +2174,7 @@ const n5 = [
   },
   {
     question: '来週',
-    answer: 'raishū',
+    answer: 'raishu',
     explantion: '\n      汉字: 来週\n      读音: らいしゅう\n      意思: next week\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2199,17 +2199,17 @@ const n5 = [
   },
   {
     question: '留学生',
-    answer: 'ryūgakusei',
+    answer: 'ryugakusei',
     explantion: '\n      汉字: 留学生\n      读音: りゅうがくせい\n      意思: overseas student\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '旅行',
-    answer: 'ryokō',
+    answer: 'riyokou',
     explantion: '\n      汉字: 旅行\n      读音: りょこう\n      意思: travel\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '料理',
-    answer: 'ryōri',
+    answer: 'ryori',
     explantion: '\n      汉字: 料理\n      读音: りょうり\n      意思: cuisine\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2234,7 +2234,7 @@ const n5 = [
   },
   {
     question: '冷蔵庫',
-    answer: 'reizōko',
+    answer: 'reizouko',
     explantion: '\n      汉字: 冷蔵庫\n      读音: れいぞうこ\n      意思: refrigerator\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2244,17 +2244,17 @@ const n5 = [
   },
   {
     question: '練習',
-    answer: 'renshū',
+    answer: 'renshu',
     explantion: '\n      汉字: 練習\n      读音: れんしゅう\n      意思: to practice\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '廊下',
-    answer: 'rōka',
+    answer: 'roka',
     explantion: '\n      汉字: 廊下\n      读音: ろうか\n      意思: corridor\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '六日',
-    answer: 'rokunichi',
+    answer: 'muika',
     explantion: '\n      汉字: 六日\n      读音: むいか\n      意思: six days\n      来源:  sixth day of the month\n      同义词: 六日, 六日, 六日, ６日, ６日, ６日\n    ',
   },
   {
@@ -2269,12 +2269,12 @@ const n5 = [
   },
   {
     question: '一昨年',
-    answer: 'issakunen',
+    answer: 'ototoshi',
     explantion: '\n      汉字: 一昨年\n      读音: おととし\n      意思: year before last\n      来源: waller\n      同义词: 一昨年, おと年\n    ',
   },
   {
     question: '一人',
-    answer: 'ichinin',
+    answer: 'hitori',
     explantion: '\n      汉字: 一人\n      读音: ひとり\n      意思: one person\n      来源: waller\n      同义词: , 一人, １人, １人, 独り\n    ',
   },
   {
@@ -2309,7 +2309,7 @@ const n5 = [
   },
   {
     question: '居る',
-    answer: 'oru',
+    answer: 'iru',
     explantion: '\n      汉字: 居る\n      读音: いる\n      意思: to be\n      来源:  to have (used for people and animals)\n      同义词: 居る\n    ',
   },
   {
@@ -2319,12 +2319,12 @@ const n5 = [
   },
   {
     question: '九',
-    answer: 'kyū',
+    answer: 'ku',
     explantion: '\n      汉字: 九\n      读音: く\n      意思: Nine\n      来源: waller\n      同义词: 九, 九, 九, ９, ９, ９, ９, ９, 玖, 玖, 玖, 玖, 玖\n    ',
   },
   {
     question: '行く',
-    answer: 'iku',
+    answer: 'yuku',
     explantion: '\n      汉字: 行く\n      读音: ゆく\n      意思: to go\n      来源: waller\n      同义词: , , 逝く, 逝く, 往く, 往く\n    ',
   },
   {
@@ -2334,7 +2334,7 @@ const n5 = [
   },
   {
     question: '今日',
-    answer: 'kyō',
+    answer: 'kyo',
     explantion: '\n      汉字: 今日\n      读音: きょう\n      意思: Today\n      来源: waller\n      同义词: 今日, 今日, 今日\n    ',
   },
   {
@@ -2344,7 +2344,7 @@ const n5 = [
   },
   {
     question: '昨日',
-    answer: 'kinō',
+    answer: 'kino',
     explantion: '\n      汉字: 昨日\n      读音: きのう\n      意思: Yesterday\n      来源: waller\n      同义词: 昨日\n    ',
   },
   {
@@ -2359,12 +2359,12 @@ const n5 = [
   },
   {
     question: '七日',
-    answer: 'nananichi',
+    answer: 'nanoka',
     explantion: '\n      汉字: 七日\n      读音: なのか\n      意思: seven days\n      来源: the seventh day\n      同义词: 七日, 七日, ７日, ７日\n    ',
   },
   {
     question: '十',
-    answer: 'jū',
+    answer: 'to',
     explantion: '\n      汉字: 十\n      读音: とお\n      意思: Ten\n      来源: waller\n      同义词: 十, １０, １０, 拾, 一〇\n    ',
   },
   {
@@ -2374,7 +2374,7 @@ const n5 = [
   },
   {
     question: '丈夫',
-    answer: 'jōbu',
+    answer: 'jobu',
     explantion: '\n      汉字: 丈夫\n      读音: じょうぶ\n      意思: strong\n      来源:  durable\n      同义词: 丈夫\n    ',
   },
   {
@@ -2384,7 +2384,7 @@ const n5 = [
   },
   {
     question: '弟',
-    answer: 'otōto',
+    answer: 'otouto',
     explantion: '\n      汉字: 弟\n      读音: おとうと\n      意思: younger brother\n      来源: waller\n      同义词: 弟\n    ',
   },
   {
@@ -2399,7 +2399,7 @@ const n5 = [
   },
   {
     question: '二人',
-    answer: 'ninin',
+    answer: 'futari',
     explantion: '\n      汉字: 二人\n      读音: ふたり\n      意思: two people\n      来源: waller\n      同义词: 二人, ２人, ２人\n    ',
   },
   {
@@ -2409,12 +2409,12 @@ const n5 = [
   },
   {
     question: '此の',
-    answer: '此no',
+    answer: 'kono',
     explantion: '\n      汉字: 此の\n      读音: この\n      意思: This\n      来源: waller\n      同义词: , 斯の, \n    ',
   },
   {
     question: '八',
-    answer: 'hachi',
+    answer: 'wachi',
     explantion: '\n      汉字: 八\n      读音: はち\n      意思: eight\n      来源: waller\n      同义词: 八, ８, ８, 捌, 捌\n    ',
   },
   {
@@ -2439,7 +2439,7 @@ const n5 = [
   },
   {
     question: '万',
-    answer: 'ban',
+    answer: 'man',
     explantion: '\n      汉字: 万\n      读音: まん\n      意思: ten thousand\n      来源: waller\n      同义词: 万, 萬, 萬\n    ',
   },
   {
@@ -2454,7 +2454,7 @@ const n5 = [
   },
   {
     question: '夕飯',
-    answer: 'yūhan',
+    answer: 'yuhan',
     explantion: '\n      汉字: 夕飯\n      读音: ゆうはん\n      意思: dinner\n      来源: waller\n      同义词: 夕飯\n    ',
   },
   {
@@ -2474,7 +2474,7 @@ const n5 = [
   },
   {
     question: '開く',
-    answer: 'hiraku',
+    answer: 'aku',
     explantion: '\n      汉字: 開く\n      读音: あく\n      意思: to open\n      来源:  to become open\n      同义词: 開く, 空く, 明く\n    ',
   },
   {
@@ -2504,7 +2504,7 @@ const n5 = [
   },
   {
     question: '大きい',
-    answer: 'ōkii',
+    answer: 'okii',
     explantion: '\n      汉字: 大きい\n      读音: おおきい\n      意思: big\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2539,7 +2539,7 @@ const n5 = [
   },
   {
     question: '交差点',
-    answer: 'kōsaten',
+    answer: 'kosaten',
     explantion: '\n      汉字: 交差点\n      读音: こうさてん\n      意思: intersection\n      来源: waller\n      同义词: 交叉点\n    ',
   },
   {
@@ -2569,12 +2569,12 @@ const n5 = [
   },
   {
     question: '二十歳',
-    answer: 'nijūsai',
+    answer: 'hatachi',
     explantion: '\n      汉字: 二十歳\n      读音: はたち\n      意思: 20 years old\n      来源: 20th year\n      同义词: 二十歳, ２０歳, 二十, 廿\n    ',
   },
   {
     question: '二十日',
-    answer: 'nijūnichi',
+    answer: 'hatsuka',
     explantion: '\n      汉字: 二十日\n      读音: はつか\n      意思: twenty days\n      来源: twentieth\n      同义词: 二十日, ２０日, 廿日\n    ',
   },
   {
@@ -2594,7 +2594,7 @@ const n5 = [
   },
   {
     question: '両親',
-    answer: 'ryōshin',
+    answer: 'ryoshin',
     explantion: '\n      汉字: 両親\n      读音: りょうしん\n      意思: both parents\n      来源: waller\n      同义词: 両親\n    ',
   },
   {
@@ -2634,12 +2634,12 @@ const n5 = [
   },
   {
     question: '何の',
-    answer: 'nanino',
+    answer: 'dono',
     explantion: '\n      汉字: 何の\n      读音: どの\n      意思: which\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: 'もう一度',
-    answer: 'mōichido',
+    answer: 'moichido',
     explantion: '\n      汉字: もう一度\n      读音: もういちど\n      意思: again\n      来源: waller\n      同义词: もう１度\n    ',
   },
   {
@@ -2649,7 +2649,7 @@ const n5 = [
   },
   {
     question: '小さな',
-    answer: 'chīsana',
+    answer: 'chisana',
     explantion: '\n      汉字: 小さな\n      读音: ちいさな\n      意思: little\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2664,7 +2664,7 @@ const n5 = [
   },
   {
     question: '一日',
-    answer: 'ichinichi',
+    answer: 'tsuitachi',
     explantion: '\n      汉字: 一日\n      读音: ついたち\n      意思: first of month\n      来源: waller\n      同义词: 一日, １日, 朔日, 朔日, 朔\n    ',
   },
   {
@@ -2674,12 +2674,12 @@ const n5 = [
   },
   {
     question: '私',
-    answer: 'watashi',
+    answer: 'watakushi',
     explantion: '\n      汉字: 私\n      读音: わたくし\n      意思: (humble) I\n      来源: myself\n      同义词: 私\n    ',
   },
   {
     question: '何',
-    answer: 'nani',
+    answer: 'nan',
     explantion: '\n      汉字: 何\n      读音: なん\n      意思: what\n      来源: waller\n      同义词: \n    ',
   },
 ]

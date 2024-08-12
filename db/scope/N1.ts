@@ -4,12 +4,12 @@ import type { QuestionList } from '~/types'
 const n1 = [
   {
     question: '明白',
-    answer: 'meihaku',
+    answer: 'akarasama',
     explantion: '\n      汉字: 明白\n      读音: あからさま\n      意思: obvious\n      来源:  overt\n      同义词: 明白, , 偸閑, 白地\n    ',
   },
   {
     question: '悪どい',
-    answer: 'warudoi',
+    answer: 'akudoi',
     explantion: '\n      汉字: 悪どい\n      读音: あくどい\n      意思: 1. gaudy\n      来源:  showy\n      同义词: 悪どい, \n    ',
   },
   {
@@ -19,7 +19,7 @@ const n1 = [
   },
   {
     question: '彼の',
-    answer: 'kareno',
+    answer: 'ano',
     explantion: '\n      汉字: 彼の\n      读音: あの\n      意思: that over there\n      来源: waller\n      同义词: , \n    ',
   },
   {
@@ -34,7 +34,7 @@ const n1 = [
   },
   {
     question: '鱝',
-    answer: '鱝',
+    answer: 'ei',
     explantion: '\n      汉字: 鱝\n      读音: えい\n      意思: ray (fish)\n      来源: waller\n      同义词: , 鱏, 海鷂魚, \n    ',
   },
   {
@@ -84,7 +84,7 @@ const n1 = [
   },
   {
     question: '御手洗い',
-    answer: 'gotearai',
+    answer: 'otearai',
     explantion: '\n      汉字: 御手洗い\n      读音: おてあらい\n      意思: toilet\n      来源:  restroom\n      同义词: 御手洗い\n    ',
   },
   {
@@ -104,12 +104,12 @@ const n1 = [
   },
   {
     question: 'お祖父さん',
-    answer: 'ojīsan',
+    answer: 'ojisan',
     explantion: '\n      汉字: お祖父さん\n      读音: おじいさん\n      意思: grandfather\n      来源:  male senior-citizen\n      同义词: お祖父さん\n    ',
   },
   {
     question: 'お祖母さん',
-    answer: 'obāsan',
+    answer: 'obasan',
     explantion: '\n      汉字: お祖母さん\n      读音: おばあさん\n      意思: grandmother\n      来源:  female senior-citizen\n      同义词: お祖母さん\n    ',
   },
   {
@@ -139,17 +139,17 @@ const n1 = [
   },
   {
     question: '屹度',
-    answer: '屹do',
+    answer: 'kitto',
     explantion: '\n      汉字: 屹度\n      读音: きっと\n      意思: 1. (uk) surely\n      来源:  undoubtedly\n      同义词: 屹度\n    ',
   },
   {
     question: '嚏',
-    answer: '嚏',
+    answer: 'kushami',
     explantion: '\n      汉字: 嚏\n      读音: くしゃみ\n      意思: sneeze\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '擽ぐったい',
-    answer: 'kusuguguttai',
+    answer: 'kusuguttai',
     explantion: '\n      汉字: 擽ぐったい\n      读音: くすぐったい\n      意思: ticklish\n      来源: waller\n      同义词: , 擽ったい\n    ',
   },
   {
@@ -169,7 +169,7 @@ const n1 = [
   },
   {
     question: '拘る',
-    answer: 'kakawaru',
+    answer: 'kodawaru',
     explantion: '\n      汉字: 拘る\n      读音: こだわる\n      意思: to fuss over\n      来源:  to be particular about\n      同义词: 拘る, , 拘わる\n    ',
   },
   {
@@ -179,27 +179,27 @@ const n1 = [
   },
   {
     question: 'この間',
-    answer: 'konokan',
+    answer: 'konoaida',
     explantion: '\n      汉字: この間\n      读音: このあいだ\n      意思: the other day\n      来源:  lately\n      同义词: この間\n    ',
   },
   {
     question: 'この頃',
-    answer: 'konokoro',
+    answer: 'konogoro',
     explantion: '\n      汉字: この頃\n      读音: このごろ\n      意思: recently\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '此れ等',
-    answer: '此retō',
+    answer: 'korera',
     explantion: '\n      汉字: 此れ等\n      读音: これら\n      意思: these\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: 'ご苦労様',
-    answer: 'gokurōsama',
+    answer: 'gokurosama',
     explantion: '\n      汉字: ご苦労様\n      读音: ごくろうさま\n      意思: Thank you very much for your....\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '颯っと',
-    answer: '颯tto',
+    answer: 'satto',
     explantion: '\n      汉字: 颯っと\n      读音: さっと\n      意思: quickly\n      来源:  suddenly\n      同义词: 颯っと, , 颯と\n    ',
   },
   {
@@ -214,12 +214,12 @@ const n1 = [
   },
   {
     question: '泌み泌み',
-    answer: '泌mi泌mi',
+    answer: 'shimijimi',
     explantion: '\n      汉字: 泌み泌み\n      读音: しみじみ\n      意思: keenly\n      来源:  deeply\n      同义词: 泌み泌み\n    ',
   },
   {
     question: '吃逆',
-    answer: 'domogyaku',
+    answer: 'shakkuri',
     explantion: '\n      汉字: 吃逆\n      读音: しゃっくり\n      意思: hiccough\n      来源:  hiccup\n      同义词: 吃逆\n    ',
   },
   {
@@ -234,17 +234,17 @@ const n1 = [
   },
   {
     question: '其処ら',
-    answer: '其shora',
+    answer: 'sokora',
     explantion: '\n      汉字: 其処ら\n      读音: そこら\n      意思: everywhere\n      来源:  somewhere\n      同义词: 其処ら, \n    ',
   },
   {
     question: '然して',
-    answer: 'shikashite',
+    answer: 'soshite',
     explantion: '\n      汉字: 然して\n      读音: そして\n      意思: and\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '其方',
-    answer: '其kata',
+    answer: 'sochira',
     explantion: '\n      汉字: 其方\n      读音: そちら\n      意思: over there\n      来源:  the other\n      同义词: 其方\n    ',
   },
   {
@@ -259,7 +259,7 @@ const n1 = [
   },
   {
     question: 'その外',
-    answer: 'sonosoto',
+    answer: 'sonohoka',
     explantion: '\n      汉字: その外\n      读音: そのほか\n      意思: besides\n      来源:  in addition\n      同义词: その外\n    ',
   },
   {
@@ -269,52 +269,52 @@ const n1 = [
   },
   {
     question: '其れ',
-    answer: '其re',
+    answer: 'sore',
     explantion: '\n      汉字: 其れ\n      读音: それ\n      意思: it\n      来源:  that\n      同义词: 其れ, , 其\n    ',
   },
   {
     question: '其れから',
-    answer: '其rekara',
+    answer: 'sorekara',
     explantion: '\n      汉字: 其れから\n      读音: それから\n      意思: and then\n      来源:  after that\n      同义词: 其れから\n    ',
   },
   {
     question: '其れで',
-    answer: '其rede',
+    answer: 'sorede',
     explantion: '\n      汉字: 其れで\n      读音: それで\n      意思: and (conj)\n      来源:  thereupon\n      同义词: 其れで\n    ',
   },
   {
     question: '其れ共',
-    answer: '其retomo',
+    answer: 'soretomo',
     explantion: '\n      汉字: 其れ共\n      读音: それとも\n      意思: or\n      来源:  or else\n      同义词: 其れ共\n    ',
   },
   {
     question: '其れに',
-    answer: '其reni',
+    answer: 'soreni',
     explantion: '\n      汉字: 其れに\n      读音: それに\n      意思: besides\n      来源:  moreover\n      同义词: 其れに\n    ',
   },
   {
     question: '其れ程',
-    answer: '其rehodo',
+    answer: 'sorehodo',
     explantion: '\n      汉字: 其れ程\n      读音: それほど\n      意思: to that degree\n      来源:  extent\n      同义词: 其れ程\n    ',
   },
   {
     question: '丈',
-    answer: 'take',
+    answer: 'dake',
     explantion: '\n      汉字: 丈\n      读音: だけ\n      意思: only\n      来源:  just\n      同义词: 丈, \n    ',
   },
   {
     question: '怠い',
-    answer: 'okotai',
+    answer: 'darui',
     explantion: '\n      汉字: 怠い\n      读音: だるい\n      意思: sluggish\n      来源:  feel heavy\n      同义词: 怠い, , , 怠い, 懈い, 懈い, \n    ',
   },
   {
     question: '些とも',
-    answer: '些tomo',
+    answer: 'chittomo',
     explantion: '\n      汉字: 些とも\n      读音: ちっとも\n      意思: not at all (neg. verb)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '詰らない',
-    answer: 'najiranai',
+    answer: 'tsumaranai',
     explantion: '\n      汉字: 詰らない\n      读音: つまらない\n      意思: insignificant\n      来源:  boring\n      同义词: 詰らない\n    ',
   },
   {
@@ -324,17 +324,17 @@ const n1 = [
   },
   {
     question: '迚も',
-    answer: '迚mo',
+    answer: 'totemo',
     explantion: '\n      汉字: 迚も\n      读音: とても\n      意思: very\n      来源:  awfully\n      同义词: 迚も\n    ',
   },
   {
     question: 'どうぞ宜しく',
-    answer: 'dōzoyoroshiku',
+    answer: 'dozoyoroshiku',
     explantion: '\n      汉字: どうぞ宜しく\n      读音: どうぞよろしく\n      意思: pleased to meet you\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '何れ',
-    answer: 'izure',
+    answer: 'dore',
     explantion: '\n      汉字: 何れ\n      读音: どれ\n      意思: well\n      来源:  now\n      同义词: 何れ\n    ',
   },
   {
@@ -349,12 +349,12 @@ const n1 = [
   },
   {
     question: '延いては',
-    answer: 'nobeitewa',
+    answer: 'hitewa',
     explantion: '\n      汉字: 延いては\n      读音: ひいては\n      意思: not only...but also\n      来源:  in addition to\n      同义词: 延いては, \n    ',
   },
   {
     question: '一向',
-    answer: 'ikkō',
+    answer: 'hitasura',
     explantion: '\n      汉字: 一向\n      读音: ひたすら\n      意思: earnestly\n      来源: waller\n      同义词: , 只管, 頓\n    ',
   },
   {
@@ -369,22 +369,22 @@ const n1 = [
   },
   {
     question: '間誤付く',
-    answer: 'maayamatsuku',
+    answer: 'magotsuku',
     explantion: '\n      汉字: 間誤付く\n      读音: まごつく\n      意思: to be confused\n      来源:  to be flustered\n      同义词: 間誤付く, \n    ',
   },
   {
     question: '忠実',
-    answer: 'chūjitsu',
+    answer: 'chiyuujitsu',
     explantion: '\n      汉字: 忠実\n      读音: ちゅうじつ\n      意思: fidelity\n      来源:  faithfulness\n      同义词: 忠実\n    ',
   },
   {
     question: '藻掻く',
-    answer: 'mokaku',
+    answer: 'mogaku',
     explantion: '\n      汉字: 藻掻く\n      读音: もがく\n      意思: to struggle\n      来源:  to wriggle\n      同义词: 藻掻く, , 踠く, 藻搔く\n    ',
   },
   {
     question: '若し',
-    answer: 'wakashi',
+    answer: 'moshi',
     explantion: '\n      汉字: 若し\n      读音: もし\n      意思: if\n      来源:  in case\n      同义词: 若し, \n    ',
   },
   {
@@ -414,7 +414,7 @@ const n1 = [
   },
   {
     question: '矢っ張り',
-    answer: 'yatsuhari',
+    answer: 'yappari',
     explantion: '\n      汉字: 矢っ張り\n      读音: やっぱり\n      意思: also\n      来源:  as I thought\n      同义词: 矢っ張り\n    ',
   },
   {
@@ -424,32 +424,32 @@ const n1 = [
   },
   {
     question: '亜爾加里',
-    answer: 'ananjikari',
+    answer: 'arukari',
     explantion: '\n      汉字: 亜爾加里\n      读音: アルカリ\n      意思: alkali\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: 'ＯＫ',
-    answer: 'ＯＫ',
+    answer: 'oke',
     explantion: '\n      汉字: ＯＫ\n      读音: オーケー\n      意思: OK\n      来源: waller\n      同义词: ＯＫ\n    ',
   },
   {
     question: 'Ｇパン',
-    answer: 'jīpan',
+    answer: 'jipan',
     explantion: '\n      汉字: Ｇパン\n      读音: ジーパン\n      意思: jeans (lit: jeans pants)\n      来源:  dungarees\n      同义词: Ｇパン, \n    ',
   },
   {
     question: '打',
-    answer: 'da',
+    answer: 'dasu',
     explantion: '\n      汉字: 打\n      读音: ダース\n      意思: dozen\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '発条',
-    answer: 'hatsujō',
+    answer: 'bane',
     explantion: '\n      汉字: 発条\n      读音: ばね\n      意思: spring (e.g. coil leaf)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: 'ローマ字',
-    answer: 'rōmaji',
+    answer: 'romaji',
     explantion: '\n      汉字: ローマ字\n      读音: ローマじ\n      意思: romanization\n      来源:  Roman letters\n      同义词: ローマ字\n    ',
   },
   {
@@ -459,7 +459,7 @@ const n1 = [
   },
   {
     question: '悪',
-    answer: 'waru',
+    answer: 'aku',
     explantion: '\n      汉字: 悪\n      读音: あく\n      意思: evil\n      来源:  wickedness\n      同义词: 悪, 惡\n    ',
   },
   {
@@ -474,7 +474,7 @@ const n1 = [
   },
   {
     question: '葦',
-    answer: 'ashi',
+    answer: 'yoshi',
     explantion: '\n      汉字: 葦\n      读音: よし\n      意思: reed\n      来源:  bulrush\n      同义词: 葦, , 葦, , 蘆, 蘆, 葭, 葭, 芦, 芦, , \n    ',
   },
   {
@@ -484,7 +484,7 @@ const n1 = [
   },
   {
     question: '圧力',
-    answer: 'atsuryoku',
+    answer: 'atsuriyoku',
     explantion: '\n      汉字: 圧力\n      读音: あつりょく\n      意思: stress\n      来源:  pressure\n      同义词: 圧力\n    ',
   },
   {
@@ -529,7 +529,7 @@ const n1 = [
   },
   {
     question: '案の定',
-    answer: 'annojō',
+    answer: 'annojo',
     explantion: '\n      汉字: 案の定\n      读音: あんのじょう\n      意思: sure enough\n      来源:  as usual\n      同义词: 案の定, 案の条, 案の上\n    ',
   },
   {
@@ -539,7 +539,7 @@ const n1 = [
   },
   {
     question: '以て',
-    answer: '以te',
+    answer: 'motsute',
     explantion: '\n      汉字: 以て\n      读音: もって\n      意思: with\n      来源:  by\n      同义词: 以て, , 以って\n    ',
   },
   {
@@ -554,7 +554,7 @@ const n1 = [
   },
   {
     question: '尉',
-    answer: 'jō',
+    answer: 'jiyou',
     explantion: '\n      汉字: 尉\n      读音: じょう\n      意思: jailer\n      来源:  old man\n      同义词: 尉\n    ',
   },
   {
@@ -599,7 +599,7 @@ const n1 = [
   },
   {
     question: '異動',
-    answer: 'idō',
+    answer: 'ido',
     explantion: '\n      汉字: 異動\n      读音: いどう\n      意思: a change\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -609,12 +609,12 @@ const n1 = [
   },
   {
     question: '移行',
-    answer: 'ikō',
+    answer: 'iko',
     explantion: '\n      汉字: 移行\n      读音: いこう\n      意思: switching over to\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '移住',
-    answer: 'ijū',
+    answer: 'iju',
     explantion: '\n      汉字: 移住\n      读音: いじゅう\n      意思: migration\n      来源:  immigration\n      同义词: 移住\n    ',
   },
   {
@@ -629,12 +629,12 @@ const n1 = [
   },
   {
     question: '衣装',
-    answer: 'ishō',
+    answer: 'isho',
     explantion: '\n      汉字: 衣装\n      读音: いしょう\n      意思: clothing\n      来源:  costume\n      同义词: 衣装, 衣裳\n    ',
   },
   {
     question: '衣料',
-    answer: 'iryō',
+    answer: 'iryo',
     explantion: '\n      汉字: 衣料\n      读音: いりょう\n      意思: clothing\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -684,7 +684,7 @@ const n1 = [
   },
   {
     question: '一寸',
-    answer: 'issun',
+    answer: 'chotto',
     explantion: '\n      汉字: 一寸\n      读音: ちょっと\n      意思: (ateji) (adv int) (uk) just a minute\n      来源:  a short time\n      同义词: 一寸\n    ',
   },
   {
@@ -704,17 +704,17 @@ const n1 = [
   },
   {
     question: '一定',
-    answer: 'ittei',
+    answer: 'ichijiyou',
     explantion: '\n      汉字: 一定\n      读音: いちじょう\n      意思: fixed\n      来源:  settled\n      同义词: 一定\n    ',
   },
   {
     question: '一同',
-    answer: 'ichidō',
+    answer: 'ichidou',
     explantion: '\n      汉字: 一同\n      读音: いちどう\n      意思: all present\n      来源:  all concerned\n      同义词: 一同\n    ',
   },
   {
     question: '一敗',
-    answer: 'ichihai',
+    answer: 'ippai',
     explantion: '\n      汉字: 一敗\n      读音: いっぱい\n      意思: one defeat\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -744,7 +744,7 @@ const n1 = [
   },
   {
     question: '一様',
-    answer: 'ichiyō',
+    answer: 'ichiyo',
     explantion: '\n      汉字: 一様\n      读音: いちよう\n      意思: uniformity\n      来源:  evenness\n      同义词: 一様\n    ',
   },
   {
@@ -774,7 +774,7 @@ const n1 = [
   },
   {
     question: '印',
-    answer: 'shirushi',
+    answer: 'in',
     explantion: '\n      汉字: 印\n      读音: いん\n      意思: seal\n      来源:  stamp\n      同义词: 印\n    ',
   },
   {
@@ -849,7 +849,7 @@ const n1 = [
   },
   {
     question: '運営',
-    answer: 'un\'ei',
+    answer: 'unei',
     explantion: '\n      汉字: 運営\n      读音: うんえい\n      意思: management\n      来源:  administration\n      同义词: 運営\n    ',
   },
   {
@@ -864,17 +864,17 @@ const n1 = [
   },
   {
     question: '運命',
-    answer: 'ummei',
+    answer: 'unmei',
     explantion: '\n      汉字: 運命\n      读音: うんめい\n      意思: fate\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '運輸',
-    answer: 'un\'yu',
+    answer: 'unyu',
     explantion: '\n      汉字: 運輸\n      读音: うんゆ\n      意思: transportation\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '運用',
-    answer: 'un\'yō',
+    answer: 'unyo',
     explantion: '\n      汉字: 運用\n      读音: うんよう\n      意思: making use of\n      来源:  application\n      同义词: 運用\n    ',
   },
   {
@@ -889,7 +889,7 @@ const n1 = [
   },
   {
     question: '映像',
-    answer: 'eizō',
+    answer: 'eizou',
     explantion: '\n      汉字: 映像\n      读音: えいぞう\n      意思: reflection\n      来源:  image\n      同义词: 映像\n    ',
   },
   {
@@ -904,7 +904,7 @@ const n1 = [
   },
   {
     question: '英雄',
-    answer: 'eiyū',
+    answer: 'eiyuu',
     explantion: '\n      汉字: 英雄\n      读音: えいゆう\n      意思: hero\n      来源:  great man\n      同义词: 英雄\n    ',
   },
   {
@@ -924,7 +924,7 @@ const n1 = [
   },
   {
     question: '円満',
-    answer: 'emman',
+    answer: 'enman',
     explantion: '\n      汉字: 円満\n      读音: えんまん\n      意思: perfection\n      来源:  harmony\n      同义词: 円満\n    ',
   },
   {
@@ -939,7 +939,7 @@ const n1 = [
   },
   {
     question: '沿う',
-    answer: 'sou',
+    answer: 'so',
     explantion: '\n      汉字: 沿う\n      读音: そう\n      意思: to run along\n      来源:  to follow\n      同义词: 沿う\n    ',
   },
   {
@@ -964,7 +964,7 @@ const n1 = [
   },
   {
     question: '演習',
-    answer: 'enshū',
+    answer: 'enshu',
     explantion: '\n      汉字: 演習\n      读音: えんしゅう\n      意思: practice\n      来源:  exercises\n      同义词: 演習\n    ',
   },
   {
@@ -999,17 +999,17 @@ const n1 = [
   },
   {
     question: '遠ざかる',
-    answer: 'tōzakaru',
+    answer: 'tozakaru',
     explantion: '\n      汉字: 遠ざかる\n      读音: とおざかる\n      意思: to go far off\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '遠回り',
-    answer: 'tōmawari',
+    answer: 'toomawari',
     explantion: '\n      汉字: 遠回り\n      读音: とおまわり\n      意思: detour\n      来源:  roundabout way\n      同义词: 遠回り, 遠まわり\n    ',
   },
   {
     question: '遠方',
-    answer: 'empō',
+    answer: 'enpo',
     explantion: '\n      汉字: 遠方\n      读音: えんぽう\n      意思: long way\n      来源:  distant place\n      同义词: 遠方, 遠方\n    ',
   },
   {
@@ -1034,12 +1034,12 @@ const n1 = [
   },
   {
     question: '汚れ',
-    answer: 'yogore',
+    answer: 'kegare',
     explantion: '\n      汉字: 汚れ\n      读音: けがれ\n      意思: uncleanness\n      来源:  impurity\n      同义词: 汚れ, 穢れ\n    ',
   },
   {
     question: '汚れる',
-    answer: 'yogoreru',
+    answer: 'kegareru',
     explantion: '\n      汉字: 汚れる\n      读音: けがれる\n      意思: to get dirty\n      来源:  to become dirty\n      同义词: 汚れる, 穢れる\n    ',
   },
   {
@@ -1049,12 +1049,12 @@ const n1 = [
   },
   {
     question: '応急',
-    answer: 'ōkyū',
+    answer: 'oukyu',
     explantion: '\n      汉字: 応急\n      读音: おうきゅう\n      意思: emergency\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '応募',
-    answer: 'ōbo',
+    answer: 'oubo',
     explantion: '\n      汉字: 応募\n      读音: おうぼ\n      意思: subscription\n      来源:  application\n      同义词: 応募\n    ',
   },
   {
@@ -1079,12 +1079,12 @@ const n1 = [
   },
   {
     question: '黄金',
-    answer: 'ōgon',
+    answer: 'ougon',
     explantion: '\n      汉字: 黄金\n      读音: おうごん\n      意思: gold\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '臆病',
-    answer: 'okubyō',
+    answer: 'okubyo',
     explantion: '\n      汉字: 臆病\n      读音: おくびょう\n      意思: cowardice\n      来源:  timidity\n      同义词: 臆病, 憶病, おく病\n    ',
   },
   {
@@ -1139,7 +1139,7 @@ const n1 = [
   },
   {
     question: '下吏',
-    answer: 'shimo吏',
+    answer: 'kari',
     explantion: '\n      汉字: 下吏\n      读音: かり\n      意思: lower official\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1159,7 +1159,7 @@ const n1 = [
   },
   {
     question: '化合',
-    answer: 'kagō',
+    answer: 'kago',
     explantion: '\n      汉字: 化合\n      读音: かごう\n      意思: chemical combination\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1189,7 +1189,7 @@ const n1 = [
   },
   {
     question: '何て',
-    answer: 'nanite',
+    answer: 'nante',
     explantion: '\n      汉字: 何て\n      读音: なんて\n      意思: how...!\n      来源:  what...!\n      同义词: 何て, \n    ',
   },
   {
@@ -1199,7 +1199,7 @@ const n1 = [
   },
   {
     question: '何なり',
-    answer: 'naninari',
+    answer: 'nannari',
     explantion: '\n      汉字: 何なり\n      读音: なんなり\n      意思: any\n      来源:  anything\n      同义词: 何なり\n    ',
   },
   {
@@ -1214,7 +1214,7 @@ const n1 = [
   },
   {
     question: '何れ何れ',
-    answer: 'izureizure',
+    answer: 'doredore',
     explantion: '\n      汉字: 何れ何れ\n      读音: どれどれ\n      意思: which (emphatic)\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1244,7 +1244,7 @@ const n1 = [
   },
   {
     question: '何方',
-    answer: 'donata',
+    answer: 'dochira',
     explantion: '\n      汉字: 何方\n      读音: どちら\n      意思: which\n      来源:  who\n      同义词: 何方\n    ',
   },
   {
@@ -1254,17 +1254,17 @@ const n1 = [
   },
   {
     question: '佳句',
-    answer: 'keiku',
+    answer: 'kaku',
     explantion: '\n      汉字: 佳句\n      读音: かく\n      意思: beautiful passage of literature\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '加工',
-    answer: 'kakō',
+    answer: 'kakou',
     explantion: '\n      汉字: 加工\n      读音: かこう\n      意思: manufacturing\n      来源:  processing\n      同义词: 加工\n    ',
   },
   {
     question: '加入',
-    answer: 'kanyū',
+    answer: 'kaniyuu',
     explantion: '\n      汉字: 加入\n      读音: かにゅう\n      意思: becoming a member\n      来源:  joining\n      同义词: 加入\n    ',
   },
   {
@@ -1294,7 +1294,7 @@ const n1 = [
   },
   {
     question: '家主',
-    answer: 'yanushi',
+    answer: 'ienushi',
     explantion: '\n      汉字: 家主\n      读音: いえぬし\n      意思: landlord\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1399,7 +1399,7 @@ const n1 = [
   },
   {
     question: '貨幣',
-    answer: 'kahei',
+    answer: 'kaei',
     explantion: '\n      汉字: 貨幣\n      读音: かへい\n      意思: money\n      来源:  currency\n      同义词: 貨幣\n    ',
   },
   {
@@ -1429,7 +1429,7 @@ const n1 = [
   },
   {
     question: '過労',
-    answer: 'karō',
+    answer: 'karo',
     explantion: '\n      汉字: 過労\n      读音: かろう\n      意思: overwork\n      来源:  strain\n      同义词: 過労\n    ',
   },
   {
@@ -1444,12 +1444,12 @@ const n1 = [
   },
   {
     question: '画',
-    answer: 'ga',
+    answer: 'kaku',
     explantion: '\n      汉字: 画\n      读音: かく\n      意思: stroke\n      来源: waller\n      同义词: 劃\n    ',
   },
   {
     question: '画期',
-    answer: 'gaki',
+    answer: 'kakki',
     explantion: '\n      汉字: 画期\n      读音: かっき\n      意思: epoch-making\n      来源: waller\n      同义词: 劃期\n    ',
   },
   {
@@ -1464,17 +1464,17 @@ const n1 = [
   },
   {
     question: '介入',
-    answer: 'kainyū',
+    answer: 'kainiyuu',
     explantion: '\n      汉字: 介入\n      读音: かいにゅう\n      意思: intervention\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '介抱',
-    answer: 'kaihō',
+    answer: 'kaiho',
     explantion: '\n      汉字: 介抱\n      读音: かいほう\n      意思: nursing\n      来源:  looking after\n      同义词: 介抱\n    ',
   },
   {
     question: '会',
-    answer: 'kai',
+    answer: 'e',
     explantion: '\n      汉字: 会\n      读音: え\n      意思: understanding\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1489,27 +1489,27 @@ const n1 = [
   },
   {
     question: '解く',
-    answer: 'toku',
+    answer: 'hodoku',
     explantion: '\n      汉字: 解く\n      读音: ほどく\n      意思: to unfasten\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '解除',
-    answer: 'kaijo',
+    answer: 'kaijiyo',
     explantion: '\n      汉字: 解除\n      读音: かいじょ\n      意思: cancellation\n      来源:  rescinding\n      同义词: 解除\n    ',
   },
   {
     question: '解剖',
-    answer: 'kaibō',
+    answer: 'kaibou',
     explantion: '\n      汉字: 解剖\n      读音: かいぼう\n      意思: dissection\n      来源:  autopsy\n      同义词: 解剖\n    ',
   },
   {
     question: '回収',
-    answer: 'kaishū',
+    answer: 'kaishu',
     explantion: '\n      汉字: 回収\n      读音: かいしゅう\n      意思: collection\n      来源:  recovery\n      同义词: 回収\n    ',
   },
   {
     question: '回送',
-    answer: 'kaisō',
+    answer: 'kaiso',
     explantion: '\n      汉字: 回送\n      读音: かいそう\n      意思: forwarding\n      来源: waller\n      同义词: 廻送\n    ',
   },
   {
@@ -1529,12 +1529,12 @@ const n1 = [
   },
   {
     question: '怪獣',
-    answer: 'kaijū',
+    answer: 'kaiju',
     explantion: '\n      汉字: 怪獣\n      读音: かいじゅう\n      意思: monster\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '懐く',
-    answer: 'idaku',
+    answer: 'natsuku',
     explantion: '\n      汉字: 懐く\n      读音: なつく\n      意思: to become emotionally attached\n      来源: waller\n      同义词: , , 懐く, , 懐く\n    ',
   },
   {
@@ -1554,7 +1554,7 @@ const n1 = [
   },
   {
     question: '改修',
-    answer: 'kaishū',
+    answer: 'kaishu',
     explantion: '\n      汉字: 改修\n      读音: かいしゅう\n      意思: repair\n      来源:  improvement\n      同义词: 改修\n    ',
   },
   {
@@ -1569,7 +1569,7 @@ const n1 = [
   },
   {
     question: '改良',
-    answer: 'kairyō',
+    answer: 'kairyo',
     explantion: '\n      汉字: 改良\n      读音: かいりょう\n      意思: improvement\n      来源:  reform\n      同义词: 改良\n    ',
   },
   {
@@ -1579,7 +1579,7 @@ const n1 = [
   },
   {
     question: '海峡',
-    answer: 'kaikyō',
+    answer: 'kaikyo',
     explantion: '\n      汉字: 海峡\n      读音: かいきょう\n      意思: channel\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1589,12 +1589,12 @@ const n1 = [
   },
   {
     question: '海流',
-    answer: 'kairyū',
+    answer: 'kairyu',
     explantion: '\n      汉字: 海流\n      读音: かいりゅう\n      意思: ocean current\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '海路',
-    answer: 'kairo',
+    answer: 'umiji',
     explantion: '\n      汉字: 海路\n      读音: うみじ\n      意思: sea route\n      来源: waller\n      同义词: 海路, 海路\n    ',
   },
   {
@@ -1624,12 +1624,12 @@ const n1 = [
   },
   {
     question: '階級',
-    answer: 'kaikyū',
+    answer: 'kaikyu',
     explantion: '\n      汉字: 階級\n      读音: かいきゅう\n      意思: class\n      来源:  rank\n      同义词: 階級\n    ',
   },
   {
     question: '階層',
-    answer: 'kaisō',
+    answer: 'kaiso',
     explantion: '\n      汉字: 階層\n      读音: かいそう\n      意思: class\n      来源:  level\n      同义词: 階層\n    ',
   },
   {
@@ -1649,12 +1649,12 @@ const n1 = [
   },
   {
     question: '外相',
-    answer: 'gaishō',
+    answer: 'gaisho',
     explantion: '\n      汉字: 外相\n      读音: がいしょう\n      意思: Foreign Minister\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '外方',
-    answer: 'sotokata',
+    answer: 'soppo',
     explantion: '\n      汉字: 外方\n      读音: そっぽ\n      意思: look (or turn) the other way\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -1684,22 +1684,22 @@ const n1 = [
   },
   {
     question: '街',
-    answer: 'machi',
+    answer: 'gai',
     explantion: '\n      汉字: 街\n      读音: がい\n      意思: ~street\n      来源:  ~quarters\n      同义词: 街\n    ',
   },
   {
     question: '街頭',
-    answer: 'gaitō',
+    answer: 'gaitou',
     explantion: '\n      汉字: 街頭\n      读音: がいとう\n      意思: in the street\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '街道',
-    answer: 'kaidō',
+    answer: 'kaido',
     explantion: '\n      汉字: 街道\n      读音: かいどう\n      意思: highway\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '該当',
-    answer: 'gaitō',
+    answer: 'gaitou',
     explantion: '\n      汉字: 該当\n      读音: がいとう\n      意思: corresponding\n      来源:  answering to\n      同义词: 該当\n    ',
   },
   {
@@ -1874,7 +1874,7 @@ const n1 = [
   },
   {
     question: '乾',
-    answer: 'inui',
+    answer: 'hoshi',
     explantion: '\n      汉字: 乾\n      读音: ほし\n      意思: dried\n      来源:  cured\n      同义词: 乾, 干し, 乾し, 干\n    ',
   },
   {
@@ -1884,12 +1884,12 @@ const n1 = [
   },
   {
     question: '寒気',
-    answer: 'samuke',
+    answer: 'kanki',
     explantion: '\n      汉字: 寒気\n      读音: かんき\n      意思: cold\n      来源:  frost\n      同义词: 寒気, 寒気, 寒け\n    ',
   },
   {
     question: '刊行',
-    answer: 'kankō',
+    answer: 'kanko',
     explantion: '\n      汉字: 刊行\n      读音: かんこう\n      意思: publication\n      来源:  issue\n      同义词: 刊行\n    ',
   },
   {
@@ -1909,7 +1909,7 @@ const n1 = [
   },
   {
     question: '勧誘',
-    answer: 'kan\'yū',
+    answer: 'kanyuu',
     explantion: '\n      汉字: 勧誘\n      读音: かんゆう\n      意思: invitation\n      来源:  solicitation\n      同义词: 勧誘\n    ',
   },
   {
@@ -1934,17 +1934,17 @@ const n1 = [
   },
   {
     question: '官僚',
-    answer: 'kanryō',
+    answer: 'kanryo',
     explantion: '\n      汉字: 官僚\n      读音: かんりょう\n      意思: bureaucrat\n      来源:  bureaucracy\n      同义词: 官僚\n    ',
   },
   {
     question: '寛容',
-    answer: 'kan\'yō',
+    answer: 'kanyo',
     explantion: '\n      汉字: 寛容\n      读音: かんよう\n      意思: forbearance\n      来源:  tolerance\n      同义词: 寛容\n    ',
   },
   {
     question: '干渉',
-    answer: 'kanshō',
+    answer: 'kansho',
     explantion: '\n      汉字: 干渉\n      读音: かんしょう\n      意思: interference\n      来源:  intervention\n      同义词: 干渉, 関渉\n    ',
   },
   {
@@ -1954,7 +1954,7 @@ const n1 = [
   },
   {
     question: '幹部',
-    answer: 'kambu',
+    answer: 'kanbu',
     explantion: '\n      汉字: 幹部\n      读音: かんぶ\n      意思: management\n      来源:  (executive) staff\n      同义词: 幹部\n    ',
   },
   {
@@ -1979,7 +1979,7 @@ const n1 = [
   },
   {
     question: '感無量',
-    answer: 'kammuryō',
+    answer: 'kanmuryou',
     explantion: '\n      汉字: 感無量\n      读音: かんむりょう\n      意思: deep feeling\n      来源:  inexpressible feeling\n      同义词: 感無量\n    ',
   },
   {
@@ -1994,17 +1994,17 @@ const n1 = [
   },
   {
     question: '慣行',
-    answer: 'kankō',
+    answer: 'kanko',
     explantion: '\n      汉字: 慣行\n      读音: かんこう\n      意思: customary practice\n      来源:  habit\n      同义词: 慣行\n    ',
   },
   {
     question: '慣習',
-    answer: 'kanshū',
+    answer: 'kanshu',
     explantion: '\n      汉字: 慣習\n      读音: かんしゅう\n      意思: usual (historical) custom\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '慣用',
-    answer: 'kan\'yō',
+    answer: 'kanyo',
     explantion: '\n      汉字: 慣用\n      读音: かんよう\n      意思: common\n      来源:  customary\n      同义词: 慣用\n    ',
   },
   {
@@ -2059,7 +2059,7 @@ const n1 = [
   },
   {
     question: '簡易',
-    answer: 'kan\'i',
+    answer: 'kani',
     explantion: '\n      汉字: 簡易\n      读音: かんい\n      意思: simplicity\n      来源:  easiness\n      同义词: 簡易\n    ',
   },
   {
@@ -2099,7 +2099,7 @@ const n1 = [
   },
   {
     question: '観衆',
-    answer: 'kanshū',
+    answer: 'kanshu',
     explantion: '\n      汉字: 観衆\n      读音: かんしゅう\n      意思: spectators\n      来源:  onlookers\n      同义词: 観衆\n    ',
   },
   {
@@ -2149,12 +2149,12 @@ const n1 = [
   },
   {
     question: '関与',
-    answer: 'kan\'yo',
+    answer: 'kanyo',
     explantion: '\n      汉字: 関与\n      读音: かんよ\n      意思: participation\n      来源:  taking part in\n      同义词: 関与, 干与\n    ',
   },
   {
     question: '館',
-    answer: 'tate',
+    answer: 'tachi',
     explantion: '\n      汉字: 館\n      读音: たち\n      意思: 1. mansion\n      来源:  small castle\n      同义词: 館, 館, 館, 屋形\n    ',
   },
   {
@@ -2194,7 +2194,7 @@ const n1 = [
   },
   {
     question: '眼球',
-    answer: 'gankyū',
+    answer: 'gankyu',
     explantion: '\n      汉字: 眼球\n      读音: がんきゅう\n      意思: eyeball\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2209,7 +2209,7 @@ const n1 = [
   },
   {
     question: '頑丈',
-    answer: 'ganjō',
+    answer: 'ganjiyou',
     explantion: '\n      汉字: 頑丈\n      读音: がんじょう\n      意思: solid\n      来源:  firm\n      同义词: 頑丈, 岩乗\n    ',
   },
   {
@@ -2264,7 +2264,7 @@ const n1 = [
   },
   {
     question: '奇数',
-    answer: 'kisū',
+    answer: 'kisu',
     explantion: '\n      汉字: 奇数\n      读音: きすう\n      意思: odd number\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2304,17 +2304,17 @@ const n1 = [
   },
   {
     question: '機',
-    answer: 'ki',
+    answer: 'hata',
     explantion: '\n      汉字: 機\n      读音: はた\n      意思: loom\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '機構',
-    answer: 'kikō',
+    answer: 'kiko',
     explantion: '\n      汉字: 機構\n      读音: きこう\n      意思: mechanism\n      来源:  organization\n      同义词: 機構\n    ',
   },
   {
     question: '帰京',
-    answer: 'kikyō',
+    answer: 'kikyo',
     explantion: '\n      汉字: 帰京\n      读音: ききょう\n      意思: returning to Tokyo\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2334,27 +2334,27 @@ const n1 = [
   },
   {
     question: '気質',
-    answer: 'kishitsu',
+    answer: 'katagi',
     explantion: '\n      汉字: 気質\n      读音: かたぎ\n      意思: spirit\n      来源:  character\n      同义词: 気質, 気質, 形気, 容気\n    ',
   },
   {
     question: '気象',
-    answer: 'kishō',
+    answer: 'kisho',
     explantion: '\n      汉字: 気象\n      读音: きしょう\n      意思: weather\n      来源:  climate\n      同义词: 気象, 氣象\n    ',
   },
   {
     question: '気障',
-    answer: 'kisawa',
+    answer: 'kiza',
     explantion: '\n      汉字: 気障\n      读音: きざ\n      意思: affectation\n      来源:  conceit\n      同义词: 気障, , \n    ',
   },
   {
     question: '気触れる',
-    answer: 'kifureru',
+    answer: 'kabureru',
     explantion: '\n      汉字: 気触れる\n      读音: かぶれる\n      意思: to react to\n      来源:  to be influenced by\n      同义词: 気触れる, \n    ',
   },
   {
     question: '気配',
-    answer: 'kehai',
+    answer: 'kihai',
     explantion: '\n      汉字: 気配\n      读音: きはい\n      意思: indication\n      来源:  market trend\n      同义词: 気配\n    ',
   },
   {
@@ -2364,7 +2364,7 @@ const n1 = [
   },
   {
     question: '気風',
-    answer: 'kifū',
+    answer: 'kifu',
     explantion: '\n      汉字: 気風\n      读音: きふう\n      意思: character\n      来源:  traits\n      同义词: 気風\n    ',
   },
   {
@@ -2374,7 +2374,7 @@ const n1 = [
   },
   {
     question: '気流',
-    answer: 'kiryū',
+    answer: 'kiryu',
     explantion: '\n      汉字: 気流\n      读音: きりゅう\n      意思: atmospheric current\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2429,7 +2429,7 @@ const n1 = [
   },
   {
     question: '記述',
-    answer: 'kijutsu',
+    answer: 'kijiyutsu',
     explantion: '\n      汉字: 記述\n      读音: きじゅつ\n      意思: describing\n      来源:  descriptor\n      同义词: 記述\n    ',
   },
   {
@@ -2444,7 +2444,7 @@ const n1 = [
   },
   {
     question: '貴女',
-    answer: 'kijo',
+    answer: 'anata',
     explantion: '\n      汉字: 貴女\n      读音: あなた\n      意思: you\n      来源:  lady\n      同义词: 貴女\n    ',
   },
   {
@@ -2464,12 +2464,12 @@ const n1 = [
   },
   {
     question: '軌道',
-    answer: 'kidō',
+    answer: 'kido',
     explantion: '\n      汉字: 軌道\n      读音: きどう\n      意思: orbit\n      来源:  railroad track\n      同义词: 軌道\n    ',
   },
   {
     question: '偽造',
-    answer: 'gizō',
+    answer: 'gizou',
     explantion: '\n      汉字: 偽造\n      读音: ぎぞう\n      意思: forgery\n      来源:  falsification\n      同义词: 偽造\n    ',
   },
   {
@@ -2484,7 +2484,7 @@ const n1 = [
   },
   {
     question: '技能',
-    answer: 'ginō',
+    answer: 'ginou',
     explantion: '\n      汉字: 技能\n      读音: ぎのう\n      意思: technical skill\n      来源:  ability\n      同义词: 技能, 伎能\n    ',
   },
   {
@@ -2519,7 +2519,7 @@ const n1 = [
   },
   {
     question: '議事堂',
-    answer: 'gijidō',
+    answer: 'gijidou',
     explantion: '\n      汉字: 議事堂\n      读音: ぎじどう\n      意思: Diet building\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2544,12 +2544,12 @@ const n1 = [
   },
   {
     question: '喫茶',
-    answer: 'kissa',
+    answer: 'kitsusa',
     explantion: '\n      汉字: 喫茶\n      读音: きっさ\n      意思: tea drinking\n      来源:  tea house\n      同义词: 喫茶\n    ',
   },
   {
     question: '詰る',
-    answer: 'tsumaru',
+    answer: 'najiru',
     explantion: '\n      汉字: 詰る\n      读音: なじる\n      意思: to rebuke\n      来源:  to scold\n      同义词: 詰る, \n    ',
   },
   {
@@ -2579,7 +2579,7 @@ const n1 = [
   },
   {
     question: '丘陵',
-    answer: 'kyūryō',
+    answer: 'kyuryo',
     explantion: '\n      汉字: 丘陵\n      读音: きゅうりょう\n      意思: hill\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2599,12 +2599,12 @@ const n1 = [
   },
   {
     question: '休学',
-    answer: 'kyūgaku',
+    answer: 'kyugaku',
     explantion: '\n      汉字: 休学\n      读音: きゅうがく\n      意思: temporary absence from school\n      来源:  suspension\n      同义词: 休学\n    ',
   },
   {
     question: '休戦',
-    answer: 'kyūsen',
+    answer: 'kyusen',
     explantion: '\n      汉字: 休戦\n      读音: きゅうせん\n      意思: truce\n      来源:  armistice\n      同义词: 休戦\n    ',
   },
   {
@@ -2619,7 +2619,7 @@ const n1 = [
   },
   {
     question: '宮殿',
-    answer: 'kyūden',
+    answer: 'kyuden',
     explantion: '\n      汉字: 宮殿\n      读音: きゅうでん\n      意思: palace\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2639,12 +2639,12 @@ const n1 = [
   },
   {
     question: '救援',
-    answer: 'kyūen',
+    answer: 'kyuen',
     explantion: '\n      汉字: 救援\n      读音: きゅうえん\n      意思: relief\n      来源:  rescue\n      同义词: 救援\n    ',
   },
   {
     question: '救済',
-    answer: 'kyūsai',
+    answer: 'kyusai',
     explantion: '\n      汉字: 救済\n      读音: きゅうさい\n      意思: relief\n      来源:  aid\n      同义词: 救済\n    ',
   },
   {
@@ -2654,22 +2654,22 @@ const n1 = [
   },
   {
     question: '球根',
-    answer: 'kyūkon',
+    answer: 'kyukon',
     explantion: '\n      汉字: 球根\n      读音: きゅうこん\n      意思: (plant) bulb\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '究極',
-    answer: 'kyūkyoku',
+    answer: 'kyukyoku',
     explantion: '\n      汉字: 究極\n      读音: きゅうきょく\n      意思: ultimate\n      来源:  final\n      同义词: 究極, 窮極\n    ',
   },
   {
     question: '窮屈',
-    answer: 'kyūkutsu',
+    answer: 'kyukutsu',
     explantion: '\n      汉字: 窮屈\n      读音: きゅうくつ\n      意思: narrow\n      来源:  tight\n      同义词: 窮屈\n    ',
   },
   {
     question: '窮乏',
-    answer: 'kyūbō',
+    answer: 'kyubou',
     explantion: '\n      汉字: 窮乏\n      读音: きゅうぼう\n      意思: poverty\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2679,47 +2679,47 @@ const n1 = [
   },
   {
     question: '給仕',
-    answer: 'kyūji',
+    answer: 'kyuji',
     explantion: '\n      汉字: 給仕\n      读音: きゅうじ\n      意思: office boy (girl)\n      来源:  page\n      同义词: 給仕\n    ',
   },
   {
     question: '給食',
-    answer: 'kyūshoku',
+    answer: 'kyushoku',
     explantion: '\n      汉字: 給食\n      读音: きゅうしょく\n      意思: school lunch\n      来源:  providing a meal\n      同义词: 給食\n    ',
   },
   {
     question: '旧知',
-    answer: 'kyūchi',
+    answer: 'kyuchi',
     explantion: '\n      汉字: 旧知\n      读音: きゅうち\n      意思: old friend\n      来源:  old friendship\n      同义词: 旧知\n    ',
   },
   {
     question: '居住',
-    answer: 'kyojū',
+    answer: 'kiyojuu',
     explantion: '\n      汉字: 居住\n      读音: きょじゅう\n      意思: residence\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '拒絶',
-    answer: 'kyozetsu',
+    answer: 'kiyozetsu',
     explantion: '\n      汉字: 拒絶\n      读音: きょぜつ\n      意思: refusal\n      来源:  rejection\n      同义词: 拒絶\n    ',
   },
   {
     question: '拒否',
-    answer: 'kyohi',
+    answer: 'kiyohi',
     explantion: '\n      汉字: 拒否\n      读音: きょひ\n      意思: denial\n      来源:  veto\n      同义词: 拒否\n    ',
   },
   {
     question: '許容',
-    answer: 'kyoyō',
+    answer: 'kiyoyou',
     explantion: '\n      汉字: 許容\n      读音: きょよう\n      意思: permission\n      来源:  pardon\n      同义词: 許容\n    ',
   },
   {
     question: '距離',
-    answer: 'kyori',
+    answer: 'kiyori',
     explantion: '\n      汉字: 距離\n      读音: きょり\n      意思: distance\n      来源:  range\n      同义词: 距離\n    ',
   },
   {
     question: '鋸',
-    answer: 'noko',
+    answer: 'nokogiri',
     explantion: '\n      汉字: 鋸\n      读音: のこぎり\n      意思: saw\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2734,12 +2734,12 @@ const n1 = [
   },
   {
     question: '享受',
-    answer: 'kyōju',
+    answer: 'kyojiyu',
     explantion: '\n      汉字: 享受\n      读音: きょうじゅ\n      意思: reception\n      来源:  acceptance\n      同义词: 享受\n    ',
   },
   {
     question: '供する',
-    answer: 'kyōsuru',
+    answer: 'kyosuru',
     explantion: '\n      汉字: 供する\n      读音: きょうする\n      意思: offer\n      来源:  present\n      同义词: 供する\n    ',
   },
   {
@@ -2749,17 +2749,17 @@ const n1 = [
   },
   {
     question: '共学',
-    answer: 'kyōgaku',
+    answer: 'kyogaku',
     explantion: '\n      汉字: 共学\n      读音: きょうがく\n      意思: coeducation\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '共感',
-    answer: 'kyōkan',
+    answer: 'kyokan',
     explantion: '\n      汉字: 共感\n      读音: きょうかん\n      意思: sympathy\n      来源:  response\n      同义词: 共感\n    ',
   },
   {
     question: '共産',
-    answer: 'kyōsan',
+    answer: 'kyosan',
     explantion: '\n      汉字: 共産\n      读音: きょうさん\n      意思: communism\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2769,32 +2769,32 @@ const n1 = [
   },
   {
     question: '共鳴',
-    answer: 'kyōmei',
+    answer: 'kyomei',
     explantion: '\n      汉字: 共鳴\n      读音: きょうめい\n      意思: resonance\n      来源:  sympathy\n      同义词: 共鳴\n    ',
   },
   {
     question: '凶作',
-    answer: 'kyōsaku',
+    answer: 'kyosaku',
     explantion: '\n      汉字: 凶作\n      读音: きょうさく\n      意思: bad harvest\n      来源:  poor crop\n      同义词: 凶作\n    ',
   },
   {
     question: '協会',
-    answer: 'kyōkai',
+    answer: 'kyokai',
     explantion: '\n      汉字: 協会\n      读音: きょうかい\n      意思: association\n      来源:  society\n      同义词: 協会\n    ',
   },
   {
     question: '協議',
-    answer: 'kyōgi',
+    answer: 'kyogi',
     explantion: '\n      汉字: 協議\n      读音: きょうぎ\n      意思: conference\n      来源:  consultation\n      同义词: 協議\n    ',
   },
   {
     question: '協調',
-    answer: 'kyōchō',
+    answer: 'kyochou',
     explantion: '\n      汉字: 協調\n      读音: きょうちょう\n      意思: co-operation\n      来源:  conciliation\n      同义词: 協調\n    ',
   },
   {
     question: '協定',
-    answer: 'kyōtei',
+    answer: 'kyotei',
     explantion: '\n      汉字: 協定\n      读音: きょうてい\n      意思: arrangement\n      来源:  pact\n      同义词: 協定\n    ',
   },
   {
@@ -2804,12 +2804,12 @@ const n1 = [
   },
   {
     question: '境遇',
-    answer: 'kyōgū',
+    answer: 'kyoguu',
     explantion: '\n      汉字: 境遇\n      读音: きょうぐう\n      意思: environment\n      来源:  circumstances\n      同义词: 境遇\n    ',
   },
   {
     question: '強いて',
-    answer: 'tsuyoite',
+    answer: 'shiite',
     explantion: '\n      汉字: 強いて\n      读音: しいて\n      意思: by force\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -2829,17 +2829,17 @@ const n1 = [
   },
   {
     question: '強硬',
-    answer: 'kyōkō',
+    answer: 'kyoko',
     explantion: '\n      汉字: 強硬\n      读音: きょうこう\n      意思: firm\n      来源:  vigorous\n      同义词: 強硬\n    ',
   },
   {
     question: '強行',
-    answer: 'kyōkō',
+    answer: 'kyoko',
     explantion: '\n      汉字: 強行\n      读音: きょうこう\n      意思: forcing\n      来源:  enforcement\n      同义词: 強行\n    ',
   },
   {
     question: '強制',
-    answer: 'kyōsei',
+    answer: 'kyosei',
     explantion: '\n      汉字: 強制\n      读音: きょうせい\n      意思: obligation\n      来源:  coercion\n      同义词: 強制\n    ',
   },
   {
@@ -2849,7 +2849,7 @@ const n1 = [
   },
   {
     question: '強烈',
-    answer: 'kyōretsu',
+    answer: 'kyoretsu',
     explantion: '\n      汉字: 強烈\n      读音: きょうれつ\n      意思: strong\n      来源:  intense\n      同义词: 強烈\n    ',
   },
   {
@@ -2879,32 +2879,32 @@ const n1 = [
   },
   {
     question: '教員',
-    answer: 'kyōin',
+    answer: 'kyoin',
     explantion: '\n      汉字: 教員\n      读音: きょういん\n      意思: teaching staff\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '教科',
-    answer: 'kyōka',
+    answer: 'kyoka',
     explantion: '\n      汉字: 教科\n      读音: きょうか\n      意思: subject\n      来源:  curriculum\n      同义词: 教科\n    ',
   },
   {
     question: '教訓',
-    answer: 'kyōkun',
+    answer: 'kyokun',
     explantion: '\n      汉字: 教訓\n      读音: きょうくん\n      意思: lesson\n      来源:  precept\n      同义词: 教訓\n    ',
   },
   {
     question: '教材',
-    answer: 'kyōzai',
+    answer: 'kyozai',
     explantion: '\n      汉字: 教材\n      读音: きょうざい\n      意思: teaching materials\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '教習',
-    answer: 'kyōshū',
+    answer: 'kyoshu',
     explantion: '\n      汉字: 教習\n      读音: きょうしゅう\n      意思: training\n      来源:  instruction\n      同义词: 教習\n    ',
   },
   {
     question: '教職',
-    answer: 'kyōshoku',
+    answer: 'kyoshoku',
     explantion: '\n      汉字: 教職\n      读音: きょうしょく\n      意思: teaching certificate\n      来源:  the teaching profession\n      同义词: 教職\n    ',
   },
   {
@@ -2924,32 +2924,32 @@ const n1 = [
   },
   {
     question: '脅迫',
-    answer: 'kyōhaku',
+    answer: 'kyohaku',
     explantion: '\n      汉字: 脅迫\n      读音: きょうはく\n      意思: threat\n      来源:  menace\n      同义词: 脅迫\n    ',
   },
   {
     question: '興じる',
-    answer: 'kyōjiru',
+    answer: 'kyojiru',
     explantion: '\n      汉字: 興じる\n      读音: きょうじる\n      意思: to amuse oneself\n      来源:  to make merry\n      同义词: 興じる\n    ',
   },
   {
     question: '興業',
-    answer: 'kōgyō',
+    answer: 'kogyou',
     explantion: '\n      汉字: 興業\n      读音: こうぎょう\n      意思: industrial enterprise\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '興奮',
-    answer: 'kōfun',
+    answer: 'kofun',
     explantion: '\n      汉字: 興奮\n      读音: こうふん\n      意思: excitement\n      来源:  stimulation\n      同义词: 興奮, 昂奮, 亢奮\n    ',
   },
   {
     question: '郷愁',
-    answer: 'kyōshū',
+    answer: 'kyoshu',
     explantion: '\n      汉字: 郷愁\n      读音: きょうしゅう\n      意思: nostalgia\n      来源:  homesickness\n      同义词: 郷愁\n    ',
   },
   {
     question: '郷里',
-    answer: 'kyōri',
+    answer: 'kyori',
     explantion: '\n      汉字: 郷里\n      读音: きょうり\n      意思: birth-place\n      来源:  home town\n      同义词: 郷里\n    ',
   },
   {
@@ -2959,7 +2959,7 @@ const n1 = [
   },
   {
     question: '驚異',
-    answer: 'kyōi',
+    answer: 'kyoi',
     explantion: '\n      汉字: 驚異\n      读音: きょうい\n      意思: wonder\n      来源:  miracle\n      同义词: 驚異\n    ',
   },
   {
@@ -2969,37 +2969,37 @@ const n1 = [
   },
   {
     question: '仰っしゃる',
-    answer: 'osshasshiyaru',
+    answer: 'ossharu',
     explantion: '\n      汉字: 仰っしゃる\n      读音: おっしゃる\n      意思: to say\n      来源:  to speak\n      同义词: 仰っしゃる\n    ',
   },
   {
     question: '凝らす',
-    answer: 'korasu',
+    answer: 'kogorasu',
     explantion: '\n      汉字: 凝らす\n      读音: こごらす\n      意思: to freeze\n      来源:  to congeal\n      同义词: 凝らす\n    ',
   },
   {
     question: '凝る',
-    answer: 'koru',
+    answer: 'kogoru',
     explantion: '\n      汉字: 凝る\n      读音: こごる\n      意思: to congeal\n      来源:  to freeze\n      同义词: 凝る\n    ',
   },
   {
     question: '業',
-    answer: 'gō',
+    answer: 'gou',
     explantion: '\n      汉字: 業\n      读音: ごう\n      意思: Buddhist karma\n      来源:  actions committed in a former life\n      同义词: 業\n    ',
   },
   {
     question: '業者',
-    answer: 'gyōsha',
+    answer: 'gyousha',
     explantion: '\n      汉字: 業者\n      读音: ぎょうしゃ\n      意思: trader\n      来源:  merchant\n      同义词: 業者\n    ',
   },
   {
     question: '業績',
-    answer: 'gyōseki',
+    answer: 'gyouseki',
     explantion: '\n      汉字: 業績\n      读音: ぎょうせき\n      意思: achievement\n      来源:  performance\n      同义词: 業績\n    ',
   },
   {
     question: '業務',
-    answer: 'gyōmu',
+    answer: 'gyoumu',
     explantion: '\n      汉字: 業務\n      读音: ぎょうむ\n      意思: business\n      来源:  affairs\n      同义词: 業務\n    ',
   },
   {
@@ -3049,22 +3049,22 @@ const n1 = [
   },
   {
     question: '勤勉',
-    answer: 'kimben',
+    answer: 'kinben',
     explantion: '\n      汉字: 勤勉\n      读音: きんべん\n      意思: industry\n      来源:  diligence\n      同义词: 勤勉\n    ',
   },
   {
     question: '勤務',
-    answer: 'kimmu',
+    answer: 'kinmu',
     explantion: '\n      汉字: 勤務\n      读音: きんむ\n      意思: service\n      来源:  duty\n      同义词: 勤務\n    ',
   },
   {
     question: '勤労',
-    answer: 'kinrō',
+    answer: 'kinro',
     explantion: '\n      汉字: 勤労\n      读音: きんろう\n      意思: labor\n      来源:  exertion\n      同义词: 勤労\n    ',
   },
   {
     question: '均衡',
-    answer: 'kinkō',
+    answer: 'kinkou',
     explantion: '\n      汉字: 均衡\n      读音: きんこう\n      意思: equilibrium\n      来源:  balance\n      同义词: 均衡\n    ',
   },
   {
@@ -3079,12 +3079,12 @@ const n1 = [
   },
   {
     question: '禁物',
-    answer: 'kimmotsu',
+    answer: 'kinmotsu',
     explantion: '\n      汉字: 禁物\n      读音: きんもつ\n      意思: taboo\n      来源:  forbidden thing\n      同义词: 禁物\n    ',
   },
   {
     question: '緊急',
-    answer: 'kinkyū',
+    answer: 'kinkyu',
     explantion: '\n      汉字: 緊急\n      读音: きんきゅう\n      意思: urgent\n      来源:  pressing\n      同义词: 緊急\n    ',
   },
   {
@@ -3099,7 +3099,7 @@ const n1 = [
   },
   {
     question: '近郊',
-    answer: 'kinkō',
+    answer: 'kinkou',
     explantion: '\n      汉字: 近郊\n      读音: きんこう\n      意思: suburbs\n      来源:  outskirts\n      同义词: 近郊\n    ',
   },
   {
@@ -3109,7 +3109,7 @@ const n1 = [
   },
   {
     question: '吟味',
-    answer: 'gimmi',
+    answer: 'ginmi',
     explantion: '\n      汉字: 吟味\n      读音: ぎんみ\n      意思: testing\n      来源:  scrutiny\n      同义词: 吟味\n    ',
   },
   {
@@ -3164,7 +3164,7 @@ const n1 = [
   },
   {
     question: '空腹',
-    answer: 'kūfuku',
+    answer: 'kuufuku',
     explantion: '\n      汉字: 空腹\n      读音: くうふく\n      意思: hunger\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -3174,7 +3174,7 @@ const n1 = [
   },
   {
     question: '君主',
-    answer: 'kunshu',
+    answer: 'kunshiyu',
     explantion: '\n      汉字: 君主\n      读音: くんしゅ\n      意思: ruler\n      来源:  monarch\n      同义词: 君主\n    ',
   },
   {
@@ -3299,7 +3299,7 @@ const n1 = [
   },
   {
     question: '経緯',
-    answer: 'keii',
+    answer: 'ikisatsu',
     explantion: '\n      汉字: 経緯\n      读音: いきさつ\n      意思: 1. details\n      来源:  whole story\n      同义词: 経緯, 経緯, 経緯, 経緯\n    ',
   },
   {
@@ -3309,7 +3309,7 @@ const n1 = [
   },
   {
     question: '経費',
-    answer: 'keihi',
+    answer: 'keii',
     explantion: '\n      汉字: 経費\n      读音: けいひ\n      意思: expenses\n      来源:  cost\n      同义词: 経費\n    ',
   },
   {
@@ -3389,7 +3389,7 @@ const n1 = [
   },
   {
     question: '欠乏',
-    answer: 'ketsubō',
+    answer: 'ketsubou',
     explantion: '\n      汉字: 欠乏\n      读音: けつぼう\n      意思: want\n      来源:  shortage\n      同义词: 欠乏\n    ',
   },
   {
@@ -3409,7 +3409,7 @@ const n1 = [
   },
   {
     question: '決行',
-    answer: 'kekkō',
+    answer: 'kekko',
     explantion: '\n      汉字: 決行\n      读音: けっこう\n      意思: doing (with resolve)\n      来源:  carrying out (i.e. a plan)\n      同义词: 決行\n    ',
   },
   {
@@ -3419,7 +3419,7 @@ const n1 = [
   },
   {
     question: '決勝',
-    answer: 'kesshō',
+    answer: 'kessho',
     explantion: '\n      汉字: 決勝\n      读音: けっしょう\n      意思: decision of a contest\n      来源:  finals (in sports)\n      同义词: 決勝\n    ',
   },
   {
@@ -3454,12 +3454,12 @@ const n1 = [
   },
   {
     question: '結合',
-    answer: 'ketsugō',
+    answer: 'ketsugo',
     explantion: '\n      汉字: 結合\n      读音: けつごう\n      意思: combination\n      来源:  union\n      同义词: 結合\n    ',
   },
   {
     question: '結晶',
-    answer: 'kesshō',
+    answer: 'kessho',
     explantion: '\n      汉字: 結晶\n      读音: けっしょう\n      意思: crystal\n      来源:  crystallization\n      同义词: 結晶\n    ',
   },
   {
@@ -3479,7 +3479,7 @@ const n1 = [
   },
   {
     question: '月謝',
-    answer: 'gessha',
+    answer: 'getsusha',
     explantion: '\n      汉字: 月謝\n      读音: げっしゃ\n      意思: monthly tuition fee\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -3494,12 +3494,12 @@ const n1 = [
   },
   {
     question: '件',
-    answer: 'ken',
+    answer: 'kudan',
     explantion: '\n      汉字: 件\n      读音: くだん\n      意思: example\n      来源:  precedent\n      同义词: 件, \n    ',
   },
   {
     question: '倹約',
-    answer: 'ken\'yaku',
+    answer: 'kenyaku',
     explantion: '\n      汉字: 倹約\n      读音: けんやく\n      意思: thrift\n      来源:  economy\n      同义词: 倹約\n    ',
   },
   {
@@ -3519,7 +3519,7 @@ const n1 = [
   },
   {
     question: '兼用',
-    answer: 'ken\'yō',
+    answer: 'kenyo',
     explantion: '\n      汉字: 兼用\n      读音: けんよう\n      意思: multi-use\n      来源:  combined use\n      同义词: 兼用\n    ',
   },
   {
@@ -3534,12 +3534,12 @@ const n1 = [
   },
   {
     question: '懸賞',
-    answer: 'kenshō',
+    answer: 'kensho',
     explantion: '\n      汉字: 懸賞\n      读音: けんしょう\n      意思: offering prizes\n      来源:  winning\n      同义词: 懸賞\n    ',
   },
   {
     question: '捲る',
-    answer: 'mekuru',
+    answer: 'makuru',
     explantion: '\n      汉字: 捲る\n      读音: まくる\n      意思: verb suffix to indicate reckless abandon to the activity\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -3554,7 +3554,7 @@ const n1 = [
   },
   {
     question: '権威',
-    answer: 'ken\'i',
+    answer: 'keni',
     explantion: '\n      汉字: 権威\n      读音: けんい\n      意思: authority\n      来源:  power\n      同义词: 権威\n    ',
   },
   {
@@ -3564,7 +3564,7 @@ const n1 = [
   },
   {
     question: '権力',
-    answer: 'kenryoku',
+    answer: 'kenriyoku',
     explantion: '\n      汉字: 権力\n      读音: けんりょく\n      意思: power\n      来源:  authority\n      同义词: 権力\n    ',
   },
   {
@@ -3644,12 +3644,12 @@ const n1 = [
   },
   {
     question: '遣り通す',
-    answer: 'yaritōsu',
+    answer: 'yaritoosu',
     explantion: '\n      汉字: 遣り通す\n      读音: やりとおす\n      意思: to carry through\n      来源:  to achieve\n      同义词: 遣り通す, やり通す\n    ',
   },
   {
     question: '元首',
-    answer: 'genshu',
+    answer: 'genshiyu',
     explantion: '\n      汉字: 元首\n      读音: げんしゅ\n      意思: ruler\n      来源:  sovereign\n      同义词: 元首\n    ',
   },
   {
@@ -3664,12 +3664,12 @@ const n1 = [
   },
   {
     question: '原',
-    answer: 'hara',
+    answer: 'gen',
     explantion: '\n      汉字: 原\n      读音: げん\n      意思: original\n      来源:  primitive\n      同义词: 原\n    ',
   },
   {
     question: '原っぱ',
-    answer: 'harappa',
+    answer: 'warappa',
     explantion: '\n      汉字: 原っぱ\n      读音: はらっぱ\n      意思: open field\n      来源:  empty lot\n      同义词: 原っぱ\n    ',
   },
   {
@@ -3709,17 +3709,17 @@ const n1 = [
   },
   {
     question: '原爆',
-    answer: 'gembaku',
+    answer: 'genbaku',
     explantion: '\n      汉字: 原爆\n      读音: げんばく\n      意思: atomic bomb\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '原文',
-    answer: 'gembun',
+    answer: 'genbun',
     explantion: '\n      汉字: 原文\n      读音: げんぶん\n      意思: the text\n      来源:  original\n      同义词: 原文\n    ',
   },
   {
     question: '原油',
-    answer: 'gen\'yu',
+    answer: 'genyu',
     explantion: '\n      汉字: 原油\n      读音: げんゆ\n      意思: crude oil\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -3729,12 +3729,12 @@ const n1 = [
   },
   {
     question: '厳密',
-    answer: 'imuhisoka',
+    answer: 'genmitsu',
     explantion: '\n      汉字: 厳密\n      读音: げんみつ\n      意思: strict\n      来源:  close\n      同义词: 厳密\n    ',
   },
   {
     question: '減少',
-    answer: 'genshō',
+    answer: 'gensho',
     explantion: '\n      汉字: 減少\n      读音: げんしょう\n      意思: decrease\n      来源:  reduction\n      同义词: 減少\n    ',
   },
   {
@@ -3749,7 +3749,7 @@ const n1 = [
   },
   {
     question: '玄人',
-    answer: 'kurōto',
+    answer: 'kuroto',
     explantion: '\n      汉字: 玄人\n      读音: くろうと\n      意思: expert\n      来源:  professional\n      同义词: 玄人, 玄人, 黒人, 黒人\n    ',
   },
   {
@@ -3759,17 +3759,17 @@ const n1 = [
   },
   {
     question: '現行',
-    answer: 'genkō',
+    answer: 'genkou',
     explantion: '\n      汉字: 現行\n      读音: げんこう\n      意思: present\n      来源:  current\n      同义词: 現行\n    ',
   },
   {
     question: '現場',
-    answer: 'gemba',
+    answer: 'genjiyou',
     explantion: '\n      汉字: 現場\n      读音: げんじょう\n      意思: actual spot\n      来源:  scene\n      同义词: 現場\n    ',
   },
   {
     question: '現像',
-    answer: 'genzō',
+    answer: 'genzou',
     explantion: '\n      汉字: 現像\n      读音: げんぞう\n      意思: developing (film)\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -3804,7 +3804,7 @@ const n1 = [
   },
   {
     question: '古',
-    answer: 'furu',
+    answer: 'inishie',
     explantion: '\n      汉字: 古\n      读音: いにしえ\n      意思: antiquity\n      来源:  ancient times\n      同义词: 古, 古え\n    ',
   },
   {
@@ -3834,7 +3834,7 @@ const n1 = [
   },
   {
     question: '固有',
-    answer: 'koyū',
+    answer: 'koyuu',
     explantion: '\n      汉字: 固有\n      读音: こゆう\n      意思: characteristic\n      来源:  tradition\n      同义词: 固有\n    ',
   },
   {
@@ -3884,7 +3884,7 @@ const n1 = [
   },
   {
     question: '誇張',
-    answer: 'kochō',
+    answer: 'kochou',
     explantion: '\n      汉字: 誇張\n      读音: こちょう\n      意思: exaggeration\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -3894,7 +3894,7 @@ const n1 = [
   },
   {
     question: '雇用',
-    answer: 'koyō',
+    answer: 'koyo',
     explantion: '\n      汉字: 雇用\n      读音: こよう\n      意思: employment (long term)\n      来源:  hire\n      同义词: 雇用, 雇傭\n    ',
   },
   {
@@ -3904,7 +3904,7 @@ const n1 = [
   },
   {
     question: '呉れ呉れも',
-    answer: 'kurekuremo',
+    answer: 'kureguremo',
     explantion: '\n      汉字: 呉れ呉れも\n      读音: くれぐれも\n      意思: repeatedly\n      来源:  sincerely\n      同义词: 呉れ呉れも\n    ',
   },
   {
@@ -3914,17 +3914,17 @@ const n1 = [
   },
   {
     question: '後悔',
-    answer: 'kōkai',
+    answer: 'kokai',
     explantion: '\n      汉字: 後悔\n      读音: こうかい\n      意思: regret\n      来源:  repentance\n      同义词: 後悔\n    ',
   },
   {
     question: '後退',
-    answer: 'kōtai',
+    answer: 'kotai',
     explantion: '\n      汉字: 後退\n      读音: こうたい\n      意思: retreat\n      来源:  backspace (BS)\n      同义词: 後退\n    ',
   },
   {
     question: '御',
-    answer: 'o',
+    answer: 'go',
     explantion: '\n      汉字: 御\n      读音: ご\n      意思: go-\n      来源:  honourable\n      同义词: 御, \n    ',
   },
   {
@@ -3934,7 +3934,7 @@ const n1 = [
   },
   {
     question: 'ご馳走さま',
-    answer: 'gochisōsama',
+    answer: 'gochisosama',
     explantion: '\n      汉字: ご馳走さま\n      读音: ごちそうさま\n      意思: feast\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -4019,82 +4019,82 @@ const n1 = [
   },
   {
     question: '交易',
-    answer: 'kōeki',
+    answer: 'koeki',
     explantion: '\n      汉字: 交易\n      读音: こうえき\n      意思: trade\n      来源:  commerce\n      同义词: 交易\n    ',
   },
   {
     question: '交互',
-    answer: 'kōgo',
+    answer: 'kogo',
     explantion: '\n      汉字: 交互\n      读音: こうご\n      意思: mutual\n      来源:  reciprocal\n      同义词: 交互\n    ',
   },
   {
     question: '交渉',
-    answer: 'kōshō',
+    answer: 'kosho',
     explantion: '\n      汉字: 交渉\n      读音: こうしょう\n      意思: negotiations\n      来源:  discussions\n      同义词: 交渉\n    ',
   },
   {
     question: '交付',
-    answer: 'kōfu',
+    answer: 'kofu',
     explantion: '\n      汉字: 交付\n      读音: こうふ\n      意思: delivering\n      来源:  furnishing (with copies)\n      同义词: 交付\n    ',
   },
   {
     question: '光沢',
-    answer: 'kōtaku',
+    answer: 'kotaku',
     explantion: '\n      汉字: 光沢\n      读音: こうたく\n      意思: brilliance\n      来源:  polish\n      同义词: 光沢\n    ',
   },
   {
     question: '光熱費',
-    answer: 'kōnetsuhi',
+    answer: 'konetsuhi',
     explantion: '\n      汉字: 光熱費\n      读音: こうねつひ\n      意思: cost of fuel and light\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '公',
-    answer: 'ōyake',
+    answer: 'oyake',
     explantion: '\n      汉字: 公\n      读音: おおやけ\n      意思: official\n      来源:  public\n      同义词: 公\n    ',
   },
   {
     question: '公演',
-    answer: 'kōen',
+    answer: 'koen',
     explantion: '\n      汉字: 公演\n      读音: こうえん\n      意思: public performance\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '公開',
-    answer: 'kōkai',
+    answer: 'kokai',
     explantion: '\n      汉字: 公開\n      读音: こうかい\n      意思: presenting to the public\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '公然',
-    answer: 'kōzen',
+    answer: 'kozen',
     explantion: '\n      汉字: 公然\n      读音: こうぜん\n      意思: open (e.g. secret)\n      来源:  public\n      同义词: 公然\n    ',
   },
   {
     question: '公団',
-    answer: 'kōdan',
+    answer: 'kodan',
     explantion: '\n      汉字: 公団\n      读音: こうだん\n      意思: public corporation\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '公認',
-    answer: 'kōnin',
+    answer: 'konin',
     explantion: '\n      汉字: 公認\n      读音: こうにん\n      意思: official recognition\n      来源:  authorization\n      同义词: 公認\n    ',
   },
   {
     question: '公募',
-    answer: 'kōbo',
+    answer: 'kobo',
     explantion: '\n      汉字: 公募\n      读音: こうぼ\n      意思: public appeal\n      来源:  public contribution\n      同义词: 公募\n    ',
   },
   {
     question: '公用',
-    answer: 'kōyō',
+    answer: 'koyo',
     explantion: '\n      汉字: 公用\n      读音: こうよう\n      意思: government business\n      来源:  public use\n      同义词: 公用\n    ',
   },
   {
     question: '公立',
-    answer: 'kōritsu',
+    answer: 'koritsu',
     explantion: '\n      汉字: 公立\n      读音: こうりつ\n      意思: public (institution)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '効率',
-    answer: 'kōritsu',
+    answer: 'koritsu',
     explantion: '\n      汉字: 効率\n      读音: こうりつ\n      意思: efficiency\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -4104,12 +4104,12 @@ const n1 = [
   },
   {
     question: '口述',
-    answer: 'kōjutsu',
+    answer: 'kojutsu',
     explantion: '\n      汉字: 口述\n      读音: こうじゅつ\n      意思: verbal statement\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '口頭',
-    answer: 'kōtō',
+    answer: 'koto',
     explantion: '\n      汉字: 口頭\n      读音: こうとう\n      意思: oral\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -4124,7 +4124,7 @@ const n1 = [
   },
   {
     question: '向上',
-    answer: 'kōjō',
+    answer: 'kojiyou',
     explantion: '\n      汉字: 向上\n      读音: こうじょう\n      意思: elevation\n      来源:  rise\n      同义词: 向上\n    ',
   },
   {
@@ -4134,7 +4134,7 @@ const n1 = [
   },
   {
     question: 'いい加減',
-    answer: 'īkagen',
+    answer: 'ikagen',
     explantion: '\n      汉字: いい加減\n      读音: いいかげん\n      意思: moderate\n      来源:  right\n      同义词: いい加減, 好い加減, 好加減\n    ',
   },
   {
@@ -4144,32 +4144,32 @@ const n1 = [
   },
   {
     question: '好意',
-    answer: 'kōi',
+    answer: 'koi',
     explantion: '\n      汉字: 好意\n      读音: こうい\n      意思: good will\n      来源:  favor\n      同义词: 好意\n    ',
   },
   {
     question: '好況',
-    answer: 'kōkyō',
+    answer: 'kokyo',
     explantion: '\n      汉字: 好況\n      读音: こうきょう\n      意思: prosperous conditions\n      来源:  healthy economy\n      同义词: 好況\n    ',
   },
   {
     question: '好調',
-    answer: 'kōchō',
+    answer: 'kochou',
     explantion: '\n      汉字: 好調\n      读音: こうちょう\n      意思: favourable\n      来源:  promising\n      同义词: 好調\n    ',
   },
   {
     question: '好評',
-    answer: 'kōhyō',
+    answer: 'kohyou',
     explantion: '\n      汉字: 好評\n      读音: こうひょう\n      意思: popularity\n      来源:  favorable reputation\n      同义词: 好評\n    ',
   },
   {
     question: '工学',
-    answer: 'kōgaku',
+    answer: 'kogaku',
     explantion: '\n      汉字: 工学\n      读音: こうがく\n      意思: engineering\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '工作',
-    answer: 'kōsaku',
+    answer: 'kosaku',
     explantion: '\n      汉字: 工作\n      读音: こうさく\n      意思: work\n      来源:  construction\n      同义词: 工作\n    ',
   },
   {
@@ -4179,7 +4179,7 @@ const n1 = [
   },
   {
     question: '巧妙',
-    answer: 'kōmyō',
+    answer: 'komyo',
     explantion: '\n      汉字: 巧妙\n      读音: こうみょう\n      意思: ingenious\n      来源:  skillful\n      同义词: 巧妙\n    ',
   },
   {
@@ -4199,17 +4199,17 @@ const n1 = [
   },
   {
     question: '抗議',
-    answer: 'kōgi',
+    answer: 'kougi',
     explantion: '\n      汉字: 抗議\n      读音: こうぎ\n      意思: protest\n      来源:  objection\n      同义词: 抗議\n    ',
   },
   {
     question: '抗争',
-    answer: 'kōsō',
+    answer: 'koso',
     explantion: '\n      汉字: 抗争\n      读音: こうそう\n      意思: dispute\n      来源:  resistance\n      同义词: 抗争\n    ',
   },
   {
     question: '拘束',
-    answer: 'kōsoku',
+    answer: 'kosoku',
     explantion: '\n      汉字: 拘束\n      读音: こうそく\n      意思: restriction\n      来源:  restraint\n      同义词: 拘束\n    ',
   },
   {
@@ -4219,7 +4219,7 @@ const n1 = [
   },
   {
     question: '控除',
-    answer: 'kōjo',
+    answer: 'kojiyo',
     explantion: '\n      汉字: 控除\n      读音: こうじょ\n      意思: subsidy\n      来源:  deduction\n      同义词: 控除, 扣除\n    ',
   },
   {
@@ -4239,37 +4239,37 @@ const n1 = [
   },
   {
     question: '構想',
-    answer: 'kōsō',
+    answer: 'koso',
     explantion: '\n      汉字: 構想\n      读音: こうそう\n      意思: plan\n      来源:  plot\n      同义词: 構想\n    ',
   },
   {
     question: '洪水',
-    answer: 'kōzui',
+    answer: 'kozui',
     explantion: '\n      汉字: 洪水\n      读音: こうずい\n      意思: flood\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '溝',
-    answer: 'mizo',
+    answer: 'ko',
     explantion: '\n      汉字: 溝\n      读音: こう\n      意思: 10^38\n      来源:  hundred undecillion (American)\n      同义词: 溝\n    ',
   },
   {
     question: '皇居',
-    answer: 'kōkyo',
+    answer: 'kokyo',
     explantion: '\n      汉字: 皇居\n      读音: こうきょ\n      意思: Imperial Palace\n      来源: waller\n      同义词: 皇居\n    ',
   },
   {
     question: '耕作',
-    answer: 'kōsaku',
+    answer: 'kosaku',
     explantion: '\n      汉字: 耕作\n      读音: こうさく\n      意思: cultivation\n      来源:  farming\n      同义词: 耕作\n    ',
   },
   {
     question: '考古学',
-    answer: 'kōkogaku',
+    answer: 'kokogaku',
     explantion: '\n      汉字: 考古学\n      读音: こうこがく\n      意思: archaeology\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '航海',
-    answer: 'kōkai',
+    answer: 'kokai',
     explantion: '\n      汉字: 航海\n      读音: こうかい\n      意思: sail\n      来源:  voyage\n      同义词: 航海\n    ',
   },
   {
@@ -4284,27 +4284,27 @@ const n1 = [
   },
   {
     question: '荒廃',
-    answer: 'kōhai',
+    answer: 'kohai',
     explantion: '\n      汉字: 荒廃\n      读音: こうはい\n      意思: ruin\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '行',
-    answer: 'kudari',
+    answer: 'gyou',
     explantion: '\n      汉字: 行\n      读音: ぎょう\n      意思: line\n      来源:  row\n      同义词: 行\n    ',
   },
   {
     question: '行為',
-    answer: 'kōi',
+    answer: 'koi',
     explantion: '\n      汉字: 行為\n      读音: こうい\n      意思: act\n      来源:  deed\n      同义词: 行為\n    ',
   },
   {
     question: '行員',
-    answer: 'kōin',
+    answer: 'koin',
     explantion: '\n      汉字: 行員\n      读音: こういん\n      意思: bank clerk\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '行進',
-    answer: 'kōshin',
+    answer: 'koshin',
     explantion: '\n      汉字: 行進\n      读音: こうしん\n      意思: march\n      来源:  parade\n      同义词: 行進\n    ',
   },
   {
@@ -4314,57 +4314,57 @@ const n1 = [
   },
   {
     question: '行政',
-    answer: 'gyōsei',
+    answer: 'gyosei',
     explantion: '\n      汉字: 行政\n      读音: ぎょうせい\n      意思: administration\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '講習',
-    answer: 'kōshū',
+    answer: 'koshu',
     explantion: '\n      汉字: 講習\n      读音: こうしゅう\n      意思: short course\n      来源:  training\n      同义词: 講習\n    ',
   },
   {
     question: '講読',
-    answer: 'kōdoku',
+    answer: 'kodoku',
     explantion: '\n      汉字: 講読\n      读音: こうどく\n      意思: reading\n      来源:  translation\n      同义词: 講読\n    ',
   },
   {
     question: '購読',
-    answer: 'kōdoku',
+    answer: 'kodoku',
     explantion: '\n      汉字: 購読\n      读音: こうどく\n      意思: subscription (e.g. magazine)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '購入',
-    answer: 'kōnyū',
+    answer: 'koniyuu',
     explantion: '\n      汉字: 購入\n      读音: こうにゅう\n      意思: purchase\n      来源:  buy\n      同义词: 購入\n    ',
   },
   {
     question: '購買',
-    answer: 'kōbai',
+    answer: 'kobai',
     explantion: '\n      汉字: 購買\n      读音: こうばい\n      意思: purchase\n      来源:  buy\n      同义词: 購買, 校売\n    ',
   },
   {
     question: '鉱業',
-    answer: 'kōgyō',
+    answer: 'kogyou',
     explantion: '\n      汉字: 鉱業\n      读音: こうぎょう\n      意思: mining industry\n      来源: waller\n      同义词: 礦業\n    ',
   },
   {
     question: '鉱山',
-    answer: 'kōzan',
+    answer: 'kozan',
     explantion: '\n      汉字: 鉱山\n      读音: こうざん\n      意思: mine (ore)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '降水',
-    answer: 'kōsui',
+    answer: 'kosui',
     explantion: '\n      汉字: 降水\n      读音: こうすい\n      意思: rainfall\n      来源:  precipitation\n      同义词: 降水\n    ',
   },
   {
     question: '降伏',
-    answer: 'gōbuku',
+    answer: 'kofuku',
     explantion: '\n      汉字: 降伏\n      读音: こうふく\n      意思: capitulation\n      来源:  surrender\n      同义词: 降伏, 降服\n    ',
   },
   {
     question: '香辛料',
-    answer: 'kōshinryō',
+    answer: 'koshinryo',
     explantion: '\n      汉字: 香辛料\n      读音: こうしんりょう\n      意思: spices\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -4374,17 +4374,17 @@ const n1 = [
   },
   {
     question: '高原',
-    answer: 'kōgen',
+    answer: 'kogen',
     explantion: '\n      汉字: 高原\n      读音: こうげん\n      意思: tableland\n      来源:  plateau\n      同义词: 高原\n    ',
   },
   {
     question: '高尚',
-    answer: 'kōshō',
+    answer: 'kosho',
     explantion: '\n      汉字: 高尚\n      读音: こうしょう\n      意思: high\n      来源:  noble\n      同义词: 高尚\n    ',
   },
   {
     question: '号',
-    answer: 'gō',
+    answer: 'gou',
     explantion: '\n      汉字: 号\n      读音: ごう\n      意思: number\n      来源:  issue\n      同义词: 号, 號\n    ',
   },
   {
@@ -4399,7 +4399,7 @@ const n1 = [
   },
   {
     question: '合意',
-    answer: 'gōi',
+    answer: 'goui',
     explantion: '\n      汉字: 合意\n      读音: ごうい\n      意思: agreement\n      来源:  consent\n      同义词: 合意\n    ',
   },
   {
@@ -4409,17 +4409,17 @@ const n1 = [
   },
   {
     question: '合議',
-    answer: 'gōgi',
+    answer: 'gogi',
     explantion: '\n      汉字: 合議\n      读音: ごうぎ\n      意思: consultation\n      来源:  conference\n      同义词: 合議\n    ',
   },
   {
     question: '合唱',
-    answer: 'gasshō',
+    answer: 'gasshou',
     explantion: '\n      汉字: 合唱\n      读音: がっしょう\n      意思: chorus\n      来源:  singing in a chorus\n      同义词: 合唱\n    ',
   },
   {
     question: '合成',
-    answer: 'gōsei',
+    answer: 'gousei',
     explantion: '\n      汉字: 合成\n      读音: ごうせい\n      意思: synthesis\n      来源:  composition\n      同义词: 合成\n    ',
   },
   {
@@ -4439,12 +4439,12 @@ const n1 = [
   },
   {
     question: '国境',
-    answer: 'kokkyō',
+    answer: 'kunizakai',
     explantion: '\n      汉字: 国境\n      读音: くにざかい\n      意思: national or state border\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '国交',
-    answer: 'kokkō',
+    answer: 'kotsuko',
     explantion: '\n      汉字: 国交\n      读音: こっこう\n      意思: diplomatic relations\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -4464,12 +4464,12 @@ const n1 = [
   },
   {
     question: '国防',
-    answer: 'kokubō',
+    answer: 'kokubou',
     explantion: '\n      汉字: 国防\n      读音: こくぼう\n      意思: national defence\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '国有',
-    answer: 'kokuyū',
+    answer: 'kokuyuu',
     explantion: '\n      汉字: 国有\n      读音: こくゆう\n      意思: national ownership\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -4489,12 +4489,12 @@ const n1 = [
   },
   {
     question: '骨',
-    answer: 'hone',
+    answer: 'kotsu',
     explantion: '\n      汉字: 骨\n      读音: こつ\n      意思: knack\n      来源:  skill\n      同义词: 骨, , \n    ',
   },
   {
     question: '骨董品',
-    answer: 'kottōhin',
+    answer: 'kottohin',
     explantion: '\n      汉字: 骨董品\n      读音: こっとうひん\n      意思: curio\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -4509,7 +4509,7 @@ const n1 = [
   },
   {
     question: '今日は',
-    answer: 'kyōwa',
+    answer: 'konnichiwa',
     explantion: '\n      汉字: 今日は\n      读音: こんにちは\n      意思: hello\n      来源:  good day (daytime greeting id)\n      同义词: 今日は\n    ',
   },
   {
@@ -4519,7 +4519,7 @@ const n1 = [
   },
   {
     question: '昆虫',
-    answer: 'konchū',
+    answer: 'konchiyuu',
     explantion: '\n      汉字: 昆虫\n      读音: こんちゅう\n      意思: insect\n      来源:  bug\n      同义词: 昆虫\n    ',
   },
   {
@@ -4534,7 +4534,7 @@ const n1 = [
   },
   {
     question: '根拠',
-    answer: 'konkyo',
+    answer: 'konkiyo',
     explantion: '\n      汉字: 根拠\n      读音: こんきょ\n      意思: basis\n      来源:  foundation\n      同义词: 根拠\n    ',
   },
   {
@@ -4549,12 +4549,12 @@ const n1 = [
   },
   {
     question: '混同',
-    answer: 'kondō',
+    answer: 'kondou',
     explantion: '\n      汉字: 混同\n      读音: こんどう\n      意思: confusion\n      来源:  mixing\n      同义词: 混同\n    ',
   },
   {
     question: '左様なら',
-    answer: 'sayōnara',
+    answer: 'sayonara',
     explantion: '\n      汉字: 左様なら\n      读音: さようなら\n      意思: good-bye\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -4664,7 +4664,7 @@ const n1 = [
   },
   {
     question: '採集',
-    answer: 'saishū',
+    answer: 'saishu',
     explantion: '\n      汉字: 採集\n      读音: さいしゅう\n      意思: collecting\n      来源:  gathering\n      同义词: 採集\n    ',
   },
   {
@@ -4674,7 +4674,7 @@ const n1 = [
   },
   {
     question: '採用',
-    answer: 'saiyō',
+    answer: 'saiyo',
     explantion: '\n      汉字: 採用\n      读音: さいよう\n      意思: use\n      来源:  adopt\n      同义词: 採用\n    ',
   },
   {
@@ -4684,7 +4684,7 @@ const n1 = [
   },
   {
     question: '歳',
-    answer: 'toshi',
+    answer: 'sai',
     explantion: '\n      汉字: 歳\n      读音: さい\n      意思: #NAME?\n      来源: waller\n      同义词: 才\n    ',
   },
   {
@@ -4714,12 +4714,12 @@ const n1 = [
   },
   {
     question: '細工',
-    answer: 'zaiku',
+    answer: 'saiku',
     explantion: '\n      汉字: 細工\n      读音: さいく\n      意思: work\n      来源:  craftsmanship\n      同义词: 細工\n    ',
   },
   {
     question: '細胞',
-    answer: 'saibō',
+    answer: 'saibou',
     explantion: '\n      汉字: 細胞\n      读音: さいぼう\n      意思: cell (biology)\n      来源: waller\n      同义词: 細胞\n    ',
   },
   {
@@ -4729,7 +4729,7 @@ const n1 = [
   },
   {
     question: '際',
-    answer: 'sai',
+    answer: 'kiwa',
     explantion: '\n      汉字: 際\n      读音: きわ\n      意思: edge\n      来源:  brink\n      同义词: 際, 際\n    ',
   },
   {
@@ -4774,12 +4774,12 @@ const n1 = [
   },
   {
     question: '作物',
-    answer: 'sakumotsu',
+    answer: 'sakubutsu',
     explantion: '\n      汉字: 作物\n      读音: さくぶつ\n      意思: literary work\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '作用',
-    answer: 'sayō',
+    answer: 'sayo',
     explantion: '\n      汉字: 作用\n      读音: さよう\n      意思: action\n      来源:  operation\n      同义词: 作用\n    ',
   },
   {
@@ -4789,7 +4789,7 @@ const n1 = [
   },
   {
     question: '柵',
-    answer: 'shigarami',
+    answer: 'saku',
     explantion: '\n      汉字: 柵\n      读音: さく\n      意思: fence\n      来源:  paling\n      同义词: 柵\n    ',
   },
   {
@@ -4859,12 +4859,12 @@ const n1 = [
   },
   {
     question: '参照',
-    answer: 'sanshō',
+    answer: 'sansho',
     explantion: '\n      汉字: 参照\n      读音: さんしょう\n      意思: reference\n      来源:  consultation\n      同义词: 参照\n    ',
   },
   {
     question: '参上',
-    answer: 'sanjō',
+    answer: 'sanjou',
     explantion: '\n      汉字: 参上\n      读音: さんじょう\n      意思: calling on\n      来源:  visiting\n      同义词: 参上\n    ',
   },
   {
@@ -4879,7 +4879,7 @@ const n1 = [
   },
   {
     question: '山脈',
-    answer: 'sammyaku',
+    answer: 'sanmyaku',
     explantion: '\n      汉字: 山脈\n      读音: さんみゃく\n      意思: mountain range\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -4889,12 +4889,12 @@ const n1 = [
   },
   {
     question: '桟橋',
-    answer: 'sambashi',
+    answer: 'sankyo',
     explantion: '\n      汉字: 桟橋\n      读音: さんきょう\n      意思: wharf\n      来源:  bridge\n      同义词: 桟橋, 桟橋, 棧橋, 棧橋\n    ',
   },
   {
     question: '産休',
-    answer: 'sankyū',
+    answer: 'sankyu',
     explantion: '\n      汉字: 産休\n      读音: さんきゅう\n      意思: maternity leave\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -4914,12 +4914,12 @@ const n1 = [
   },
   {
     question: '産物',
-    answer: 'sambutsu',
+    answer: 'sanbutsu',
     explantion: '\n      汉字: 産物\n      读音: さんぶつ\n      意思: product\n      来源:  result\n      同义词: 産物\n    ',
   },
   {
     question: '賛美',
-    answer: 'sambi',
+    answer: 'sanbi',
     explantion: '\n      汉字: 賛美\n      读音: さんび\n      意思: praise\n      来源:  adoration\n      同义词: 賛美, 讚美, 讃美\n    ',
   },
   {
@@ -4994,7 +4994,7 @@ const n1 = [
   },
   {
     question: '仕様',
-    answer: 'shiyō',
+    answer: 'shiyo',
     explantion: '\n      汉字: 仕様\n      读音: しよう\n      意思: way\n      来源:  method\n      同义词: 仕様, 仕樣\n    ',
   },
   {
@@ -5019,12 +5019,12 @@ const n1 = [
   },
   {
     question: '使用人',
-    answer: 'shiyōnin',
+    answer: 'shiyonin',
     explantion: '\n      汉字: 使用人\n      读音: しようにん\n      意思: employee\n      来源:  servant\n      同义词: 使用人\n    ',
   },
   {
     question: '刺繍',
-    answer: 'shishū',
+    answer: 'shishu',
     explantion: '\n      汉字: 刺繍\n      读音: ししゅう\n      意思: embroidery\n      来源: waller\n      同义词: 刺しゅう, 刺繡\n    ',
   },
   {
@@ -5034,7 +5034,7 @@ const n1 = [
   },
   {
     question: '司法',
-    answer: 'shihō',
+    answer: 'shiho',
     explantion: '\n      汉字: 司法\n      读音: しほう\n      意思: administration of justice\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -5074,12 +5074,12 @@ const n1 = [
   },
   {
     question: '志向',
-    answer: 'shikō',
+    answer: 'shiko',
     explantion: '\n      汉字: 志向\n      读音: しこう\n      意思: intention\n      来源:  aim\n      同义词: 志向\n    ',
   },
   {
     question: '志望',
-    answer: 'shibō',
+    answer: 'shibou',
     explantion: '\n      汉字: 志望\n      读音: しぼう\n      意思: wish\n      来源:  desire\n      同义词: 志望\n    ',
   },
   {
@@ -5089,7 +5089,7 @@ const n1 = [
   },
   {
     question: '思考',
-    answer: 'shikō',
+    answer: 'shiko',
     explantion: '\n      汉字: 思考\n      读音: しこう\n      意思: thought\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -5139,7 +5139,7 @@ const n1 = [
   },
   {
     question: '甘い',
-    answer: 'amai',
+    answer: 'umai',
     explantion: '\n      汉字: 甘い\n      读音: うまい\n      意思: delicious\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -5154,12 +5154,12 @@ const n1 = [
   },
   {
     question: '氏',
-    answer: 'shi',
+    answer: 'uji',
     explantion: '\n      汉字: 氏\n      读音: うじ\n      意思: family name\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '私',
-    answer: 'watashi',
+    answer: 'atashi',
     explantion: '\n      汉字: 私\n      读音: あたし\n      意思: I (fem)\n      来源: waller\n      同义词: , , 私, , 私, 私\n    ',
   },
   {
@@ -5169,22 +5169,22 @@ const n1 = [
   },
   {
     question: '私有',
-    answer: 'shiyū',
+    answer: 'shiyuu',
     explantion: '\n      汉字: 私有\n      读音: しゆう\n      意思: private ownership\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '私用',
-    answer: 'shiyō',
+    answer: 'shiyo',
     explantion: '\n      汉字: 私用\n      读音: しよう\n      意思: personal use\n      来源:  private business\n      同义词: 私用\n    ',
   },
   {
     question: '脂肪',
-    answer: 'shibō',
+    answer: 'shibou',
     explantion: '\n      汉字: 脂肪\n      读音: しぼう\n      意思: fat\n      来源:  grease\n      同义词: 脂肪\n    ',
   },
   {
     question: '至って',
-    answer: 'itatte',
+    answer: 'itatsute',
     explantion: '\n      汉字: 至って\n      读音: いたって\n      意思: very much\n      来源:  exceedingly\n      同义词: 至って\n    ',
   },
   {
@@ -5259,12 +5259,12 @@ const n1 = [
   },
   {
     question: '事業',
-    answer: 'jigyō',
+    answer: 'jigyou',
     explantion: '\n      汉字: 事業\n      读音: じぎょう\n      意思: project\n      来源:  enterprise\n      同义词: 事業, 事業\n    ',
   },
   {
     question: '事項',
-    answer: 'jikō',
+    answer: 'jiko',
     explantion: '\n      汉字: 事項\n      读音: じこう\n      意思: matter\n      来源:  item\n      同义词: 事項\n    ',
   },
   {
@@ -5289,7 +5289,7 @@ const n1 = [
   },
   {
     question: '字',
-    answer: 'ji',
+    answer: 'aza',
     explantion: '\n      汉字: 字\n      读音: あざ\n      意思: section of village\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -5319,7 +5319,7 @@ const n1 = [
   },
   {
     question: '時刻表',
-    answer: 'jikokuhyō',
+    answer: 'jikokuhyou',
     explantion: '\n      汉字: 時刻表\n      读音: じこくひょう\n      意思: table\n      来源:  diagram\n      同义词: 時刻表\n    ',
   },
   {
@@ -5344,7 +5344,7 @@ const n1 = [
   },
   {
     question: '治療',
-    answer: 'chiryō',
+    answer: 'chiriyou',
     explantion: '\n      汉字: 治療\n      读音: ちりょう\n      意思: medical treatment\n      来源: waller\n      同义词: 治療\n    ',
   },
   {
@@ -5394,12 +5394,12 @@ const n1 = [
   },
   {
     question: '自主',
-    answer: 'jishu',
+    answer: 'jishiyu',
     explantion: '\n      汉字: 自主\n      读音: じしゅ\n      意思: independence\n      来源:  autonomy\n      同义词: 自主\n    ',
   },
   {
     question: '自首',
-    answer: 'jishu',
+    answer: 'jishiyu',
     explantion: '\n      汉字: 自首\n      读音: じしゅ\n      意思: surrender\n      来源:  give oneself up\n      同义词: 自首\n    ',
   },
   {
@@ -5419,7 +5419,7 @@ const n1 = [
   },
   {
     question: '自動詞',
-    answer: 'jidōshi',
+    answer: 'jidoshi',
     explantion: '\n      汉字: 自動詞\n      读音: じどうし\n      意思: intransitive verb (no direct obj)\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -5439,7 +5439,7 @@ const n1 = [
   },
   {
     question: '式場',
-    answer: 'shikijō',
+    answer: 'shikijiyou',
     explantion: '\n      汉字: 式場\n      读音: しきじょう\n      意思: ceremonial hall\n      来源:  place of ceremony (e.g. marriage)\n      同义词: 式場\n    ',
   },
   {
@@ -5454,7 +5454,7 @@ const n1 = [
   },
   {
     question: '失調',
-    answer: 'shitchō',
+    answer: 'shitsuchou',
     explantion: '\n      汉字: 失調\n      读音: しっちょう\n      意思: lack of harmony\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -5474,7 +5474,7 @@ const n1 = [
   },
   {
     question: '疾っくに',
-    answer: '疾tsukuni',
+    answer: 'tokkuni',
     explantion: '\n      汉字: 疾っくに\n      读音: とっくに\n      意思: long ago\n      来源:  already\n      同义词: 疾っくに\n    ',
   },
   {
@@ -5489,12 +5489,12 @@ const n1 = [
   },
   {
     question: '実',
-    answer: 'mi',
+    answer: 'jitsu',
     explantion: '\n      汉字: 実\n      读音: じつ\n      意思: truth\n      来源:  reality\n      同义词: 実, 実\n    ',
   },
   {
     question: '実業家',
-    answer: 'jitsugyōka',
+    answer: 'jitsugyouka',
     explantion: '\n      汉字: 実業家\n      读音: じつぎょうか\n      意思: industrialist\n      来源:  businessman\n      同义词: 実業家\n    ',
   },
   {
@@ -5509,12 +5509,12 @@ const n1 = [
   },
   {
     question: '実態',
-    answer: 'jittai',
+    answer: 'jitsutai',
     explantion: '\n      汉字: 実態\n      读音: じったい\n      意思: truth\n      来源:  fact\n      同义词: 実態\n    ',
   },
   {
     question: '実費',
-    answer: 'jippi',
+    answer: 'jitsupi',
     explantion: '\n      汉字: 実費\n      读音: じっぴ\n      意思: actual expense\n      来源:  cost price\n      同义词: 実費\n    ',
   },
   {
@@ -5534,12 +5534,12 @@ const n1 = [
   },
   {
     question: '社',
-    answer: 'sha',
+    answer: 'yashiro',
     explantion: '\n      汉字: 社\n      读音: やしろ\n      意思: Shinto shrine\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '社交',
-    answer: 'shakō',
+    answer: 'shako',
     explantion: '\n      汉字: 社交\n      读音: しゃこう\n      意思: social life\n      来源:  social intercourse\n      同义词: 社交\n    ',
   },
   {
@@ -5549,7 +5549,7 @@ const n1 = [
   },
   {
     question: '謝絶',
-    answer: 'shazetsu',
+    answer: 'shiyazetsu',
     explantion: '\n      汉字: 謝絶\n      读音: しゃぜつ\n      意思: refusal\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -5594,22 +5594,22 @@ const n1 = [
   },
   {
     question: '主演',
-    answer: 'shuen',
+    answer: 'shiyuen',
     explantion: '\n      汉字: 主演\n      读音: しゅえん\n      意思: starring\n      来源:  playing the leading part\n      同义词: 主演\n    ',
   },
   {
     question: '主観',
-    answer: 'shukan',
+    answer: 'shiyukan',
     explantion: '\n      汉字: 主観\n      读音: しゅかん\n      意思: subjectivity\n      来源:  subject\n      同义词: 主観\n    ',
   },
   {
     question: '主権',
-    answer: 'shuken',
+    answer: 'shiyuken',
     explantion: '\n      汉字: 主権\n      读音: しゅけん\n      意思: sovereignty\n      来源:  supremacy\n      同义词: 主権, 主權\n    ',
   },
   {
     question: '主催',
-    answer: 'shusai',
+    answer: 'shiyusai',
     explantion: '\n      汉字: 主催\n      读音: しゅさい\n      意思: organization\n      来源:  sponsorship\n      同义词: 主催\n    ',
   },
   {
@@ -5619,27 +5619,27 @@ const n1 = [
   },
   {
     question: '主人公',
-    answer: 'shujinkō',
+    answer: 'shiyujinkou',
     explantion: '\n      汉字: 主人公\n      读音: しゅじんこう\n      意思: protagonist\n      来源:  main character\n      同义词: 主人公\n    ',
   },
   {
     question: '主体',
-    answer: 'shutai',
+    answer: 'shiyutai',
     explantion: '\n      汉字: 主体\n      读音: しゅたい\n      意思: subject\n      来源:  main constituent\n      同义词: 主体\n    ',
   },
   {
     question: '主題',
-    answer: 'shudai',
+    answer: 'shiyudai',
     explantion: '\n      汉字: 主題\n      读音: しゅだい\n      意思: subject\n      来源:  theme\n      同义词: 主題\n    ',
   },
   {
     question: '主導',
-    answer: 'shudō',
+    answer: 'shiyudou',
     explantion: '\n      汉字: 主導\n      读音: しゅどう\n      意思: main leadership\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '主任',
-    answer: 'shunin',
+    answer: 'shiyunin',
     explantion: '\n      汉字: 主任\n      读音: しゅにん\n      意思: person in charge\n      来源:  responsible official\n      同义词: 主任\n    ',
   },
   {
@@ -5699,12 +5699,12 @@ const n1 = [
   },
   {
     question: '取材',
-    answer: 'shuzai',
+    answer: 'shiyuzai',
     explantion: '\n      汉字: 取材\n      读音: しゅざい\n      意思: choice of subject\n      来源:  collecting data\n      同义词: 取材\n    ',
   },
   {
     question: '守衛',
-    answer: 'shuei',
+    answer: 'shiyuei',
     explantion: '\n      汉字: 守衛\n      读音: しゅえい\n      意思: security guard\n      来源:  doorkeeper\n      同义词: 守衛\n    ',
   },
   {
@@ -5734,7 +5734,7 @@ const n1 = [
   },
   {
     question: '手芸',
-    answer: 'shugei',
+    answer: 'shiyugei',
     explantion: '\n      汉字: 手芸\n      读音: しゅげい\n      意思: handicrafts\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -5754,12 +5754,12 @@ const n1 = [
   },
   {
     question: '手錠',
-    answer: 'tejō',
+    answer: 'tejiyou',
     explantion: '\n      汉字: 手錠\n      读音: てじょう\n      意思: handcuffs\n      来源:  manacles\n      同义词: 手錠\n    ',
   },
   {
     question: '手数',
-    answer: 'tesū',
+    answer: 'tekazu',
     explantion: '\n      汉字: 手数\n      读音: てかず\n      意思: number of moves\n      来源:  trouble\n      同义词: 手数, 手数\n    ',
   },
   {
@@ -5784,7 +5784,7 @@ const n1 = [
   },
   {
     question: '手法',
-    answer: 'shuhō',
+    answer: 'shiyuhou',
     explantion: '\n      汉字: 手法\n      读音: しゅほう\n      意思: technique\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -5799,7 +5799,7 @@ const n1 = [
   },
   {
     question: '種',
-    answer: 'tane',
+    answer: 'shiyu',
     explantion: '\n      汉字: 種\n      读音: しゅ\n      意思: kind\n      来源:  variety\n      同义词: 種\n    ',
   },
   {
@@ -5814,7 +5814,7 @@ const n1 = [
   },
   {
     question: '趣旨',
-    answer: 'shushi',
+    answer: 'shiyushi',
     explantion: '\n      汉字: 趣旨\n      读音: しゅし\n      意思: object\n      来源:  meaning\n      同义词: 趣旨, 主旨\n    ',
   },
   {
@@ -5824,7 +5824,7 @@ const n1 = [
   },
   {
     question: '首脳',
-    answer: 'shunō',
+    answer: 'shiyunou',
     explantion: '\n      汉字: 首脳\n      读音: しゅのう\n      意思: head\n      来源:  brains\n      同义词: 首脳, 主脳\n    ',
   },
   {
@@ -5879,12 +5879,12 @@ const n1 = [
   },
   {
     question: '樹木',
-    answer: 'jumoku',
+    answer: 'jiyumoku',
     explantion: '\n      汉字: 樹木\n      读音: じゅもく\n      意思: trees and shrubs\n      来源:  arbour\n      同义词: 樹木\n    ',
   },
   {
     question: '樹立',
-    answer: 'juritsu',
+    answer: 'jiyuritsu',
     explantion: '\n      汉字: 樹立\n      读音: じゅりつ\n      意思: establish\n      来源:  create\n      同义词: 樹立\n    ',
   },
   {
@@ -5894,82 +5894,82 @@ const n1 = [
   },
   {
     question: '収益',
-    answer: 'shūeki',
+    answer: 'shiyuueki',
     explantion: '\n      汉字: 収益\n      读音: しゅうえき\n      意思: earnings\n      来源:  proceeds\n      同义词: 収益\n    ',
   },
   {
     question: '収支',
-    answer: 'shūshi',
+    answer: 'shushi',
     explantion: '\n      汉字: 収支\n      读音: しゅうし\n      意思: income and expenditure\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '収容',
-    answer: 'shūyō',
+    answer: 'shuyo',
     explantion: '\n      汉字: 収容\n      读音: しゅうよう\n      意思: accommodation\n      来源:  reception\n      同义词: 収容\n    ',
   },
   {
     question: '周',
-    answer: 'shū',
+    answer: 'shu',
     explantion: '\n      汉字: 周\n      读音: しゅう\n      意思: circuit\n      来源:  lap\n      同义词: 周\n    ',
   },
   {
     question: '周期',
-    answer: 'shūki',
+    answer: 'shuki',
     explantion: '\n      汉字: 周期\n      读音: しゅうき\n      意思: cycle\n      来源:  period\n      同义词: 周期\n    ',
   },
   {
     question: '就業',
-    answer: 'shūgyō',
+    answer: 'shugyo',
     explantion: '\n      汉字: 就業\n      读音: しゅうぎょう\n      意思: employment\n      来源:  starting work\n      同义词: 就業\n    ',
   },
   {
     question: '修学',
-    answer: 'shūgaku',
+    answer: 'shugaku',
     explantion: '\n      汉字: 修学\n      读音: しゅうがく\n      意思: learning\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '修士',
-    answer: 'shūshi',
+    answer: 'shushi',
     explantion: '\n      汉字: 修士\n      读音: しゅうし\n      意思: Masters degree program\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '修飾',
-    answer: 'shūshoku',
+    answer: 'shushoku',
     explantion: '\n      汉字: 修飾\n      读音: しゅうしょく\n      意思: ornamentation\n      来源:  embellishment\n      同义词: 修飾\n    ',
   },
   {
     question: '修了',
-    answer: 'shūryō',
+    answer: 'shuryo',
     explantion: '\n      汉字: 修了\n      读音: しゅうりょう\n      意思: completion (of a course)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '終始',
-    answer: 'shūshi',
+    answer: 'shushi',
     explantion: '\n      汉字: 終始\n      读音: しゅうし\n      意思: beginning and end\n      来源:  from beginning to end\n      同义词: 終始\n    ',
   },
   {
     question: '終日',
-    answer: 'shūjitsu',
+    answer: 'shiyuujitsu',
     explantion: '\n      汉字: 終日\n      读音: しゅうじつ\n      意思: all day\n      来源: waller\n      同义词: 終日, 終日, 終日\n    ',
   },
   {
     question: '衆',
-    answer: 'shū',
+    answer: 'shu',
     explantion: '\n      汉字: 衆\n      读音: しゅう\n      意思: masses\n      来源:  great number\n      同义词: 衆, 衆\n    ',
   },
   {
     question: '衆議院',
-    answer: 'shūgiin',
+    answer: 'shiyuugiin',
     explantion: '\n      汉字: 衆議院\n      读音: しゅうぎいん\n      意思: Lower House\n      来源:  House of Representatives\n      同义词: 衆議院\n    ',
   },
   {
     question: '襲う',
-    answer: 'osou',
+    answer: 'oso',
     explantion: '\n      汉字: 襲う\n      读音: おそう\n      意思: to attack\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '襲撃',
-    answer: 'shūgeki',
+    answer: 'shugeki',
     explantion: '\n      汉字: 襲撃\n      读音: しゅうげき\n      意思: attack\n      来源:  charge\n      同义词: 襲撃\n    ',
   },
   {
@@ -5984,47 +5984,47 @@ const n1 = [
   },
   {
     question: '集計',
-    answer: 'shūkei',
+    answer: 'shukei',
     explantion: '\n      汉字: 集計\n      读音: しゅうけい\n      意思: totalization\n      来源:  aggregate\n      同义词: 集計\n    ',
   },
   {
     question: '住',
-    answer: 'jū',
+    answer: 'ju',
     explantion: '\n      汉字: 住\n      读音: じゅう\n      意思: dwelling\n      来源:  living\n      同义词: 住\n    ',
   },
   {
     question: '充実',
-    answer: 'jūjitsu',
+    answer: 'jujitsu',
     explantion: '\n      汉字: 充実\n      读音: じゅうじつ\n      意思: fullness\n      来源:  completion\n      同义词: 充実\n    ',
   },
   {
     question: '十字路',
-    answer: 'jūjiro',
+    answer: 'jujiro',
     explantion: '\n      汉字: 十字路\n      读音: じゅうじろ\n      意思: crossroads\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '十分',
-    answer: 'jūfun',
+    answer: 'jitsupun',
     explantion: '\n      汉字: 十分\n      读音: じっぷん\n      意思: 10 minutes\n      来源: waller\n      同义词: １０分, １０分, 十分\n    ',
   },
   {
     question: '従業員',
-    answer: 'jūgyōin',
+    answer: 'jugyouin',
     explantion: '\n      汉字: 従業員\n      读音: じゅうぎょういん\n      意思: employee\n      来源:  worker\n      同义词: 従業員\n    ',
   },
   {
     question: '従事',
-    answer: 'jūji',
+    answer: 'juji',
     explantion: '\n      汉字: 従事\n      读音: じゅうじ\n      意思: engaging\n      来源:  pursuing\n      同义词: 従事\n    ',
   },
   {
     question: '従来',
-    answer: 'jūrai',
+    answer: 'jurai',
     explantion: '\n      汉字: 従来\n      读音: じゅうらい\n      意思: up to now\n      来源:  so far\n      同义词: 従来\n    ',
   },
   {
     question: '柔軟',
-    answer: 'jūnan',
+    answer: 'junan',
     explantion: '\n      汉字: 柔軟\n      读音: じゅうなん\n      意思: flexible\n      来源:  lithe\n      同义词: 柔軟\n    ',
   },
   {
@@ -6034,12 +6034,12 @@ const n1 = [
   },
   {
     question: '獣',
-    answer: 'shishi',
+    answer: 'kedamono',
     explantion: '\n      汉字: 獣\n      读音: けだもの\n      意思: beast\n      来源:  brute\n      同义词: 獣, 獣, 獣, \n    ',
   },
   {
     question: '重',
-    answer: 'omo',
+    answer: 'e',
     explantion: '\n      汉字: 重\n      读音: え\n      意思: -fold\n      来源:  -ply\n      同义词: 重\n    ',
   },
   {
@@ -6054,7 +6054,7 @@ const n1 = [
   },
   {
     question: '重役',
-    answer: 'jūyaku',
+    answer: 'omoyaku',
     explantion: '\n      汉字: 重役\n      读音: おもやく\n      意思: heavy responsibilities\n      来源:  director\n      同义词: 重役\n    ',
   },
   {
@@ -6074,7 +6074,7 @@ const n1 = [
   },
   {
     question: '塾',
-    answer: 'juku',
+    answer: 'jiyuku',
     explantion: '\n      汉字: 塾\n      读音: じゅく\n      意思: coaching school\n      来源:  lessons\n      同义词: 塾\n    ',
   },
   {
@@ -6129,7 +6129,7 @@ const n1 = [
   },
   {
     question: '出動',
-    answer: 'shutsudō',
+    answer: 'shutsudo',
     explantion: '\n      汉字: 出動\n      读音: しゅつどう\n      意思: sailing\n      来源:  marching\n      同义词: 出動\n    ',
   },
   {
@@ -6154,7 +6154,7 @@ const n1 = [
   },
   {
     question: '準急',
-    answer: 'junkyū',
+    answer: 'junkyu',
     explantion: '\n      汉字: 準急\n      读音: じゅんきゅう\n      意思: local express (train slower than an express)\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -6169,7 +6169,7 @@ const n1 = [
   },
   {
     question: '処置',
-    answer: 'shochi',
+    answer: 'shiyochi',
     explantion: '\n      汉字: 処置\n      读音: しょち\n      意思: treatment\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -6189,7 +6189,7 @@ const n1 = [
   },
   {
     question: '初耳',
-    answer: 'hatsumimi',
+    answer: 'watsumimi',
     explantion: '\n      汉字: 初耳\n      读音: はつみみ\n      意思: something heard for the first time\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -6204,12 +6204,12 @@ const n1 = [
   },
   {
     question: '所謂',
-    answer: 'tokoroī',
+    answer: 'iwayuru',
     explantion: '\n      汉字: 所謂\n      读音: いわゆる\n      意思: the so-called\n      来源:  so to speak\n      同义词: 所謂\n    ',
   },
   {
     question: '所在',
-    answer: 'shozai',
+    answer: 'shiyozai',
     explantion: '\n      汉字: 所在\n      读音: しょざい\n      意思: whereabouts\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -6219,7 +6219,7 @@ const n1 = [
   },
   {
     question: '所属',
-    answer: 'shozoku',
+    answer: 'shiyozoku',
     explantion: '\n      汉字: 所属\n      读音: しょぞく\n      意思: attached to\n      来源:  belong to\n      同义词: 所属\n    ',
   },
   {
@@ -6249,7 +6249,7 @@ const n1 = [
   },
   {
     question: '書評',
-    answer: 'shohyō',
+    answer: 'shohyou',
     explantion: '\n      汉字: 書評\n      读音: しょひょう\n      意思: book review\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -6264,7 +6264,7 @@ const n1 = [
   },
   {
     question: '助',
-    answer: 'suke',
+    answer: 'jiyo',
     explantion: '\n      汉字: 助\n      读音: じょ\n      意思: help\n      来源:  rescue\n      同义词: 助\n    ',
   },
   {
@@ -6279,7 +6279,7 @@ const n1 = [
   },
   {
     question: '助動詞',
-    answer: 'jodōshi',
+    answer: 'jiyodoushi',
     explantion: '\n      汉字: 助動詞\n      读音: じょどうし\n      意思: auxiliary verb\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -6289,22 +6289,22 @@ const n1 = [
   },
   {
     question: '女子',
-    answer: 'joshi',
+    answer: 'onago',
     explantion: '\n      汉字: 女子\n      读音: おなご\n      意思: woman\n      来源:  girl\n      同义词: 女子\n    ',
   },
   {
     question: '徐行',
-    answer: 'jokō',
+    answer: 'jiyokou',
     explantion: '\n      汉字: 徐行\n      读音: じょこう\n      意思: going slowly\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '除外',
-    answer: 'jogai',
+    answer: 'jiyogai',
     explantion: '\n      汉字: 除外\n      读音: じょがい\n      意思: exception\n      来源:  exclusion\n      同义词: 除外\n    ',
   },
   {
     question: '勝利',
-    answer: 'shōri',
+    answer: 'shori',
     explantion: '\n      汉字: 勝利\n      读音: しょうり\n      意思: victory\n      来源:  triumph\n      同义词: 勝利, 捷利\n    ',
   },
   {
@@ -6314,7 +6314,7 @@ const n1 = [
   },
   {
     question: '商',
-    answer: 'shō',
+    answer: 'sho',
     explantion: '\n      汉字: 商\n      读音: しょう\n      意思: quotient\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -6324,17 +6324,17 @@ const n1 = [
   },
   {
     question: '奨励',
-    answer: 'shōrei',
+    answer: 'shorei',
     explantion: '\n      汉字: 奨励\n      读音: しょうれい\n      意思: encouragement\n      来源:  promotion\n      同义词: 奨励\n    ',
   },
   {
     question: '小児科',
-    answer: 'shōnika',
+    answer: 'shonika',
     explantion: '\n      汉字: 小児科\n      读音: しょうにか\n      意思: pediatrics\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '小切手',
-    answer: 'kogitte',
+    answer: 'kogitsute',
     explantion: '\n      汉字: 小切手\n      读音: こぎって\n      意思: cheque\n      来源:  check\n      同义词: 小切手\n    ',
   },
   {
@@ -6349,7 +6349,7 @@ const n1 = [
   },
   {
     question: '少数',
-    answer: 'shōsū',
+    answer: 'shosu',
     explantion: '\n      汉字: 少数\n      读音: しょうすう\n      意思: minority\n      来源:  few\n      同义词: 少数\n    ',
   },
   {
@@ -6364,12 +6364,12 @@ const n1 = [
   },
   {
     question: '床',
-    answer: 'yuka',
+    answer: 'toko',
     explantion: '\n      汉字: 床\n      读音: とこ\n      意思: bed\n      来源:  sickbed\n      同义词: 床\n    ',
   },
   {
     question: '承諾',
-    answer: 'shōdaku',
+    answer: 'shodaku',
     explantion: '\n      汉字: 承諾\n      读音: しょうだく\n      意思: consent\n      来源:  acquiescence\n      同义词: 承諾\n    ',
   },
   {
@@ -6379,7 +6379,7 @@ const n1 = [
   },
   {
     question: '昇進',
-    answer: 'shōshin',
+    answer: 'shoshin',
     explantion: '\n      汉字: 昇進\n      读音: しょうしん\n      意思: promotion\n      来源: waller\n      同义词: 昇進, 陞進, 陞進\n    ',
   },
   {
@@ -6394,12 +6394,12 @@ const n1 = [
   },
   {
     question: '消去',
-    answer: 'shōkyo',
+    answer: 'shiyoukyo',
     explantion: '\n      汉字: 消去\n      读音: しょうきょ\n      意思: elimination\n      来源:  erasing\n      同义词: 消去\n    ',
   },
   {
     question: '消息',
-    answer: 'shōsoku',
+    answer: 'shosoku',
     explantion: '\n      汉字: 消息\n      读音: しょうそく\n      意思: news\n      来源:  letter\n      同义词: 消息, 消息\n    ',
   },
   {
@@ -6419,27 +6419,27 @@ const n1 = [
   },
   {
     question: '照合',
-    answer: 'shōgō',
+    answer: 'shogou',
     explantion: '\n      汉字: 照合\n      读音: しょうごう\n      意思: collation\n      来源:  comparison\n      同义词: 照合\n    ',
   },
   {
     question: '照明',
-    answer: 'shōmei',
+    answer: 'shomei',
     explantion: '\n      汉字: 照明\n      读音: しょうめい\n      意思: illumination\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '症',
-    answer: 'shō',
+    answer: 'sho',
     explantion: '\n      汉字: 症\n      读音: しょう\n      意思: illness\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '称する',
-    answer: 'shōsuru',
+    answer: 'shosuru',
     explantion: '\n      汉字: 称する\n      读音: しょうする\n      意思: to pretend\n      来源:  to take the name of\n      同义词: 称する\n    ',
   },
   {
     question: '衝撃',
-    answer: 'shōgeki',
+    answer: 'shogeki',
     explantion: '\n      汉字: 衝撃\n      读音: しょうげき\n      意思: shock\n      来源:  crash\n      同义词: 衝撃\n    ',
   },
   {
@@ -6449,32 +6449,32 @@ const n1 = [
   },
   {
     question: '証拠',
-    answer: 'shōko',
+    answer: 'shoko',
     explantion: '\n      汉字: 証拠\n      读音: しょうこ\n      意思: evidence\n      来源:  proof\n      同义词: 証拠, 證據\n    ',
   },
   {
     question: '証言',
-    answer: 'shōgen',
+    answer: 'shogen',
     explantion: '\n      汉字: 証言\n      读音: しょうげん\n      意思: evidence\n      来源:  testimony\n      同义词: 証言\n    ',
   },
   {
     question: '証人',
-    answer: 'shōnin',
+    answer: 'shonin',
     explantion: '\n      汉字: 証人\n      读音: しょうにん\n      意思: witness\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '詳細',
-    answer: 'shōsai',
+    answer: 'shosai',
     explantion: '\n      汉字: 詳細\n      读音: しょうさい\n      意思: detail\n      来源:  particulars\n      同义词: 詳細\n    ',
   },
   {
     question: '象',
-    answer: 'zō',
+    answer: 'sho',
     explantion: '\n      汉字: 象\n      读音: しょう\n      意思: phenomenon\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '象徴',
-    answer: 'shōchō',
+    answer: 'shochou',
     explantion: '\n      汉字: 象徴\n      读音: しょうちょう\n      意思: symbol\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -6494,17 +6494,17 @@ const n1 = [
   },
   {
     question: '上位',
-    answer: 'jōi',
+    answer: 'jiyoui',
     explantion: '\n      汉字: 上位\n      读音: じょうい\n      意思: superior (rank not class)\n      来源:  higher order (e.g. byte)\n      同义词: 上位\n    ',
   },
   {
     question: '上演',
-    answer: 'jōen',
+    answer: 'jiyouen',
     explantion: '\n      汉字: 上演\n      读音: じょうえん\n      意思: performance (e.g. music)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '上下',
-    answer: 'jōka',
+    answer: 'ueshita',
     explantion: '\n      汉字: 上下\n      读音: うえした\n      意思: high and low\n      来源:  up and down\n      同义词: 上下\n    ',
   },
   {
@@ -6514,22 +6514,22 @@ const n1 = [
   },
   {
     question: '上空',
-    answer: 'jōkū',
+    answer: 'jiyoukuu',
     explantion: '\n      汉字: 上空\n      读音: じょうくう\n      意思: sky\n      来源:  the skies\n      同义词: 上空\n    ',
   },
   {
     question: '上司',
-    answer: 'jōshi',
+    answer: 'joshi',
     explantion: '\n      汉字: 上司\n      读音: じょうし\n      意思: superior authorities\n      来源:  boss\n      同义词: 上司\n    ',
   },
   {
     question: '上昇',
-    answer: 'jōshō',
+    answer: 'joshiyou',
     explantion: '\n      汉字: 上昇\n      读音: じょうしょう\n      意思: rising\n      来源:  ascending\n      同义词: 上昇\n    ',
   },
   {
     question: '上陸',
-    answer: 'jōriku',
+    answer: 'jiyouriku',
     explantion: '\n      汉字: 上陸\n      读音: じょうりく\n      意思: landing\n      来源:  disembarkation\n      同义词: 上陸\n    ',
   },
   {
@@ -6549,17 +6549,17 @@ const n1 = [
   },
   {
     question: '城下',
-    answer: 'jōka',
+    answer: 'jiyouka',
     explantion: '\n      汉字: 城下\n      读音: じょうか\n      意思: land near the castle\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '嬢',
-    answer: 'jō',
+    answer: 'jiyou',
     explantion: '\n      汉字: 嬢\n      读音: じょう\n      意思: young woman\n      来源: waller\n      同义词: 娘\n    ',
   },
   {
     question: '情',
-    answer: 'jō',
+    answer: 'jiyou',
     explantion: '\n      汉字: 情\n      读音: じょう\n      意思: feelings\n      来源:  emotion\n      同义词: 情\n    ',
   },
   {
@@ -6569,17 +6569,17 @@ const n1 = [
   },
   {
     question: '情勢',
-    answer: 'jōsei',
+    answer: 'jiyousei',
     explantion: '\n      汉字: 情勢\n      读音: じょうせい\n      意思: state of things\n      来源:  condition\n      同义词: 情勢, 状勢\n    ',
   },
   {
     question: '情熱',
-    answer: 'jōnetsu',
+    answer: 'jiyounetsu',
     explantion: '\n      汉字: 情熱\n      读音: じょうねつ\n      意思: passion\n      来源:  enthusiasm\n      同义词: 情熱\n    ',
   },
   {
     question: '条約',
-    answer: 'jōyaku',
+    answer: 'jiyouyaku',
     explantion: '\n      汉字: 条約\n      读音: じょうやく\n      意思: treaty\n      来源:  pact\n      同义词: 条約\n    ',
   },
   {
@@ -6589,22 +6589,22 @@ const n1 = [
   },
   {
     question: '状',
-    answer: 'jō',
+    answer: 'jiyou',
     explantion: '\n      汉字: 状\n      读音: じょう\n      意思: shape\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '畳',
-    answer: 'tatami',
+    answer: 'jiyou',
     explantion: '\n      汉字: 畳\n      读音: じょう\n      意思: #NAME?\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '蒸留',
-    answer: 'jōryū',
+    answer: 'joryu',
     explantion: '\n      汉字: 蒸留\n      读音: じょうりゅう\n      意思: distillation\n      来源: waller\n      同义词: 蒸溜, 蒸餾\n    ',
   },
   {
     question: '譲歩',
-    answer: 'jōho',
+    answer: 'jiyouho',
     explantion: '\n      汉字: 譲歩\n      读音: じょうほ\n      意思: concession\n      来源:  conciliation\n      同义词: 譲歩\n    ',
   },
   {
@@ -6614,7 +6614,7 @@ const n1 = [
   },
   {
     question: '植民地',
-    answer: 'shokuminchi',
+    answer: 'shiyokuminchi',
     explantion: '\n      汉字: 植民地\n      读音: しょくみんち\n      意思: colony\n      来源: waller\n      同义词: 殖民地\n    ',
   },
   {
@@ -6684,7 +6684,7 @@ const n1 = [
   },
   {
     question: '審判',
-    answer: 'shimpan',
+    answer: 'shinban',
     explantion: '\n      汉字: 審判\n      读音: しんばん\n      意思: refereeing\n      来源:  trial\n      同义词: 審判\n    ',
   },
   {
@@ -6709,7 +6709,7 @@ const n1 = [
   },
   {
     question: '心情',
-    answer: 'shinjō',
+    answer: 'shinjiyou',
     explantion: '\n      汉字: 心情\n      读音: しんじょう\n      意思: mentality\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -6719,7 +6719,7 @@ const n1 = [
   },
   {
     question: '心中',
-    answer: 'shinjū',
+    answer: 'shinju',
     explantion: '\n      汉字: 心中\n      读音: しんじゅう\n      意思: double suicide\n      来源:  lovers suicide\n      同义词: 心中, 心中\n    ',
   },
   {
@@ -6734,12 +6734,12 @@ const n1 = [
   },
   {
     question: '振興',
-    answer: 'shinkō',
+    answer: 'shinko',
     explantion: '\n      汉字: 振興\n      读音: しんこう\n      意思: promotion\n      来源:  encouragement\n      同义词: 振興\n    ',
   },
   {
     question: '振動',
-    answer: 'shindō',
+    answer: 'shindo',
     explantion: '\n      汉字: 振動\n      读音: しんどう\n      意思: oscillation\n      来源:  vibration\n      同义词: 振動\n    ',
   },
   {
@@ -6749,7 +6749,7 @@ const n1 = [
   },
   {
     question: '新興',
-    answer: 'shinkō',
+    answer: 'shinko',
     explantion: '\n      汉字: 新興\n      读音: しんこう\n      意思: rising\n      来源:  developing\n      同义词: 新興\n    ',
   },
   {
@@ -6769,7 +6769,7 @@ const n1 = [
   },
   {
     question: '新入生',
-    answer: 'shinnyūsei',
+    answer: 'shinnyusei',
     explantion: '\n      汉字: 新入生\n      读音: しんにゅうせい\n      意思: freshman\n      来源:  first-year student\n      同义词: 新入生\n    ',
   },
   {
@@ -6784,22 +6784,22 @@ const n1 = [
   },
   {
     question: '申出',
-    answer: 'mōshide',
+    answer: 'moshide',
     explantion: '\n      汉字: 申出\n      读音: もうしで\n      意思: proposal\n      来源:  request\n      同义词: 申出, 申し出\n    ',
   },
   {
     question: '申し出る',
-    answer: 'mōshideru',
+    answer: 'moshideru',
     explantion: '\n      汉字: 申し出る\n      读音: もうしでる\n      意思: to report to\n      来源:  to tell\n      同义词: 申し出る, 申出る\n    ',
   },
   {
     question: '申し入れる',
-    answer: 'mōshiireru',
+    answer: 'moshiireru',
     explantion: '\n      汉字: 申し入れる\n      读音: もうしいれる\n      意思: to propose\n      来源:  to suggest\n      同义词: 申し入れる\n    ',
   },
   {
     question: '申し分',
-    answer: 'mōshibun',
+    answer: 'moshibun',
     explantion: '\n      汉字: 申し分\n      读音: もうしぶん\n      意思: objection\n      来源:  shortcomings\n      同义词: 申し分\n    ',
   },
   {
@@ -6809,7 +6809,7 @@ const n1 = [
   },
   {
     question: '真っ二つ',
-    answer: 'matsufutatsu',
+    answer: 'mapputatsu',
     explantion: '\n      汉字: 真っ二つ\n      读音: まっぷたつ\n      意思: in two equal parts\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -6834,7 +6834,7 @@ const n1 = [
   },
   {
     question: '真珠',
-    answer: 'shinju',
+    answer: 'shinjiyu',
     explantion: '\n      汉字: 真珠\n      读音: しんじゅ\n      意思: pearl\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -6844,12 +6844,12 @@ const n1 = [
   },
   {
     question: '真心',
-    answer: 'magokoro',
+    answer: 'makokoro',
     explantion: '\n      汉字: 真心\n      读音: まこころ\n      意思: sincerity\n      来源:  devotion\n      同义词: 真心, 真心\n    ',
   },
   {
     question: '真相',
-    answer: 'shinsō',
+    answer: 'shinso',
     explantion: '\n      汉字: 真相\n      读音: しんそう\n      意思: truth\n      来源:  real situation\n      同义词: 真相\n    ',
   },
   {
@@ -6869,7 +6869,7 @@ const n1 = [
   },
   {
     question: '神秘',
-    answer: 'shimpi',
+    answer: 'shinpi',
     explantion: '\n      汉字: 神秘\n      读音: しんぴ\n      意思: mystery\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -6889,7 +6889,7 @@ const n1 = [
   },
   {
     question: '診療',
-    answer: 'shinryō',
+    answer: 'shinryo',
     explantion: '\n      汉字: 診療\n      读音: しんりょう\n      意思: medical examination and treatment\n      来源:  diagnosis\n      同义词: 診療\n    ',
   },
   {
@@ -6909,12 +6909,12 @@ const n1 = [
   },
   {
     question: '辛うじて',
-    answer: 'karōjite',
+    answer: 'karojite',
     explantion: '\n      汉字: 辛うじて\n      读音: かろうじて\n      意思: barely\n      来源:  narrowly\n      同义词: 辛うじて, \n    ',
   },
   {
     question: '辛抱',
-    answer: 'shimbō',
+    answer: 'shimbo',
     explantion: '\n      汉字: 辛抱\n      读音: しんぼう\n      意思: patience\n      来源:  endurance\n      同义词: 辛抱, 辛棒\n    ',
   },
   {
@@ -6929,7 +6929,7 @@ const n1 = [
   },
   {
     question: '進行',
-    answer: 'shinkō',
+    answer: 'shinko',
     explantion: '\n      汉字: 進行\n      读音: しんこう\n      意思: advance\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -6964,7 +6964,7 @@ const n1 = [
   },
   {
     question: '人',
-    answer: 'hito',
+    answer: 'jin',
     explantion: '\n      汉字: 人\n      读音: じん\n      意思: man\n      来源:  person\n      同义词: 人\n    ',
   },
   {
@@ -6984,7 +6984,7 @@ const n1 = [
   },
   {
     question: '人情',
-    answer: 'ninjō',
+    answer: 'ninjo',
     explantion: '\n      汉字: 人情\n      读音: にんじょう\n      意思: humanity\n      来源:  empathy\n      同义词: 人情\n    ',
   },
   {
@@ -6999,12 +6999,12 @@ const n1 = [
   },
   {
     question: '人民',
-    answer: 'jimmin',
+    answer: 'jinmin',
     explantion: '\n      汉字: 人民\n      读音: じんみん\n      意思: people\n      来源:  public\n      同义词: 人民\n    ',
   },
   {
     question: '刃',
-    answer: 'ha',
+    answer: 'wa',
     explantion: '\n      汉字: 刃\n      读音: は\n      意思: edge (of a sword)\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -7034,7 +7034,7 @@ const n1 = [
   },
   {
     question: '吹奏',
-    answer: 'suisō',
+    answer: 'suiso',
     explantion: '\n      汉字: 吹奏\n      读音: すいそう\n      意思: playing wind instruments\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -7059,7 +7059,7 @@ const n1 = [
   },
   {
     question: '水気',
-    answer: 'mizuke',
+    answer: 'suiki',
     explantion: '\n      汉字: 水気\n      读音: すいき\n      意思: 1. moisture\n      来源:  dampness\n      同义词: 水気, 水気, 水け\n    ',
   },
   {
@@ -7094,7 +7094,7 @@ const n1 = [
   },
   {
     question: '崇拝',
-    answer: 'sūhai',
+    answer: 'suhai',
     explantion: '\n      汉字: 崇拝\n      读音: すうはい\n      意思: worship\n      来源:  adoration\n      同义词: 崇拝\n    ',
   },
   {
@@ -7109,7 +7109,7 @@ const n1 = [
   },
   {
     question: '数詞',
-    answer: 'sūshi',
+    answer: 'suushi',
     explantion: '\n      汉字: 数詞\n      读音: すうし\n      意思: numeral\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -7184,7 +7184,7 @@ const n1 = [
   },
   {
     question: '勢力',
-    answer: 'seiryoku',
+    answer: 'seiriyoku',
     explantion: '\n      汉字: 勢力\n      读音: せいりょく\n      意思: influence\n      来源:  power\n      同义词: 勢力\n    ',
   },
   {
@@ -7219,7 +7219,7 @@ const n1 = [
   },
   {
     question: '成熟',
-    answer: 'seijuku',
+    answer: 'seijiyuku',
     explantion: '\n      汉字: 成熟\n      读音: せいじゅく\n      意思: maturity\n      来源:  ripeness\n      同义词: 成熟\n    ',
   },
   {
@@ -7284,17 +7284,17 @@ const n1 = [
   },
   {
     question: '正義',
-    answer: 'masayoshi',
+    answer: 'seigi',
     explantion: '\n      汉字: 正義\n      读音: せいぎ\n      意思: justice\n      来源:  right\n      同义词: 正義\n    ',
   },
   {
     question: '正常',
-    answer: 'seijō',
+    answer: 'seijo',
     explantion: '\n      汉字: 正常\n      读音: せいじょう\n      意思: normalcy\n      来源:  normality\n      同义词: 正常\n    ',
   },
   {
     question: '正当',
-    answer: 'seitō',
+    answer: 'seitou',
     explantion: '\n      汉字: 正当\n      读音: せいとう\n      意思: just\n      来源:  justifiable\n      同义词: 正当\n    ',
   },
   {
@@ -7319,7 +7319,7 @@ const n1 = [
   },
   {
     question: '生',
-    answer: 'nama',
+    answer: 'ki',
     explantion: '\n      汉字: 生\n      读音: き\n      意思: pure\n      来源:  undiluted\n      同义词: 生\n    ',
   },
   {
@@ -7379,12 +7379,12 @@ const n1 = [
   },
   {
     question: '盛る',
-    answer: 'moru',
+    answer: 'sakaru',
     explantion: '\n      汉字: 盛る\n      读音: さかる\n      意思: to prosper\n      来源:  to flourish\n      同义词: 盛る\n    ',
   },
   {
     question: '盛装',
-    answer: 'seisō',
+    answer: 'seiso',
     explantion: '\n      汉字: 盛装\n      读音: せいそう\n      意思: be dressed up\n      来源:  wear rich clothes\n      同义词: 盛装\n    ',
   },
   {
@@ -7394,7 +7394,7 @@ const n1 = [
   },
   {
     question: '精巧',
-    answer: 'seikō',
+    answer: 'seiko',
     explantion: '\n      汉字: 精巧\n      读音: せいこう\n      意思: elaborate\n      来源:  delicate\n      同义词: 精巧\n    ',
   },
   {
@@ -7424,7 +7424,7 @@ const n1 = [
   },
   {
     question: '製法',
-    answer: 'seihō',
+    answer: 'seiho',
     explantion: '\n      汉字: 製法\n      读音: せいほう\n      意思: manufacturing method\n      来源:  recipe\n      同义词: 製法\n    ',
   },
   {
@@ -7434,7 +7434,7 @@ const n1 = [
   },
   {
     question: '真に',
-    answer: 'shinni',
+    answer: 'makotoni',
     explantion: '\n      汉字: 真に\n      读音: まことに\n      意思: truly\n      来源:  actually\n      同义词: 真に, 誠に, 真に, 寔に, 洵に\n    ',
   },
   {
@@ -7539,12 +7539,12 @@ const n1 = [
   },
   {
     question: '折衷',
-    answer: 'setchū',
+    answer: 'setchu',
     explantion: '\n      汉字: 折衷\n      读音: せっちゅう\n      意思: compromise\n      来源:  cross\n      同义词: 折衷, 折中\n    ',
   },
   {
     question: '設ける',
-    answer: 'mōkeru',
+    answer: 'mokeru',
     explantion: '\n      汉字: 設ける\n      读音: もうける\n      意思: to create\n      来源:  to establish\n      同义词: 設ける\n    ',
   },
   {
@@ -7564,7 +7564,7 @@ const n1 = [
   },
   {
     question: '節',
-    answer: 'fushi',
+    answer: 'setsu',
     explantion: '\n      汉字: 節\n      读音: せつ\n      意思: node\n      来源:  section\n      同义词: 節\n    ',
   },
   {
@@ -7594,7 +7594,7 @@ const n1 = [
   },
   {
     question: '絶望',
-    answer: 'zetsubō',
+    answer: 'zetsubou',
     explantion: '\n      汉字: 絶望\n      读音: ぜつぼう\n      意思: despair\n      来源:  hopelessness\n      同义词: 絶望\n    ',
   },
   {
@@ -7609,7 +7609,7 @@ const n1 = [
   },
   {
     question: '先行',
-    answer: 'senkō',
+    answer: 'senko',
     explantion: '\n      汉字: 先行\n      读音: せんこう\n      意思: preceding\n      来源:  going first\n      同义词: 先行\n    ',
   },
   {
@@ -7634,12 +7634,12 @@ const n1 = [
   },
   {
     question: '占領',
-    answer: 'senryō',
+    answer: 'senryo',
     explantion: '\n      汉字: 占領\n      读音: せんりょう\n      意思: occupation\n      来源:  capture\n      同义词: 占領\n    ',
   },
   {
     question: '宣教',
-    answer: 'senkyō',
+    answer: 'senkyo',
     explantion: '\n      汉字: 宣教\n      读音: せんきょう\n      意思: religious mission\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -7654,7 +7654,7 @@ const n1 = [
   },
   {
     question: '専修',
-    answer: 'senshū',
+    answer: 'senshu',
     explantion: '\n      汉字: 専修\n      读音: せんしゅう\n      意思: specialization\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -7669,12 +7669,12 @@ const n1 = [
   },
   {
     question: '戦闘',
-    answer: 'sentō',
+    answer: 'sento',
     explantion: '\n      汉字: 戦闘\n      读音: せんとう\n      意思: battle\n      来源:  fight\n      同义词: 戦闘\n    ',
   },
   {
     question: '戦力',
-    answer: 'senryoku',
+    answer: 'senriyoku',
     explantion: '\n      汉字: 戦力\n      读音: せんりょく\n      意思: war potential\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -7704,7 +7704,7 @@ const n1 = [
   },
   {
     question: '潜入',
-    answer: 'sennyū',
+    answer: 'senniyuu',
     explantion: '\n      汉字: 潜入\n      读音: せんにゅう\n      意思: infiltration\n      来源:  sneaking in\n      同义词: 潜入\n    ',
   },
   {
@@ -7714,7 +7714,7 @@ const n1 = [
   },
   {
     question: '繊維',
-    answer: 'sen\'i',
+    answer: 'seni',
     explantion: '\n      汉字: 繊維\n      读音: せんい\n      意思: fibre\n      来源:  fiber\n      同义词: 繊維, 線維\n    ',
   },
   {
@@ -7724,12 +7724,12 @@ const n1 = [
   },
   {
     question: '選挙',
-    answer: 'senkyo',
+    answer: 'senkiyo',
     explantion: '\n      汉字: 選挙\n      读音: せんきょ\n      意思: election\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '選考',
-    answer: 'senkō',
+    answer: 'senko',
     explantion: '\n      汉字: 選考\n      读音: せんこう\n      意思: selection\n      来源:  screening\n      同义词: 選考, 銓衡, 詮衡\n    ',
   },
   {
@@ -7739,7 +7739,7 @@ const n1 = [
   },
   {
     question: '前',
-    answer: 'mae',
+    answer: 'zen',
     explantion: '\n      汉字: 前\n      读音: ぜん\n      意思: before\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -7764,17 +7764,17 @@ const n1 = [
   },
   {
     question: '善良',
-    answer: 'zenryō',
+    answer: 'zenryo',
     explantion: '\n      汉字: 善良\n      读音: ぜんりょう\n      意思: goodness\n      来源:  excellence\n      同义词: 善良\n    ',
   },
   {
     question: '然も',
-    answer: 'shikamo',
+    answer: 'samo',
     explantion: '\n      汉字: 然も\n      读音: さも\n      意思: with gusto\n      来源:  with satisfaction\n      同义词: 然も, \n    ',
   },
   {
     question: '左程',
-    answer: 'hidarihodo',
+    answer: 'sahodo',
     explantion: '\n      汉字: 左程\n      读音: さほど\n      意思: (not) very\n      来源:  (not) much\n      同义词: 左程, , 然程\n    ',
   },
   {
@@ -7789,7 +7789,7 @@ const n1 = [
   },
   {
     question: '全滅',
-    answer: 'zemmetsu',
+    answer: 'zenmetsu',
     explantion: '\n      汉字: 全滅\n      读音: ぜんめつ\n      意思: annihilation\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -7799,7 +7799,7 @@ const n1 = [
   },
   {
     question: '繕う',
-    answer: 'tsukurou',
+    answer: 'tsukuro',
     explantion: '\n      汉字: 繕う\n      读音: つくろう\n      意思: to mend\n      来源:  to repair\n      同义词: 繕う\n    ',
   },
   {
@@ -7814,7 +7814,7 @@ const n1 = [
   },
   {
     question: '疎か',
-    answer: 'oroka',
+    answer: 'orosoka',
     explantion: '\n      汉字: 疎か\n      读音: おろそか\n      意思: neglect\n      来源:  negligence\n      同义词: 疎か, \n    ',
   },
   {
@@ -7859,7 +7859,7 @@ const n1 = [
   },
   {
     question: '訴訟',
-    answer: 'soshō',
+    answer: 'sosho',
     explantion: '\n      汉字: 訴訟\n      读音: そしょう\n      意思: litigation\n      来源:  lawsuit\n      同义词: 訴訟\n    ',
   },
   {
@@ -7874,37 +7874,37 @@ const n1 = [
   },
   {
     question: '逆上る',
-    answer: 'gyakunoboru',
+    answer: 'sakanoboru',
     explantion: '\n      汉字: 逆上る\n      读音: さかのぼる\n      意思: to go back\n      来源:  to go upstream\n      同义词: 逆上る\n    ',
   },
   {
     question: '鼠',
-    answer: 'nezumi',
+    answer: 'nezu',
     explantion: '\n      汉字: 鼠\n      读音: ねず\n      意思: 1. mouse\n      来源:  rat\n      同义词: 鼠\n    ',
   },
   {
     question: '僧',
-    answer: 'sō',
+    answer: 'so',
     explantion: '\n      汉字: 僧\n      读音: そう\n      意思: monk\n      来源:  priest\n      同义词: 僧\n    ',
   },
   {
     question: '創刊',
-    answer: 'sōkan',
+    answer: 'sokan',
     explantion: '\n      汉字: 創刊\n      读音: そうかん\n      意思: launching (e.g. newspaper)\n      来源:  first issue\n      同义词: 創刊\n    ',
   },
   {
     question: '創造',
-    answer: 'sōzō',
+    answer: 'sozou',
     explantion: '\n      汉字: 創造\n      读音: そうぞう\n      意思: creation\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '創立',
-    answer: 'sōritsu',
+    answer: 'soritsu',
     explantion: '\n      汉字: 創立\n      读音: そうりつ\n      意思: establishment\n      来源:  founding\n      同义词: 創立\n    ',
   },
   {
     question: '壮大',
-    answer: 'sōdai',
+    answer: 'sodai',
     explantion: '\n      汉字: 壮大\n      读音: そうだい\n      意思: magnificent\n      来源:  grand\n      同义词: 壮大\n    ',
   },
   {
@@ -7914,12 +7914,12 @@ const n1 = [
   },
   {
     question: '捜査',
-    answer: 'sōsa',
+    answer: 'sosa',
     explantion: '\n      汉字: 捜査\n      读音: そうさ\n      意思: search (esp. in criminal investigations)\n      来源:  investigation\n      同义词: 捜査\n    ',
   },
   {
     question: '捜索',
-    answer: 'sōsaku',
+    answer: 'sosaku',
     explantion: '\n      汉字: 捜索\n      读音: そうさく\n      意思: search (esp. for someone or something missing)\n      来源:  investigation\n      同义词: 捜索\n    ',
   },
   {
@@ -7934,7 +7934,7 @@ const n1 = [
   },
   {
     question: '操縦',
-    answer: 'sōjū',
+    answer: 'soju',
     explantion: '\n      汉字: 操縦\n      读音: そうじゅう\n      意思: management\n      来源:  handling\n      同义词: 操縦\n    ',
   },
   {
@@ -7954,7 +7954,7 @@ const n1 = [
   },
   {
     question: '相応',
-    answer: 'sōō',
+    answer: 'soou',
     explantion: '\n      汉字: 相応\n      读音: そうおう\n      意思: suitability\n      来源:  fitness\n      同义词: 相応\n    ',
   },
   {
@@ -7964,12 +7964,12 @@ const n1 = [
   },
   {
     question: '相場',
-    answer: 'sōba',
+    answer: 'soba',
     explantion: '\n      汉字: 相場\n      读音: そうば\n      意思: market price\n      来源:  speculation\n      同义词: 相場\n    ',
   },
   {
     question: '相対',
-    answer: 'sōtai',
+    answer: 'aitai',
     explantion: '\n      汉字: 相対\n      读音: あいたい\n      意思: confrontation\n      来源:  facing\n      同义词: 相対\n    ',
   },
   {
@@ -7979,67 +7979,67 @@ const n1 = [
   },
   {
     question: '総',
-    answer: 'sō',
+    answer: 'so',
     explantion: '\n      汉字: 総\n      读音: そう\n      意思: whole\n      来源:  all\n      同义词: 総\n    ',
   },
   {
     question: '総会',
-    answer: 'sōkai',
+    answer: 'sokai',
     explantion: '\n      汉字: 総会\n      读音: そうかい\n      意思: general meeting\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '葬る',
-    answer: 'hōmuru',
+    answer: 'homuru',
     explantion: '\n      汉字: 葬る\n      读音: ほうむる\n      意思: to bury\n      来源:  to inter\n      同义词: 葬る, 葬る\n    ',
   },
   {
     question: '装飾',
-    answer: 'sōshoku',
+    answer: 'soshoku',
     explantion: '\n      汉字: 装飾\n      读音: そうしょく\n      意思: ornament\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '装備',
-    answer: 'sōbi',
+    answer: 'sobi',
     explantion: '\n      汉字: 装備\n      读音: そうび\n      意思: equipment\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '走行',
-    answer: 'sōkō',
+    answer: 'soko',
     explantion: '\n      汉字: 走行\n      读音: そうこう\n      意思: running a wheeled vehicle (e.g. car)\n      来源:  traveling\n      同义词: 走行\n    ',
   },
   {
     question: '送金',
-    answer: 'sōkin',
+    answer: 'sokin',
     explantion: '\n      汉字: 送金\n      读音: そうきん\n      意思: remittance\n      来源:  sending money\n      同义词: 送金\n    ',
   },
   {
     question: '遭難',
-    answer: 'sōnan',
+    answer: 'sonan',
     explantion: '\n      汉字: 遭難\n      读音: そうなん\n      意思: disaster\n      来源:  shipwreck\n      同义词: 遭難\n    ',
   },
   {
     question: '騒動',
-    answer: 'sōdō',
+    answer: 'sodo',
     explantion: '\n      汉字: 騒動\n      读音: そうどう\n      意思: strife\n      来源:  riot\n      同义词: 騒動\n    ',
   },
   {
     question: '像',
-    answer: 'zō',
+    answer: 'zou',
     explantion: '\n      汉字: 像\n      读音: ぞう\n      意思: statue\n      来源:  image\n      同义词: 像\n    ',
   },
   {
     question: '増強',
-    answer: 'zōkyō',
+    answer: 'zoukyo',
     explantion: '\n      汉字: 増強\n      读音: ぞうきょう\n      意思: augment\n      来源:  reinforce\n      同义词: 増強\n    ',
   },
   {
     question: '増進',
-    answer: 'zōshin',
+    answer: 'zoshin',
     explantion: '\n      汉字: 増進\n      读音: ぞうしん\n      意思: promoting\n      来源:  increase\n      同义词: 増進\n    ',
   },
   {
     question: '悪い',
-    answer: 'warui',
+    answer: 'nikui',
     explantion: '\n      汉字: 悪い\n      读音: にくい\n      意思: hateful\n      来源:  abominable\n      同义词: 悪い\n    ',
   },
   {
@@ -8049,7 +8049,7 @@ const n1 = [
   },
   {
     question: '蔵相',
-    answer: 'zōshō',
+    answer: 'zosho',
     explantion: '\n      汉字: 蔵相\n      读音: ぞうしょう\n      意思: Minister of Finance\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -8099,27 +8099,27 @@ const n1 = [
   },
   {
     question: '其の儘',
-    answer: 'sono儘',
+    answer: 'sonomama',
     explantion: '\n      汉字: 其の儘\n      读音: そのまま\n      意思: without change\n      来源:  as it is (i.e. now)\n      同义词: 其の儘\n    ',
   },
   {
     question: '其れでは',
-    answer: '其redewa',
+    answer: 'soredewa',
     explantion: '\n      汉字: 其れでは\n      读音: それでは\n      意思: in that situation\n      来源:  well then ...\n      同义词: 其れでは\n    ',
   },
   {
     question: '其れでも',
-    answer: '其redemo',
+    answer: 'soredemo',
     explantion: '\n      汉字: 其れでも\n      读音: それでも\n      意思: but (still)\n      来源:  and yet\n      同义词: 其れでも\n    ',
   },
   {
     question: '其れ故',
-    answer: '其reyue',
+    answer: 'soreyue',
     explantion: '\n      汉字: 其れ故\n      读音: それゆえ\n      意思: therefore\n      来源:  for that reason\n      同义词: 其れ故, , それ故\n    ',
   },
   {
     question: '其処で',
-    answer: '其shode',
+    answer: 'sokode',
     explantion: '\n      汉字: 其処で\n      读音: そこで\n      意思: so (conj)\n      来源:  accordingly\n      同义词: 其処で\n    ',
   },
   {
@@ -8144,27 +8144,27 @@ const n1 = [
   },
   {
     question: '他動詞',
-    answer: 'tadōshi',
+    answer: 'tadoshi',
     explantion: '\n      汉字: 他動詞\n      读音: たどうし\n      意思: transitive verb (direct obj)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '他方',
-    answer: 'tahō',
+    answer: 'taho',
     explantion: '\n      汉字: 他方\n      读音: たほう\n      意思: another side\n      来源:  different direction\n      同义词: 他方\n    ',
   },
   {
     question: '多数決',
-    answer: 'tasūketsu',
+    answer: 'tasuketsu',
     explantion: '\n      汉字: 多数決\n      读音: たすうけつ\n      意思: majority rule\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '多忙',
-    answer: 'tabō',
+    answer: 'tabou',
     explantion: '\n      汉字: 多忙\n      读音: たぼう\n      意思: busy\n      来源:  pressure of work\n      同义词: 多忙\n    ',
   },
   {
     question: '多様',
-    answer: 'tayō',
+    answer: 'tayo',
     explantion: '\n      汉字: 多様\n      读音: たよう\n      意思: diversity\n      来源:  variety\n      同义词: 多様\n    ',
   },
   {
@@ -8174,7 +8174,7 @@ const n1 = [
   },
   {
     question: '妥協',
-    answer: 'dakyō',
+    answer: 'dakyo',
     explantion: '\n      汉字: 妥協\n      读音: だきょう\n      意思: compromise\n      来源:  giving in\n      同义词: 妥協\n    ',
   },
   {
@@ -8204,12 +8204,12 @@ const n1 = [
   },
   {
     question: '身体',
-    answer: 'shintai',
+    answer: 'karada',
     explantion: '\n      汉字: 身体\n      读音: からだ\n      意思: the body\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '体',
-    answer: 'karada',
+    answer: 'tei',
     explantion: '\n      汉字: 体\n      读音: てい\n      意思: appearance\n      来源:  air\n      同义词: 体, 態\n    ',
   },
   {
@@ -8234,7 +8234,7 @@ const n1 = [
   },
   {
     question: '体力',
-    answer: 'tairyoku',
+    answer: 'tairiyoku',
     explantion: '\n      汉字: 体力\n      读音: たいりょく\n      意思: physical strength\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -8244,7 +8244,7 @@ const n1 = [
   },
   {
     question: '対応',
-    answer: 'taiō',
+    answer: 'taiou',
     explantion: '\n      汉字: 対応\n      读音: たいおう\n      意思: interaction\n      来源:  correspondence\n      同义词: 対応\n    ',
   },
   {
@@ -8254,7 +8254,7 @@ const n1 = [
   },
   {
     question: '対抗',
-    answer: 'taikō',
+    answer: 'taikou',
     explantion: '\n      汉字: 対抗\n      读音: たいこう\n      意思: opposition\n      来源:  antagonism\n      同义词: 対抗\n    ',
   },
   {
@@ -8269,7 +8269,7 @@ const n1 = [
   },
   {
     question: '対等',
-    answer: 'taitō',
+    answer: 'taito',
     explantion: '\n      汉字: 対等\n      读音: たいとう\n      意思: equivalent\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -8294,7 +8294,7 @@ const n1 = [
   },
   {
     question: '待ち遠しい',
-    answer: 'machidōshii',
+    answer: 'machidoshii',
     explantion: '\n      汉字: 待ち遠しい\n      读音: まちどおしい\n      意思: looking forward to\n      来源: waller\n      同义词: 待ち遠しい, 待ちどうしい, 待遠しい, 待遠しい\n    ',
   },
   {
@@ -8309,12 +8309,12 @@ const n1 = [
   },
   {
     question: '待遇',
-    answer: 'taigū',
+    answer: 'taiguu',
     explantion: '\n      汉字: 待遇\n      读音: たいぐう\n      意思: treatment\n      来源:  reception\n      同义词: 待遇\n    ',
   },
   {
     question: '待望',
-    answer: 'taibō',
+    answer: 'taibou',
     explantion: '\n      汉字: 待望\n      读音: たいぼう\n      意思: expectant waiting\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -8339,12 +8339,12 @@ const n1 = [
   },
   {
     question: '滞る',
-    answer: 'todokōru',
+    answer: 'todokoru',
     explantion: '\n      汉字: 滞る\n      读音: とどこおる\n      意思: to stagnate\n      来源:  to be delayed\n      同义词: 滞る\n    ',
   },
   {
     question: '滞納',
-    answer: 'tainō',
+    answer: 'taino',
     explantion: '\n      汉字: 滞納\n      读音: たいのう\n      意思: non-payment\n      来源:  default\n      同义词: 滞納, 怠納\n    ',
   },
   {
@@ -8374,7 +8374,7 @@ const n1 = [
   },
   {
     question: '代',
-    answer: 'dai',
+    answer: 'shiro',
     explantion: '\n      汉字: 代\n      读音: しろ\n      意思: price\n      来源:  materials\n      同义词: 代\n    ',
   },
   {
@@ -8384,7 +8384,7 @@ const n1 = [
   },
   {
     question: '代用',
-    answer: 'daiyō',
+    answer: 'daiyo',
     explantion: '\n      汉字: 代用\n      读音: だいよう\n      意思: substitution\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -8399,7 +8399,7 @@ const n1 = [
   },
   {
     question: '大ざっぱ',
-    answer: 'ōzappa',
+    answer: 'ozappa',
     explantion: '\n      汉字: 大ざっぱ\n      读音: おおざっぱ\n      意思: rough (as in not precise)\n      来源:  broad\n      同义词: 大ざっぱ\n    ',
   },
   {
@@ -8409,7 +8409,7 @@ const n1 = [
   },
   {
     question: '大筋',
-    answer: 'ōsuji',
+    answer: 'osuji',
     explantion: '\n      汉字: 大筋\n      读音: おおすじ\n      意思: outline\n      来源:  summary\n      同义词: 大筋\n    ',
   },
   {
@@ -8419,12 +8419,12 @@ const n1 = [
   },
   {
     question: '大空',
-    answer: 'ōzora',
+    answer: 'oozora',
     explantion: '\n      汉字: 大空\n      读音: おおぞら\n      意思: heaven\n      来源:  firmament\n      同义词: 大空\n    ',
   },
   {
     question: '大衆',
-    answer: 'taishū',
+    answer: 'taishu',
     explantion: '\n      汉字: 大衆\n      读音: たいしゅう\n      意思: general public\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -8434,7 +8434,7 @@ const n1 = [
   },
   {
     question: '大水',
-    answer: 'daisui',
+    answer: 'omizu',
     explantion: '\n      汉字: 大水\n      读音: おおみず\n      意思: flood\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -8444,17 +8444,17 @@ const n1 = [
   },
   {
     question: '大部',
-    answer: 'ōbu',
+    answer: 'taibu',
     explantion: '\n      汉字: 大部\n      读音: たいぶ\n      意思: most (e.g. most part)\n      来源:  greater\n      同义词: 大部, 大部\n    ',
   },
   {
     question: '大幅',
-    answer: 'ōhaba',
+    answer: 'owaba',
     explantion: '\n      汉字: 大幅\n      读音: おおはば\n      意思: full width\n      来源:  large scale\n      同义词: 大幅, 大巾\n    ',
   },
   {
     question: '大柄',
-    answer: 'ōgara',
+    answer: 'ogara',
     explantion: '\n      汉字: 大柄\n      读音: おおがら\n      意思: large build\n      来源:  large pattern\n      同义词: 大柄\n    ',
   },
   {
@@ -8464,7 +8464,7 @@ const n1 = [
   },
   {
     question: '大方',
-    answer: 'ōkata',
+    answer: 'okata',
     explantion: '\n      汉字: 大方\n      读音: おおかた\n      意思: perhaps\n      来源:  almost all\n      同义词: 大方\n    ',
   },
   {
@@ -8514,17 +8514,17 @@ const n1 = [
   },
   {
     question: '誰',
-    answer: 'dare',
+    answer: 'tare',
     explantion: '\n      汉字: 誰\n      读音: たれ\n      意思: adjectival suffix for a person\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '単一',
-    answer: 'tan\'itsu',
+    answer: 'tanitsu',
     explantion: '\n      汉字: 単一\n      读音: たんいつ\n      意思: single\n      来源:  simple\n      同义词: 単一\n    ',
   },
   {
     question: '単調',
-    answer: 'tanchō',
+    answer: 'tanchou',
     explantion: '\n      汉字: 単調\n      读音: たんちょう\n      意思: monotony\n      来源:  monotone\n      同义词: 単調\n    ',
   },
   {
@@ -8574,7 +8574,7 @@ const n1 = [
   },
   {
     question: '短波',
-    answer: 'tampa',
+    answer: 'tanpa',
     explantion: '\n      汉字: 短波\n      读音: たんぱ\n      意思: short wave\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -8589,7 +8589,7 @@ const n1 = [
   },
   {
     question: '蛋白質',
-    answer: 'tampakushitsu',
+    answer: 'tanpakushitsu',
     explantion: '\n      汉字: 蛋白質\n      读音: たんぱくしつ\n      意思: protein\n      来源: waller\n      同义词: タンパク質, たんぱく質, たん白質\n    ',
   },
   {
@@ -8614,7 +8614,7 @@ const n1 = [
   },
   {
     question: '弾く',
-    answer: 'hiku',
+    answer: 'hajiku',
     explantion: '\n      汉字: 弾く\n      读音: はじく\n      意思: to flip\n      来源:  to snap\n      同义词: 弾く, \n    ',
   },
   {
@@ -8624,7 +8624,7 @@ const n1 = [
   },
   {
     question: '弾力',
-    answer: 'danryoku',
+    answer: 'danriyoku',
     explantion: '\n      汉字: 弾力\n      读音: だんりょく\n      意思: elasticity\n      来源:  flexibility\n      同义词: 弾力\n    ',
   },
   {
@@ -8639,7 +8639,7 @@ const n1 = [
   },
   {
     question: '断面',
-    answer: 'dammen',
+    answer: 'danmen',
     explantion: '\n      汉字: 断面\n      读音: だんめん\n      意思: cross section\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -8659,7 +8659,7 @@ const n1 = [
   },
   {
     question: '地形',
-    answer: 'chikei',
+    answer: 'jigyou',
     explantion: '\n      汉字: 地形\n      读音: じぎょう\n      意思: terrain\n      来源:  geographical features\n      同义词: 地形, 地形\n    ',
   },
   {
@@ -8679,7 +8679,7 @@ const n1 = [
   },
   {
     question: '弛み',
-    answer: 'yurumi',
+    answer: 'tarumi',
     explantion: '\n      汉字: 弛み\n      读音: たるみ\n      意思: slack\n      来源:  slackening\n      同义词: 弛み, \n    ',
   },
   {
@@ -8729,7 +8729,7 @@ const n1 = [
   },
   {
     question: '畜生',
-    answer: 'chikushō',
+    answer: 'chikusho',
     explantion: '\n      汉字: 畜生\n      读音: ちくしょう\n      意思: beast\n      来源:  brute\n      同义词: 畜生, , 畜生, \n    ',
   },
   {
@@ -8739,7 +8739,7 @@ const n1 = [
   },
   {
     question: '秩序',
-    answer: 'chitsujo',
+    answer: 'chitsujiyo',
     explantion: '\n      汉字: 秩序\n      读音: ちつじょ\n      意思: order\n      来源:  regularity\n      同义词: 秩序\n    ',
   },
   {
@@ -8759,12 +8759,12 @@ const n1 = [
   },
   {
     question: '着工',
-    answer: 'chakkō',
+    answer: 'chakko',
     explantion: '\n      汉字: 着工\n      读音: ちゃっこう\n      意思: start of (construction) work\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '着手',
-    answer: 'chakushu',
+    answer: 'chiyakushu',
     explantion: '\n      汉字: 着手\n      读音: ちゃくしゅ\n      意思: embarkation\n      来源:  launch\n      同义词: 着手\n    ',
   },
   {
@@ -8784,7 +8784,7 @@ const n1 = [
   },
   {
     question: '着目',
-    answer: 'chakumoku',
+    answer: 'chiyakumoku',
     explantion: '\n      汉字: 着目\n      读音: ちゃくもく\n      意思: attention\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -8794,22 +8794,22 @@ const n1 = [
   },
   {
     question: '中継',
-    answer: 'chūkei',
+    answer: 'chiyuukei',
     explantion: '\n      汉字: 中継\n      读音: ちゅうけい\n      意思: relay\n      来源:  hook-up\n      同义词: 中継\n    ',
   },
   {
     question: '中傷',
-    answer: 'chūshō',
+    answer: 'chusho',
     explantion: '\n      汉字: 中傷\n      读音: ちゅうしょう\n      意思: slander\n      来源:  libel\n      同义词: 中傷\n    ',
   },
   {
     question: '中枢',
-    answer: 'chūsū',
+    answer: 'chusu',
     explantion: '\n      汉字: 中枢\n      读音: ちゅうすう\n      意思: centre\n      来源:  pivot\n      同义词: 中枢\n    ',
   },
   {
     question: '中断',
-    answer: 'chūdan',
+    answer: 'chiyuudan',
     explantion: '\n      汉字: 中断\n      读音: ちゅうだん\n      意思: interruption\n      来源:  suspension\n      同义词: 中断, 仲断\n    ',
   },
   {
@@ -8819,47 +8819,47 @@ const n1 = [
   },
   {
     question: '中毒',
-    answer: 'chūdoku',
+    answer: 'chiyuudoku',
     explantion: '\n      汉字: 中毒\n      读音: ちゅうどく\n      意思: poisoning\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '中っ腹',
-    answer: 'chūppara',
+    answer: 'chiyuuppara',
     explantion: '\n      汉字: 中っ腹\n      读音: ちゅうっぱら\n      意思: irritated\n      来源:  offended\n      同义词: 中っ腹, 中っ腹\n    ',
   },
   {
     question: '中立',
-    answer: 'chūritsu',
+    answer: 'chiyuuritsu',
     explantion: '\n      汉字: 中立\n      读音: ちゅうりつ\n      意思: neutrality\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '中和',
-    answer: 'chūwa',
+    answer: 'chiyuuwa',
     explantion: '\n      汉字: 中和\n      读音: ちゅうわ\n      意思: neutralize\n      来源:  counteract\n      同义词: 中和\n    ',
   },
   {
     question: '仲人',
-    answer: 'nakōdo',
+    answer: 'chiyuunin',
     explantion: '\n      汉字: 仲人\n      读音: ちゅうにん\n      意思: go-between\n      来源:  matchmaker\n      同义词: 仲人, 仲人, 媒人, 媒\n    ',
   },
   {
     question: '宙返り',
-    answer: 'chūgaeri',
+    answer: 'chiyuugaeri',
     explantion: '\n      汉字: 宙返り\n      读音: ちゅうがえり\n      意思: somersault\n      来源:  looping-the-loop\n      同义词: 宙返り\n    ',
   },
   {
     question: '忠告',
-    answer: 'chūkoku',
+    answer: 'chiyuukoku',
     explantion: '\n      汉字: 忠告\n      读音: ちゅうこく\n      意思: advice\n      来源:  warning\n      同义词: 忠告\n    ',
   },
   {
     question: '抽選',
-    answer: 'chūsen',
+    answer: 'chusen',
     explantion: '\n      汉字: 抽選\n      读音: ちゅうせん\n      意思: lottery\n      来源:  raffle\n      同义词: 抽選, 抽籤, 抽せん\n    ',
   },
   {
     question: '昼飯',
-    answer: 'hirumeshi',
+    answer: 'chiyuuhan',
     explantion: '\n      汉字: 昼飯\n      读音: ちゅうはん\n      意思: lunch\n      来源:  midday meal\n      同义词: 昼飯, 昼飯, 昼飯, 昼めし\n    ',
   },
   {
@@ -8884,12 +8884,12 @@ const n1 = [
   },
   {
     question: '恰度',
-    answer: '恰do',
+    answer: 'chodo',
     explantion: '\n      汉字: 恰度\n      读音: ちょうど\n      意思: just\n      来源:  right\n      同义词: 恰度\n    ',
   },
   {
     question: '丁目',
-    answer: 'hinotome',
+    answer: 'choume',
     explantion: '\n      汉字: 丁目\n      读音: ちょうめ\n      意思: district of a town\n      来源:  city block (of irregular size)\n      同义词: 丁目\n    ',
   },
   {
@@ -8904,7 +8904,7 @@ const n1 = [
   },
   {
     question: '庁',
-    answer: 'chō',
+    answer: 'chou',
     explantion: '\n      汉字: 庁\n      读音: ちょう\n      意思: government office\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -8914,7 +8914,7 @@ const n1 = [
   },
   {
     question: '徴収',
-    answer: 'chōshū',
+    answer: 'choushu',
     explantion: '\n      汉字: 徴収\n      读音: ちょうしゅう\n      意思: collection\n      来源:  levy\n      同义词: 徴収\n    ',
   },
   {
@@ -8929,42 +8929,42 @@ const n1 = [
   },
   {
     question: '挑戦',
-    answer: 'chōsen',
+    answer: 'chosen',
     explantion: '\n      汉字: 挑戦\n      读音: ちょうせん\n      意思: challenge\n      来源:  defiance\n      同义词: 挑戦\n    ',
   },
   {
     question: '朝寝坊',
-    answer: 'asanebō',
+    answer: 'asanebou',
     explantion: '\n      汉字: 朝寝坊\n      读音: あさねぼう\n      意思: oversleeping\n      来源:  late riser\n      同义词: 朝寝坊\n    ',
   },
   {
     question: '潮',
-    answer: 'shio',
+    answer: 'ushio',
     explantion: '\n      汉字: 潮\n      读音: うしお\n      意思: tide\n      来源: waller\n      同义词: 潮, 汐\n    ',
   },
   {
     question: '聴覚',
-    answer: 'chōkaku',
+    answer: 'choukaku',
     explantion: '\n      汉字: 聴覚\n      读音: ちょうかく\n      意思: the sense of hearing\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '聴講',
-    answer: 'chōkō',
+    answer: 'chouko',
     explantion: '\n      汉字: 聴講\n      读音: ちょうこう\n      意思: lecture attendance\n      来源:  auditing\n      同义词: 聴講\n    ',
   },
   {
     question: '聴診器',
-    answer: 'chōshinki',
+    answer: 'choushinki',
     explantion: '\n      汉字: 聴診器\n      读音: ちょうしんき\n      意思: stethoscope\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '腸',
-    answer: 'chō',
+    answer: 'chou',
     explantion: '\n      汉字: 腸\n      读音: ちょう\n      意思: guts\n      来源:  bowels\n      同义词: 腸, 腸, 腸\n    ',
   },
   {
     question: '蝶',
-    answer: 'chō',
+    answer: 'chou',
     explantion: '\n      汉字: 蝶\n      读音: ちょう\n      意思: butterfly\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -8974,32 +8974,32 @@ const n1 = [
   },
   {
     question: '調印',
-    answer: 'chōin',
+    answer: 'chouin',
     explantion: '\n      汉字: 調印\n      读音: ちょういん\n      意思: signature\n      来源:  sign\n      同义词: 調印\n    ',
   },
   {
     question: '調停',
-    answer: 'chōtei',
+    answer: 'choutei',
     explantion: '\n      汉字: 調停\n      读音: ちょうてい\n      意思: arbitration\n      来源:  conciliation\n      同义词: 調停\n    ',
   },
   {
     question: '調理',
-    answer: 'chōri',
+    answer: 'chouri',
     explantion: '\n      汉字: 調理\n      读音: ちょうり\n      意思: cooking\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '調和',
-    answer: 'chōwa',
+    answer: 'chouwa',
     explantion: '\n      汉字: 調和\n      读音: ちょうわ\n      意思: harmony\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '超',
-    answer: 'chō',
+    answer: 'chou',
     explantion: '\n      汉字: 超\n      读音: ちょう\n      意思: super-\n      来源:  ultra-\n      同义词: 超, \n    ',
   },
   {
     question: '長官',
-    answer: 'chōkan',
+    answer: 'chokan',
     explantion: '\n      汉字: 長官\n      读音: ちょうかん\n      意思: chief\n      来源:  (government) secretary\n      同义词: 長官\n    ',
   },
   {
@@ -9009,7 +9009,7 @@ const n1 = [
   },
   {
     question: '長編',
-    answer: 'chōhen',
+    answer: 'chouhen',
     explantion: '\n      汉字: 長編\n      读音: ちょうへん\n      意思: long (e.g. novel film)\n      来源: waller\n      同义词: 長篇\n    ',
   },
   {
@@ -9054,12 +9054,12 @@ const n1 = [
   },
   {
     question: '沈没',
-    answer: 'chimbotsu',
+    answer: 'chinbotsu',
     explantion: '\n      汉字: 沈没\n      读音: ちんぼつ\n      意思: sinking\n      来源:  foundering\n      同义词: 沈没\n    ',
   },
   {
     question: '沈黙',
-    answer: 'chimmoku',
+    answer: 'chinmoku',
     explantion: '\n      汉字: 沈黙\n      读音: ちんもく\n      意思: silence\n      来源:  reticence\n      同义词: 沈黙\n    ',
   },
   {
@@ -9094,7 +9094,7 @@ const n1 = [
   },
   {
     question: '追及',
-    answer: 'tsuikyū',
+    answer: 'tsuikyu',
     explantion: '\n      汉字: 追及\n      读音: ついきゅう\n      意思: gaining on\n      来源:  carrying out\n      同义词: 追及\n    ',
   },
   {
@@ -9104,7 +9104,7 @@ const n1 = [
   },
   {
     question: '追放',
-    answer: 'tsuihō',
+    answer: 'tsuiho',
     explantion: '\n      汉字: 追放\n      读音: ついほう\n      意思: exile\n      来源:  banishment\n      同义词: 追放\n    ',
   },
   {
@@ -9119,27 +9119,27 @@ const n1 = [
   },
   {
     question: '痛感',
-    answer: 'tsūkan',
+    answer: 'tsukan',
     explantion: '\n      汉字: 痛感\n      读音: つうかん\n      意思: feeling keenly\n      来源:  fully realizing\n      同义词: 痛感\n    ',
   },
   {
     question: '痛切',
-    answer: 'tsūsetsu',
+    answer: 'tsusetsu',
     explantion: '\n      汉字: 痛切\n      读音: つうせつ\n      意思: keen\n      来源:  acute\n      同义词: 痛切\n    ',
   },
   {
     question: '通',
-    answer: 'tsū',
+    answer: 'tsu',
     explantion: '\n      汉字: 通\n      读音: つう\n      意思: connoisseur\n      来源:  counter for letters\n      同义词: 通\n    ',
   },
   {
     question: '通りかかる',
-    answer: 'tōrikakaru',
+    answer: 'torikakaru',
     explantion: '\n      汉字: 通りかかる\n      读音: とおりかかる\n      意思: to happen to pass by\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '通常',
-    answer: 'tsūjō',
+    answer: 'tsujiyou',
     explantion: '\n      汉字: 通常\n      读音: つうじょう\n      意思: common\n      来源:  general\n      同义词: 通常\n    ',
   },
   {
@@ -9179,7 +9179,7 @@ const n1 = [
   },
   {
     question: '堤防',
-    answer: 'teibō',
+    answer: 'teibou',
     explantion: '\n      汉字: 堤防\n      读音: ていぼう\n      意思: bank\n      来源:  weir\n      同义词: 堤防\n    ',
   },
   {
@@ -9209,7 +9209,7 @@ const n1 = [
   },
   {
     question: '提供',
-    answer: 'teikyō',
+    answer: 'teikyo',
     explantion: '\n      汉字: 提供\n      读音: ていきょう\n      意思: offer\n      来源:  tender\n      同义词: 提供\n    ',
   },
   {
@@ -9224,7 +9224,7 @@ const n1 = [
   },
   {
     question: '梯子',
-    answer: 'hashigo',
+    answer: 'teishi',
     explantion: '\n      汉字: 梯子\n      读音: ていし\n      意思: ladder\n      来源:  stairs\n      同义词: 梯子\n    ',
   },
   {
@@ -9254,12 +9254,12 @@ const n1 = [
   },
   {
     question: '的',
-    answer: 'teki',
+    answer: 'mato',
     explantion: '\n      汉字: 的\n      读音: まと\n      意思: mark\n      来源:  target\n      同义词: 的\n    ',
   },
   {
     question: '適応',
-    answer: 'tekiō',
+    answer: 'tekiou',
     explantion: '\n      汉字: 適応\n      读音: てきおう\n      意思: adaptation\n      来源:  accommodation\n      同义词: 適応\n    ',
   },
   {
@@ -9274,17 +9274,17 @@ const n1 = [
   },
   {
     question: '鉄鋼',
-    answer: 'tekkō',
+    answer: 'tetsuko',
     explantion: '\n      汉字: 鉄鋼\n      读音: てっこう\n      意思: iron and steel\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '天津',
-    answer: 'tenshin',
+    answer: 'amatsu',
     explantion: '\n      汉字: 天津\n      读音: あまつ\n      意思: heavenly\n      来源:  imperial\n      同义词: 天津, 天つ\n    ',
   },
   {
     question: '天井',
-    answer: 'tenjō',
+    answer: 'tenjo',
     explantion: '\n      汉字: 天井\n      读音: てんじょう\n      意思: ceiling\n      来源:  ceiling price\n      同义词: 天井\n    ',
   },
   {
@@ -9314,12 +9314,12 @@ const n1 = [
   },
   {
     question: '展望',
-    answer: 'tembō',
+    answer: 'tembo',
     explantion: '\n      汉字: 展望\n      读音: てんぼう\n      意思: view\n      来源:  outlook\n      同义词: 展望\n    ',
   },
   {
     question: '添う',
-    answer: 'sou',
+    answer: 'so',
     explantion: '\n      汉字: 添う\n      读音: そう\n      意思: to accompany\n      来源:  to become married\n      同义词: 添う, 副う\n    ',
   },
   {
@@ -9349,7 +9349,7 @@ const n1 = [
   },
   {
     question: '転居',
-    answer: 'tenkyo',
+    answer: 'tenkiyo',
     explantion: '\n      汉字: 転居\n      读音: てんきょ\n      意思: moving\n      来源:  changing residence\n      同义词: 転居\n    ',
   },
   {
@@ -9359,7 +9359,7 @@ const n1 = [
   },
   {
     question: '転校',
-    answer: 'tenkō',
+    answer: 'tenko',
     explantion: '\n      汉字: 転校\n      读音: てんこう\n      意思: change schools\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -9414,7 +9414,7 @@ const n1 = [
   },
   {
     question: '田園',
-    answer: 'den\'en',
+    answer: 'denen',
     explantion: '\n      汉字: 田園\n      读音: でんえん\n      意思: country\n      来源:  rural districts\n      同义词: 田園, 田園, 田苑, 田苑\n    ',
   },
   {
@@ -9429,12 +9429,12 @@ const n1 = [
   },
   {
     question: '兎に角',
-    answer: 'usaginikaku',
+    answer: 'tonikaku',
     explantion: '\n      汉字: 兎に角\n      读音: とにかく\n      意思: anyhow\n      来源:  at any rate\n      同义词: 兎に角\n    ',
   },
   {
     question: '兎も角',
-    answer: 'usagimokaku',
+    answer: 'tomokaku',
     explantion: '\n      汉字: 兎も角\n      读音: ともかく\n      意思: anyhow\n      来源:  anyway\n      同义词: 兎も角\n    ',
   },
   {
@@ -9444,7 +9444,7 @@ const n1 = [
   },
   {
     question: '吐く',
-    answer: 'haku',
+    answer: 'tsuku',
     explantion: '\n      汉字: 吐く\n      读音: つく\n      意思: 1. to breathe\n      来源:  2. to tell (lies)\n      同义词: 吐く, \n    ',
   },
   {
@@ -9464,12 +9464,12 @@ const n1 = [
   },
   {
     question: '登校',
-    answer: 'tōkō',
+    answer: 'touko',
     explantion: '\n      汉字: 登校\n      读音: とうこう\n      意思: attendance (at school)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '登録',
-    answer: 'tōroku',
+    answer: 'touroku',
     explantion: '\n      汉字: 登録\n      读音: とうろく\n      意思: registration\n      来源:  register\n      同义词: 登録\n    ',
   },
   {
@@ -9479,7 +9479,7 @@ const n1 = [
   },
   {
     question: '途上',
-    answer: 'tojō',
+    answer: 'tojiyou',
     explantion: '\n      汉字: 途上\n      读音: とじょう\n      意思: en route\n      来源:  half way\n      同义词: 途上\n    ',
   },
   {
@@ -9509,7 +9509,7 @@ const n1 = [
   },
   {
     question: '土俵',
-    answer: 'dohyō',
+    answer: 'dohyou',
     explantion: '\n      汉字: 土俵\n      读音: どひょう\n      意思: arena\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -9519,7 +9519,7 @@ const n1 = [
   },
   {
     question: '奴',
-    answer: 'yatsu',
+    answer: 'yakko',
     explantion: '\n      汉字: 奴\n      读音: やっこ\n      意思: servant\n      来源:  fellow\n      同义词: 奴\n    ',
   },
   {
@@ -9529,7 +9529,7 @@ const n1 = [
   },
   {
     question: '怒る',
-    answer: 'okoru',
+    answer: 'ikaru',
     explantion: '\n      汉字: 怒る\n      读音: いかる\n      意思: to get angry\n      来源:  to be angry\n      同义词: 怒る\n    ',
   },
   {
@@ -9539,12 +9539,12 @@ const n1 = [
   },
   {
     question: '倒産',
-    answer: 'tōsan',
+    answer: 'tosan',
     explantion: '\n      汉字: 倒産\n      读音: とうさん\n      意思: (corporate) bankruptcy\n      来源:  insolvency\n      同义词: 倒産\n    ',
   },
   {
     question: '冬眠',
-    answer: 'tōmin',
+    answer: 'toumin',
     explantion: '\n      汉字: 冬眠\n      读音: とうみん\n      意思: hibernation\n      来源:  winter sleep\n      同义词: 冬眠\n    ',
   },
   {
@@ -9554,22 +9554,22 @@ const n1 = [
   },
   {
     question: '投資',
-    answer: 'tōshi',
+    answer: 'toushi',
     explantion: '\n      汉字: 投資\n      读音: とうし\n      意思: investment\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '投入',
-    answer: 'tōnyū',
+    answer: 'toniyuu',
     explantion: '\n      汉字: 投入\n      读音: とうにゅう\n      意思: throw\n      来源:  investment\n      同义词: 投入\n    ',
   },
   {
     question: '東',
-    answer: 'higashi',
+    answer: 'azuma',
     explantion: '\n      汉字: 東\n      读音: あずま\n      意思: east\n      来源:  Eastern Japan\n      同义词: 東, 東, 吾妻, 吾妻, 吾嬬, 吾嬬\n    ',
   },
   {
     question: '棟',
-    answer: 'mune',
+    answer: 'tou',
     explantion: '\n      汉字: 棟\n      读音: とう\n      意思: place\n      来源:  section\n      同义词: 棟\n    ',
   },
   {
@@ -9604,17 +9604,17 @@ const n1 = [
   },
   {
     question: '当人',
-    answer: 'tōnin',
+    answer: 'tonin',
     explantion: '\n      汉字: 当人\n      读音: とうにん\n      意思: the one concerned\n      来源:  the said person\n      同义词: 当人\n    ',
   },
   {
     question: '当選',
-    answer: 'tōsen',
+    answer: 'tosen',
     explantion: '\n      汉字: 当選\n      读音: とうせん\n      意思: being elected\n      来源:  winning the prize\n      同义词: 当選\n    ',
   },
   {
     question: '等級',
-    answer: 'tōkyū',
+    answer: 'tokyu',
     explantion: '\n      汉字: 等級\n      读音: とうきゅう\n      意思: grade\n      来源:  class\n      同义词: 等級\n    ',
   },
   {
@@ -9629,42 +9629,42 @@ const n1 = [
   },
   {
     question: '統合',
-    answer: 'tōgō',
+    answer: 'tougou',
     explantion: '\n      汉字: 統合\n      读音: とうごう\n      意思: integration\n      来源:  unification\n      同义词: 統合\n    ',
   },
   {
     question: '統治',
-    answer: 'tōchi',
+    answer: 'toji',
     explantion: '\n      汉字: 統治\n      读音: とうじ\n      意思: rule\n      来源:  reign\n      同义词: 統治, 統治\n    ',
   },
   {
     question: '統制',
-    answer: 'tōsei',
+    answer: 'tousei',
     explantion: '\n      汉字: 統制\n      读音: とうせい\n      意思: regulation\n      来源:  control\n      同义词: 統制\n    ',
   },
   {
     question: '統率',
-    answer: 'tōsotsu',
+    answer: 'tousotsu',
     explantion: '\n      汉字: 統率\n      读音: とうそつ\n      意思: command\n      来源:  lead\n      同义词: 統率\n    ',
   },
   {
     question: '到達',
-    answer: 'tōtatsu',
+    answer: 'toutatsu',
     explantion: '\n      汉字: 到達\n      读音: とうたつ\n      意思: reaching\n      来源:  attaining\n      同义词: 到達\n    ',
   },
   {
     question: '到底',
-    answer: 'tōtei',
+    answer: 'totei',
     explantion: '\n      汉字: 到底\n      读音: とうてい\n      意思: (cannot) possibly\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '討議',
-    answer: 'tōgi',
+    answer: 'tougi',
     explantion: '\n      汉字: 討議\n      读音: とうぎ\n      意思: debate\n      来源:  discussion\n      同义词: 討議\n    ',
   },
   {
     question: '討論',
-    answer: 'tōron',
+    answer: 'touron',
     explantion: '\n      汉字: 討論\n      读音: とうろん\n      意思: debate\n      来源:  discussion\n      同义词: 討論\n    ',
   },
   {
@@ -9689,17 +9689,17 @@ const n1 = [
   },
   {
     question: '逃走',
-    answer: 'tōsō',
+    answer: 'touso',
     explantion: '\n      汉字: 逃走\n      读音: とうそう\n      意思: flight\n      来源:  desertion\n      同义词: 逃走\n    ',
   },
   {
     question: '逃亡',
-    answer: 'tōbō',
+    answer: 'toubou',
     explantion: '\n      汉字: 逃亡\n      读音: とうぼう\n      意思: escape\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '陶器',
-    answer: 'tōki',
+    answer: 'toki',
     explantion: '\n      汉字: 陶器\n      读音: とうき\n      意思: pottery\n      来源:  ceramics\n      同义词: 陶器\n    ',
   },
   {
@@ -9709,37 +9709,37 @@ const n1 = [
   },
   {
     question: '動員',
-    answer: 'dōin',
+    answer: 'doin',
     explantion: '\n      汉字: 動員\n      读音: どういん\n      意思: mobilization\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '動機',
-    answer: 'dōki',
+    answer: 'doki',
     explantion: '\n      汉字: 動機\n      读音: どうき\n      意思: motive\n      来源:  incentive\n      同义词: 動機\n    ',
   },
   {
     question: '動向',
-    answer: 'dōkō',
+    answer: 'doko',
     explantion: '\n      汉字: 動向\n      读音: どうこう\n      意思: trend\n      来源:  tendency\n      同义词: 動向\n    ',
   },
   {
     question: '動的',
-    answer: 'dōteki',
+    answer: 'doteki',
     explantion: '\n      汉字: 動的\n      读音: どうてき\n      意思: dynamic\n      来源:  kinetic\n      同义词: 動的\n    ',
   },
   {
     question: '動揺',
-    answer: 'dōyō',
+    answer: 'doyo',
     explantion: '\n      汉字: 動揺\n      读音: どうよう\n      意思: disturbance\n      来源:  unrest\n      同义词: 動揺\n    ',
   },
   {
     question: '動力',
-    answer: 'dōryoku',
+    answer: 'douriyoku',
     explantion: '\n      汉字: 動力\n      读音: どうりょく\n      意思: power\n      来源:  motive power\n      同义词: 動力\n    ',
   },
   {
     question: '同',
-    answer: 'dō',
+    answer: 'do',
     explantion: '\n      汉字: 同\n      读音: どう\n      意思: the same\n      来源:  the said\n      同义词: 同\n    ',
   },
   {
@@ -9749,52 +9749,52 @@ const n1 = [
   },
   {
     question: '同意',
-    answer: 'dōi',
+    answer: 'doi',
     explantion: '\n      汉字: 同意\n      读音: どうい\n      意思: agreement\n      来源:  consent\n      同义词: 同意\n    ',
   },
   {
     question: '同感',
-    answer: 'dōkan',
+    answer: 'dokan',
     explantion: '\n      汉字: 同感\n      读音: どうかん\n      意思: agreement\n      来源:  same opinion\n      同义词: 同感\n    ',
   },
   {
     question: '同級',
-    answer: 'dōkyū',
+    answer: 'dokyu',
     explantion: '\n      汉字: 同級\n      读音: どうきゅう\n      意思: the same grade\n      来源:  same class\n      同义词: 同級\n    ',
   },
   {
     question: '同居',
-    answer: 'dōkyo',
+    answer: 'dokiyo',
     explantion: '\n      汉字: 同居\n      读音: どうきょ\n      意思: living together\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '同士',
-    answer: 'dōshi',
+    answer: 'doshi',
     explantion: '\n      汉字: 同士\n      读音: どうし\n      意思: fellow\n      来源:  companion\n      同义词: 同士, 同士\n    ',
   },
   {
     question: '同志',
-    answer: 'dōshi',
+    answer: 'doshi',
     explantion: '\n      汉字: 同志\n      读音: どうし\n      意思: same mind\n      来源:  comrade\n      同义词: 同志\n    ',
   },
   {
     question: '同情',
-    answer: 'dōjō',
+    answer: 'dojiyou',
     explantion: '\n      汉字: 同情\n      读音: どうじょう\n      意思: sympathy\n      来源:  compassion\n      同义词: 同情\n    ',
   },
   {
     question: '同調',
-    answer: 'dōchō',
+    answer: 'dochou',
     explantion: '\n      汉字: 同調\n      读音: どうちょう\n      意思: sympathy\n      来源:  agree with\n      同义词: 同調\n    ',
   },
   {
     question: '同等',
-    answer: 'dōtō',
+    answer: 'dotou',
     explantion: '\n      汉字: 同等\n      读音: どうとう\n      意思: equality\n      来源:  equal\n      同义词: 同等\n    ',
   },
   {
     question: '同封',
-    answer: 'dōfū',
+    answer: 'dofuu',
     explantion: '\n      汉字: 同封\n      读音: どうふう\n      意思: enclosure (e.g. in a letter)\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -9804,7 +9804,7 @@ const n1 = [
   },
   {
     question: '導入',
-    answer: 'dōnyū',
+    answer: 'doniyuu',
     explantion: '\n      汉字: 導入\n      读音: どうにゅう\n      意思: introduction\n      来源:  bringing in\n      同义词: 導入\n    ',
   },
   {
@@ -9814,12 +9814,12 @@ const n1 = [
   },
   {
     question: '胴',
-    answer: 'dō',
+    answer: 'do',
     explantion: '\n      汉字: 胴\n      读音: どう\n      意思: trunk\n      来源:  body\n      同义词: 胴\n    ',
   },
   {
     question: '道場',
-    answer: 'dōjō',
+    answer: 'dojiyou',
     explantion: '\n      汉字: 道場\n      读音: どうじょう\n      意思: dojo\n      来源:  hall used for martial arts training\n      同义词: 道場\n    ',
   },
   {
@@ -9839,7 +9839,7 @@ const n1 = [
   },
   {
     question: '特権',
-    answer: 'tokken',
+    answer: 'totsuken',
     explantion: '\n      汉字: 特権\n      读音: とっけん\n      意思: privilege\n      来源:  special right\n      同义词: 特権\n    ',
   },
   {
@@ -9849,22 +9849,22 @@ const n1 = [
   },
   {
     question: '特集',
-    answer: 'tokushū',
+    answer: 'tokushu',
     explantion: '\n      汉字: 特集\n      读音: とくしゅう\n      意思: feature (e.g. newspaper)\n      来源:  special edition\n      同义词: 特集, 特輯\n    ',
   },
   {
     question: '特派',
-    answer: 'tokuha',
+    answer: 'tokuwa',
     explantion: '\n      汉字: 特派\n      读音: とくは\n      意思: send specially\n      来源:  special envoy\n      同义词: 特派\n    ',
   },
   {
     question: '特有',
-    answer: 'tokuyū',
+    answer: 'tokuyuu',
     explantion: '\n      汉字: 特有\n      读音: とくゆう\n      意思: characteristic (of)\n      来源:  peculiar (to)\n      同义词: 特有\n    ',
   },
   {
     question: '一人でに',
-    answer: 'ichinindeni',
+    answer: 'hitorideni',
     explantion: '\n      汉字: 一人でに\n      读音: ひとりでに\n      意思: by itself\n      来源:  automatically\n      同义词: 一人でに\n    ',
   },
   {
@@ -9884,7 +9884,7 @@ const n1 = [
   },
   {
     question: '独創',
-    answer: 'dokusō',
+    answer: 'dokuso',
     explantion: '\n      汉字: 独創\n      读音: どくそう\n      意思: originality\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -9899,7 +9899,7 @@ const n1 = [
   },
   {
     question: '突く',
-    answer: 'tsuku',
+    answer: 'tsutsuku',
     explantion: '\n      汉字: 突く\n      读音: つつく\n      意思: 1. to thrust\n      来源:  to strike\n      同义词: 突く, , 突付く, 突つく\n    ',
   },
   {
@@ -9924,7 +9924,7 @@ const n1 = [
   },
   {
     question: '内臓',
-    answer: 'naizō',
+    answer: 'naizou',
     explantion: '\n      汉字: 内臓\n      读音: ないぞう\n      意思: internal organs\n      来源:  intestines\n      同义词: 内臓\n    ',
   },
   {
@@ -9994,7 +9994,7 @@ const n1 = [
   },
   {
     question: '日当',
-    answer: 'nittō',
+    answer: 'nitto',
     explantion: '\n      汉字: 日当\n      读音: にっとう\n      意思: daily allowance\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -10009,32 +10009,32 @@ const n1 = [
   },
   {
     question: '入る',
-    answer: 'hairu',
+    answer: 'iru',
     explantion: '\n      汉字: 入る\n      读音: いる\n      意思: to get in\n      来源:  to go in\n      同义词: 入る\n    ',
   },
   {
     question: '入手',
-    answer: 'nyūshu',
+    answer: 'niyuushu',
     explantion: '\n      汉字: 入手\n      读音: にゅうしゅ\n      意思: obtaining\n      来源:  coming to hand\n      同义词: 入手\n    ',
   },
   {
     question: '入賞',
-    answer: 'nyūshō',
+    answer: 'niyuushou',
     explantion: '\n      汉字: 入賞\n      读音: にゅうしょう\n      意思: winning a prize or place (in a contest)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '入浴',
-    answer: 'nyūyoku',
+    answer: 'niyuuyoku',
     explantion: '\n      汉字: 入浴\n      读音: にゅうよく\n      意思: bathe\n      来源:  bathing\n      同义词: 入浴\n    ',
   },
   {
     question: '如何して',
-    answer: 'ikashite',
+    answer: 'doshite',
     explantion: '\n      汉字: 如何して\n      读音: どうして\n      意思: why?\n      来源:  for what reason\n      同义词: 如何して\n    ',
   },
   {
     question: '如何しても',
-    answer: 'ikashitemo',
+    answer: 'doshitemo',
     explantion: '\n      汉字: 如何しても\n      读音: どうしても\n      意思: by all means\n      来源:  at any cost\n      同义词: 如何しても\n    ',
   },
   {
@@ -10044,7 +10044,7 @@ const n1 = [
   },
   {
     question: '尿',
-    answer: 'nyō',
+    answer: 'niyou',
     explantion: '\n      汉字: 尿\n      读音: にょう\n      意思: urine\n      来源: waller\n      同义词: 尿, 尿, 尿, 尿, 尿, 尿, 尿\n    ',
   },
   {
@@ -10054,12 +10054,12 @@ const n1 = [
   },
   {
     question: '任務',
-    answer: 'nimmu',
+    answer: 'ninmu',
     explantion: '\n      汉字: 任務\n      读音: にんむ\n      意思: duty\n      来源:  function\n      同义词: 任務\n    ',
   },
   {
     question: '任命',
-    answer: 'nimmei',
+    answer: 'ninmei',
     explantion: '\n      汉字: 任命\n      读音: にんめい\n      意思: appointment\n      来源:  nomination\n      同义词: 任命\n    ',
   },
   {
@@ -10069,7 +10069,7 @@ const n1 = [
   },
   {
     question: '認める',
-    answer: 'mitomeru',
+    answer: 'shitatameru',
     explantion: '\n      汉字: 認める\n      读音: したためる\n      意思: to write up\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -10084,12 +10084,12 @@ const n1 = [
   },
   {
     question: '熱湯',
-    answer: 'nettō',
+    answer: 'netto',
     explantion: '\n      汉字: 熱湯\n      读音: ねっとう\n      意思: boiling water\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '熱量',
-    answer: 'netsuryō',
+    answer: 'netsuryo',
     explantion: '\n      汉字: 熱量\n      读音: ねつりょう\n      意思: temperature\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -10099,7 +10099,7 @@ const n1 = [
   },
   {
     question: '年号',
-    answer: 'nengō',
+    answer: 'nengou',
     explantion: '\n      汉字: 年号\n      读音: ねんごう\n      意思: name of an era\n      来源:  year number\n      同义词: 年号\n    ',
   },
   {
@@ -10109,12 +10109,12 @@ const n1 = [
   },
   {
     question: '年生',
-    answer: 'toshisei',
+    answer: 'nensei',
     explantion: '\n      汉字: 年生\n      读音: ねんせい\n      意思: pupil in .... year\n      来源:  student in .... year\n      同义词: 年生\n    ',
   },
   {
     question: '年長',
-    answer: 'nenchō',
+    answer: 'nenchou',
     explantion: '\n      汉字: 年長\n      读音: ねんちょう\n      意思: seniority\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -10129,12 +10129,12 @@ const n1 = [
   },
   {
     question: '燃焼',
-    answer: 'nenshō',
+    answer: 'nensho',
     explantion: '\n      汉字: 燃焼\n      读音: ねんしょう\n      意思: burning\n      来源:  combustion\n      同义词: 燃焼\n    ',
   },
   {
     question: '燃料',
-    answer: 'nenryō',
+    answer: 'nenryo',
     explantion: '\n      汉字: 燃料\n      读音: ねんりょう\n      意思: fuel\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -10169,37 +10169,37 @@ const n1 = [
   },
   {
     question: '納入',
-    answer: 'nōnyū',
+    answer: 'nouniyuu',
     explantion: '\n      汉字: 納入\n      读音: のうにゅう\n      意思: payment\n      来源:  supply\n      同义词: 納入\n    ',
   },
   {
     question: '脳',
-    answer: 'nō',
+    answer: 'no',
     explantion: '\n      汉字: 脳\n      读音: のう\n      意思: brain\n      来源:  memory\n      同义词: 脳\n    ',
   },
   {
     question: '農耕',
-    answer: 'nōkō',
+    answer: 'noko',
     explantion: '\n      汉字: 農耕\n      读音: のうこう\n      意思: farming\n      来源:  agriculture\n      同义词: 農耕\n    ',
   },
   {
     question: '農場',
-    answer: 'nōjō',
+    answer: 'noujiyou',
     explantion: '\n      汉字: 農場\n      读音: のうじょう\n      意思: farm (agriculture)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '農地',
-    answer: 'nōchi',
+    answer: 'nouchi',
     explantion: '\n      汉字: 農地\n      读音: のうち\n      意思: agricultural land\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '把握',
-    answer: 'haaku',
+    answer: 'waaku',
     explantion: '\n      汉字: 把握\n      读音: はあく\n      意思: grasp\n      来源:  catch\n      同义词: 把握\n    ',
   },
   {
     question: '派',
-    answer: 'ha',
+    answer: 'wa',
     explantion: '\n      汉字: 派\n      读音: は\n      意思: clique\n      来源:  faction\n      同义词: 派\n    ',
   },
   {
@@ -10209,7 +10209,7 @@ const n1 = [
   },
   {
     question: '破壊',
-    answer: 'hakai',
+    answer: 'wakai',
     explantion: '\n      汉字: 破壊\n      读音: はかい\n      意思: destruction\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -10219,7 +10219,7 @@ const n1 = [
   },
   {
     question: '破損',
-    answer: 'hason',
+    answer: 'wason',
     explantion: '\n      汉字: 破損\n      读音: はそん\n      意思: damage\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -10264,7 +10264,7 @@ const n1 = [
   },
   {
     question: '排除',
-    answer: 'haijo',
+    answer: 'haijiyo',
     explantion: '\n      汉字: 排除\n      读音: はいじょ\n      意思: exclusion\n      来源:  removal\n      同义词: 排除\n    ',
   },
   {
@@ -10279,7 +10279,7 @@ const n1 = [
   },
   {
     question: '杯',
-    answer: 'hai',
+    answer: 'sakazuki',
     explantion: '\n      汉字: 杯\n      读音: さかずき\n      意思: wine cups\n      来源: waller\n      同义词: 杯, 盃, 盃, 坏, 坏, 巵, 巵, 卮, 卮, 盞, 盞, 盞, 觚, 觚, 觴, 觴, 酒盃, 酒盃\n    ',
   },
   {
@@ -10299,7 +10299,7 @@ const n1 = [
   },
   {
     question: '背負う',
-    answer: 'seou',
+    answer: 'sho',
     explantion: '\n      汉字: 背負う\n      读音: しょう\n      意思: to be burdened with\n      来源:  to carry on back or shoulder\n      同义词: 背負う\n    ',
   },
   {
@@ -10309,12 +10309,12 @@ const n1 = [
   },
   {
     question: '配給',
-    answer: 'haikyū',
+    answer: 'haikyu',
     explantion: '\n      汉字: 配給\n      读音: はいきゅう\n      意思: distribution (eg. films rice)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '配偶者',
-    answer: 'haigūsha',
+    answer: 'haigushiya',
     explantion: '\n      汉字: 配偶者\n      读音: はいぐうしゃ\n      意思: spouse\n      来源:  wife\n      同义词: 配偶者\n    ',
   },
   {
@@ -10334,7 +10334,7 @@ const n1 = [
   },
   {
     question: '配慮',
-    answer: 'hairyo',
+    answer: 'hairiyo',
     explantion: '\n      汉字: 配慮\n      读音: はいりょ\n      意思: consideration\n      来源:  concern\n      同义词: 配慮\n    ',
   },
   {
@@ -10359,7 +10359,7 @@ const n1 = [
   },
   {
     question: '賠償',
-    answer: 'baishō',
+    answer: 'baisho',
     explantion: '\n      汉字: 賠償\n      读音: ばいしょう\n      意思: reparations\n      来源:  indemnity\n      同义词: 賠償\n    ',
   },
   {
@@ -10369,12 +10369,12 @@ const n1 = [
   },
   {
     question: '白状',
-    answer: 'hakujō',
+    answer: 'wakujiyou',
     explantion: '\n      汉字: 白状\n      读音: はくじょう\n      意思: confession\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '薄弱',
-    answer: 'hakujaku',
+    answer: 'wakujaku',
     explantion: '\n      汉字: 薄弱\n      读音: はくじゃく\n      意思: feebleness\n      来源:  weakness\n      同义词: 薄弱\n    ',
   },
   {
@@ -10394,7 +10394,7 @@ const n1 = [
   },
   {
     question: '爆破',
-    answer: 'bakuha',
+    answer: 'bakuwa',
     explantion: '\n      汉字: 爆破\n      读音: ばくは\n      意思: blast\n      来源:  explosion\n      同义词: 爆破\n    ',
   },
   {
@@ -10419,12 +10419,12 @@ const n1 = [
   },
   {
     question: '発言',
-    answer: 'hatsugen',
+    answer: 'watsugen',
     explantion: '\n      汉字: 発言\n      读音: はつげん\n      意思: utterance\n      来源:  speech\n      同义词: 発言\n    ',
   },
   {
     question: '発作',
-    answer: 'hossa',
+    answer: 'hotsusa',
     explantion: '\n      汉字: 発作\n      读音: ほっさ\n      意思: fit\n      来源:  spasm\n      同义词: 発作\n    ',
   },
   {
@@ -10434,7 +10434,7 @@ const n1 = [
   },
   {
     question: '発病',
-    answer: 'hatsubyō',
+    answer: 'hatsubyo',
     explantion: '\n      汉字: 発病\n      读音: はつびょう\n      意思: attack (disease)\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -10459,7 +10459,7 @@ const n1 = [
   },
   {
     question: '判',
-    answer: 'han',
+    answer: 'ban',
     explantion: '\n      汉字: 判\n      读音: ばん\n      意思: size (of paper or books)\n      来源: waller\n      同义词: 判\n    ',
   },
   {
@@ -10474,12 +10474,12 @@ const n1 = [
   },
   {
     question: '半端',
-    answer: 'hampa',
+    answer: 'hanpa',
     explantion: '\n      汉字: 半端\n      读音: はんぱ\n      意思: remnant\n      来源:  fragment\n      同义词: 半端\n    ',
   },
   {
     question: '反',
-    answer: 'han',
+    answer: 'tan',
     explantion: '\n      汉字: 反\n      读音: たん\n      意思: roll of cloth (c. 10 yds.)\n      来源:  .245 acres\n      同义词: 反, 段\n    ',
   },
   {
@@ -10494,7 +10494,7 @@ const n1 = [
   },
   {
     question: '反応',
-    answer: 'hannō',
+    answer: 'hanno',
     explantion: '\n      汉字: 反応\n      读音: はんのう\n      意思: reaction\n      来源:  response\n      同义词: 反応, 反応\n    ',
   },
   {
@@ -10504,7 +10504,7 @@ const n1 = [
   },
   {
     question: '反響',
-    answer: 'hankyō',
+    answer: 'hankyo',
     explantion: '\n      汉字: 反響\n      读音: はんきょう\n      意思: echo\n      来源:  reverberation\n      同义词: 反響\n    ',
   },
   {
@@ -10534,7 +10534,7 @@ const n1 = [
   },
   {
     question: '版',
-    answer: 'ban',
+    answer: 'han',
     explantion: '\n      汉字: 版\n      读音: はん\n      意思: edition\n      来源: waller\n      同义词: 版\n    ',
   },
   {
@@ -10554,7 +10554,7 @@ const n1 = [
   },
   {
     question: '繁栄',
-    answer: 'han\'ei',
+    answer: 'hanei',
     explantion: '\n      汉字: 繁栄\n      读音: はんえい\n      意思: prospering\n      来源:  prosperity\n      同义词: 繁栄\n    ',
   },
   {
@@ -10564,7 +10564,7 @@ const n1 = [
   },
   {
     question: '繁盛',
-    answer: 'hanjō',
+    answer: 'hanjiyou',
     explantion: '\n      汉字: 繁盛\n      读音: はんじょう\n      意思: prosperity\n      来源:  flourishing\n      同义词: 繁盛, 繁盛, 繁昌, 蕃昌\n    ',
   },
   {
@@ -10594,7 +10594,7 @@ const n1 = [
   },
   {
     question: '彼方',
-    answer: 'kanata',
+    answer: 'achira',
     explantion: '\n      汉字: 彼方\n      读音: あちら\n      意思: 1. there\n      来源:  yonder\n      同义词: 彼方\n    ',
   },
   {
@@ -10624,7 +10624,7 @@ const n1 = [
   },
   {
     question: '比重',
-    answer: 'hijū',
+    answer: 'hiju',
     explantion: '\n      汉字: 比重\n      读音: ひじゅう\n      意思: specific gravity\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -10639,7 +10639,7 @@ const n1 = [
   },
   {
     question: '疲労',
-    answer: 'hirō',
+    answer: 'hirou',
     explantion: '\n      汉字: 疲労\n      读音: ひろう\n      意思: fatigue\n      来源:  weariness\n      同义词: 疲労\n    ',
   },
   {
@@ -10649,7 +10649,7 @@ const n1 = [
   },
   {
     question: '肥料',
-    answer: 'hiryō',
+    answer: 'hiryo',
     explantion: '\n      汉字: 肥料\n      读音: ひりょう\n      意思: manure\n      来源:  fertilizer\n      同义词: 肥料\n    ',
   },
   {
@@ -10674,7 +10674,7 @@ const n1 = [
   },
   {
     question: '非行',
-    answer: 'hikō',
+    answer: 'hiko',
     explantion: '\n      汉字: 非行\n      读音: ひこう\n      意思: delinquency\n      来源:  misconduct\n      同义词: 非行\n    ',
   },
   {
@@ -10689,7 +10689,7 @@ const n1 = [
   },
   {
     question: '微笑',
-    answer: 'bishō',
+    answer: 'bisho',
     explantion: '\n      汉字: 微笑\n      读音: びしょう\n      意思: smile\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -10699,7 +10699,7 @@ const n1 = [
   },
   {
     question: '微量',
-    answer: 'biryō',
+    answer: 'biriyou',
     explantion: '\n      汉字: 微量\n      读音: びりょう\n      意思: minuscule amount\n      来源:  extremely small quantity\n      同义词: 微量\n    ',
   },
   {
@@ -10709,7 +10709,7 @@ const n1 = [
   },
   {
     question: '美',
-    answer: 'yoshi',
+    answer: 'bi',
     explantion: '\n      汉字: 美\n      读音: び\n      意思: beauty\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -10729,7 +10729,7 @@ const n1 = [
   },
   {
     question: '必修',
-    answer: 'hisshū',
+    answer: 'hitsushu',
     explantion: '\n      汉字: 必修\n      读音: ひっしゅう\n      意思: required (subject)\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -10739,22 +10739,22 @@ const n1 = [
   },
   {
     question: '標語',
-    answer: 'hyōgo',
+    answer: 'hyougo',
     explantion: '\n      汉字: 標語\n      读音: ひょうご\n      意思: motto\n      来源:  slogan\n      同义词: 標語\n    ',
   },
   {
     question: '漂う',
-    answer: 'tadayou',
+    answer: 'tadayo',
     explantion: '\n      汉字: 漂う\n      读音: ただよう\n      意思: to drift about\n      来源:  to float\n      同义词: 漂う\n    ',
   },
   {
     question: '票',
-    answer: 'hyō',
+    answer: 'hyou',
     explantion: '\n      汉字: 票\n      读音: ひょう\n      意思: label\n      来源:  ballot\n      同义词: 票\n    ',
   },
   {
     question: '描写',
-    answer: 'byōsha',
+    answer: 'byosha',
     explantion: '\n      汉字: 描写\n      读音: びょうしゃ\n      意思: depiction\n      来源:  description\n      同义词: 描写, 描寫\n    ',
   },
   {
@@ -10779,7 +10779,7 @@ const n1 = [
   },
   {
     question: '品種',
-    answer: 'hinshu',
+    answer: 'hinshiyu',
     explantion: '\n      汉字: 品種\n      读音: ひんしゅ\n      意思: brand\n      来源:  kind\n      同义词: 品種\n    ',
   },
   {
@@ -10804,7 +10804,7 @@ const n1 = [
   },
   {
     question: '貧乏',
-    answer: 'bimbō',
+    answer: 'binbou',
     explantion: '\n      汉字: 貧乏\n      读音: びんぼう\n      意思: poverty\n      来源:  destitute\n      同义词: 貧乏, 貧之\n    ',
   },
   {
@@ -10819,7 +10819,7 @@ const n1 = [
   },
   {
     question: '瓶',
-    answer: 'bin',
+    answer: 'kame',
     explantion: '\n      汉字: 瓶\n      读音: かめ\n      意思: earthenware pot\n      来源: waller\n      同义词: 甕\n    ',
   },
   {
@@ -10839,7 +10839,7 @@ const n1 = [
   },
   {
     question: '不況',
-    answer: 'fukyō',
+    answer: 'fukyo',
     explantion: '\n      汉字: 不況\n      读音: ふきょう\n      意思: recession\n      来源:  depression\n      同义词: 不況\n    ',
   },
   {
@@ -10854,7 +10854,7 @@ const n1 = [
   },
   {
     question: '不順',
-    answer: 'fujun',
+    answer: 'fujiyun',
     explantion: '\n      汉字: 不順\n      读音: ふじゅん\n      意思: irregularity\n      来源:  unseasonableness\n      同义词: 不順\n    ',
   },
   {
@@ -10869,22 +10869,22 @@ const n1 = [
   },
   {
     question: '不調',
-    answer: 'fuchō',
+    answer: 'fuchiyou',
     explantion: '\n      汉字: 不調\n      读音: ふちょう\n      意思: bad condition\n      来源:  not to work out (ie a deal)\n      同义词: 不調\n    ',
   },
   {
     question: '不当',
-    answer: 'futō',
+    answer: 'futo',
     explantion: '\n      汉字: 不当\n      读音: ふとう\n      意思: injustice\n      来源:  impropriety\n      同义词: 不当\n    ',
   },
   {
     question: '不動産',
-    answer: 'fudōsan',
+    answer: 'fudosan',
     explantion: '\n      汉字: 不動産\n      读音: ふどうさん\n      意思: real estate\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '不評',
-    answer: 'fuhyō',
+    answer: 'fuhyou',
     explantion: '\n      汉字: 不評\n      读音: ふひょう\n      意思: bad reputation\n      来源:  disgrace\n      同义词: 不評\n    ',
   },
   {
@@ -10899,7 +10899,7 @@ const n1 = [
   },
   {
     question: '不良',
-    answer: 'furyō',
+    answer: 'furyo',
     explantion: '\n      汉字: 不良\n      读音: ふりょう\n      意思: badness\n      来源:  delinquent\n      同义词: 不良\n    ',
   },
   {
@@ -10919,7 +10919,7 @@ const n1 = [
   },
   {
     question: '富豪',
-    answer: 'fugō',
+    answer: 'fugou',
     explantion: '\n      汉字: 富豪\n      读音: ふごう\n      意思: wealthy person\n      来源:  millionaire\n      同义词: 富豪\n    ',
   },
   {
@@ -10934,7 +10934,7 @@ const n1 = [
   },
   {
     question: '扶養',
-    answer: 'fuyō',
+    answer: 'fuyou',
     explantion: '\n      汉字: 扶養\n      读音: ふよう\n      意思: support\n      来源:  maintenance\n      同义词: 扶養\n    ',
   },
   {
@@ -10949,12 +10949,12 @@ const n1 = [
   },
   {
     question: '浮力',
-    answer: 'furyoku',
+    answer: 'furiyoku',
     explantion: '\n      汉字: 浮力\n      读音: ふりょく\n      意思: buoyancy\n      来源:  floating power\n      同义词: 浮力\n    ',
   },
   {
     question: '父母',
-    answer: 'chichihaha',
+    answer: 'chichiwawa',
     explantion: '\n      汉字: 父母\n      读音: ちちはは\n      意思: father and mother\n      来源:  parents\n      同义词: 父母\n    ',
   },
   {
@@ -10979,7 +10979,7 @@ const n1 = [
   },
   {
     question: '負傷',
-    answer: 'fushō',
+    answer: 'fusho',
     explantion: '\n      汉字: 負傷\n      读音: ふしょう\n      意思: injury\n      来源:  wound\n      同义词: 負傷\n    ',
   },
   {
@@ -10999,17 +10999,17 @@ const n1 = [
   },
   {
     question: '侮辱',
-    answer: 'bujoku',
+    answer: 'bujiyoku',
     explantion: '\n      汉字: 侮辱\n      读音: ぶじょく\n      意思: insult\n      来源:  contempt\n      同义词: 侮辱\n    ',
   },
   {
     question: '武装',
-    answer: 'busō',
+    answer: 'buso',
     explantion: '\n      汉字: 武装\n      读音: ぶそう\n      意思: arms\n      来源:  armament\n      同义词: 武装\n    ',
   },
   {
     question: '武力',
-    answer: 'buryoku',
+    answer: 'buriyoku',
     explantion: '\n      汉字: 武力\n      读音: ぶりょく\n      意思: armed might\n      来源:  military power\n      同义词: 武力\n    ',
   },
   {
@@ -11034,32 +11034,32 @@ const n1 = [
   },
   {
     question: '封',
-    answer: 'fū',
+    answer: 'fu',
     explantion: '\n      汉字: 封\n      读音: ふう\n      意思: seal\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '封建',
-    answer: 'hōken',
+    answer: 'hoken',
     explantion: '\n      汉字: 封建\n      读音: ほうけん\n      意思: feudalistic\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '封鎖',
-    answer: 'fūsa',
+    answer: 'fuusa',
     explantion: '\n      汉字: 封鎖\n      读音: ふうさ\n      意思: blockade\n      来源:  freezing (funds)\n      同义词: 封鎖\n    ',
   },
   {
     question: '風習',
-    answer: 'fūshū',
+    answer: 'fushu',
     explantion: '\n      汉字: 風習\n      读音: ふうしゅう\n      意思: custom\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '風俗',
-    answer: 'fūzoku',
+    answer: 'fuzoku',
     explantion: '\n      汉字: 風俗\n      读音: ふうぞく\n      意思: 1. manners\n      来源:  customs\n      同义词: 風俗, \n    ',
   },
   {
     question: '風土',
-    answer: 'fūdo',
+    answer: 'fuudo',
     explantion: '\n      汉字: 風土\n      读音: ふうど\n      意思: natural features\n      来源:  topography\n      同义词: 風土\n    ',
   },
   {
@@ -11069,12 +11069,12 @@ const n1 = [
   },
   {
     question: '復旧',
-    answer: 'fukkyū',
+    answer: 'fukukyu',
     explantion: '\n      汉字: 復旧\n      读音: ふくきゅう\n      意思: restoration\n      来源:  restitution\n      同义词: 復旧, 復旧\n    ',
   },
   {
     question: '復興',
-    answer: 'fukkō',
+    answer: 'fukko',
     explantion: '\n      汉字: 復興\n      读音: ふっこう\n      意思: revival\n      来源:  renaissance\n      同义词: 復興\n    ',
   },
   {
@@ -11094,7 +11094,7 @@ const n1 = [
   },
   {
     question: '複合',
-    answer: 'fukugō',
+    answer: 'fukugou',
     explantion: '\n      汉字: 複合\n      读音: ふくごう\n      意思: composite\n      来源:  complex\n      同义词: 複合\n    ',
   },
   {
@@ -11109,7 +11109,7 @@ const n1 = [
   },
   {
     question: '沸騰',
-    answer: 'futtō',
+    answer: 'futto',
     explantion: '\n      汉字: 沸騰\n      读音: ふっとう\n      意思: boiling\n      来源:  seething\n      同义词: 沸騰\n    ',
   },
   {
@@ -11119,7 +11119,7 @@ const n1 = [
   },
   {
     question: '仏像',
-    answer: 'butsuzō',
+    answer: 'butsuzou',
     explantion: '\n      汉字: 仏像\n      读音: ぶつぞう\n      意思: Buddhist image (statue)\n      来源: waller\n      同义词: 佛像\n    ',
   },
   {
@@ -11134,7 +11134,7 @@ const n1 = [
   },
   {
     question: '物資',
-    answer: 'busshi',
+    answer: 'butsushi',
     explantion: '\n      汉字: 物資\n      读音: ぶっし\n      意思: goods\n      来源:  materials\n      同义词: 物資\n    ',
   },
   {
@@ -11149,17 +11149,17 @@ const n1 = [
   },
   {
     question: '物置き',
-    answer: 'monookiki',
+    answer: 'monooki',
     explantion: '\n      汉字: 物置き\n      读音: ものおき\n      意思: storeroom\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '分',
-    answer: 'bun',
+    answer: 'fun',
     explantion: '\n      汉字: 分\n      读音: ふん\n      意思: minute\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '分業',
-    answer: 'bungyō',
+    answer: 'bungyou',
     explantion: '\n      汉字: 分業\n      读音: ぶんぎょう\n      意思: division of labor\n      来源:  specialization\n      同义词: 分業\n    ',
   },
   {
@@ -11184,7 +11184,7 @@ const n1 = [
   },
   {
     question: '分母',
-    answer: 'bumbo',
+    answer: 'bunbo',
     explantion: '\n      汉字: 分母\n      读音: ぶんぼ\n      意思: denominator\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -11214,12 +11214,12 @@ const n1 = [
   },
   {
     question: '奮闘',
-    answer: 'funtō',
+    answer: 'funtou',
     explantion: '\n      汉字: 奮闘\n      读音: ふんとう\n      意思: hard struggle\n      来源:  strenuous effort\n      同义词: 奮闘\n    ',
   },
   {
     question: '粉末',
-    answer: 'fummatsu',
+    answer: 'funmatsu',
     explantion: '\n      汉字: 粉末\n      读音: ふんまつ\n      意思: fine powder\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -11239,12 +11239,12 @@ const n1 = [
   },
   {
     question: '紛争',
-    answer: 'funsō',
+    answer: 'funso',
     explantion: '\n      汉字: 紛争\n      读音: ふんそう\n      意思: dispute\n      来源:  trouble\n      同义词: 紛争, 紛諍\n    ',
   },
   {
     question: '文',
-    answer: 'bun',
+    answer: 'fumi',
     explantion: '\n      汉字: 文\n      读音: ふみ\n      意思: letter\n      来源:  writings\n      同义词: 文, 書\n    ',
   },
   {
@@ -11269,12 +11269,12 @@ const n1 = [
   },
   {
     question: '而も',
-    answer: '而mo',
+    answer: 'shikamo',
     explantion: '\n      汉字: 而も\n      读音: しかも\n      意思: moreover\n      来源:  furthermore\n      同义词: 而も\n    ',
   },
   {
     question: '兵器',
-    answer: 'heiki',
+    answer: 'eiki',
     explantion: '\n      汉字: 兵器\n      读音: へいき\n      意思: arms\n      来源:  weapons\n      同义词: 兵器\n    ',
   },
   {
@@ -11289,12 +11289,12 @@ const n1 = [
   },
   {
     question: '平常',
-    answer: 'heijō',
+    answer: 'eijiyou',
     explantion: '\n      汉字: 平常\n      读音: へいじょう\n      意思: normal\n      来源:  usual\n      同义词: 平常\n    ',
   },
   {
     question: '平方',
-    answer: 'heihō',
+    answer: 'heiho',
     explantion: '\n      汉字: 平方\n      读音: へいほう\n      意思: square (e.g. metre)\n      来源:  square\n      同义词: 平方\n    ',
   },
   {
@@ -11304,17 +11304,17 @@ const n1 = [
   },
   {
     question: '並列',
-    answer: 'heiretsu',
+    answer: 'eiretsu',
     explantion: '\n      汉字: 並列\n      读音: へいれつ\n      意思: arrangement\n      来源:  parallel\n      同义词: 並列\n    ',
   },
   {
     question: '閉口',
-    answer: 'heikō',
+    answer: 'eiko',
     explantion: '\n      汉字: 閉口\n      读音: へいこう\n      意思: shut mouth\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '閉鎖',
-    answer: 'heisa',
+    answer: 'eisa',
     explantion: '\n      汉字: 閉鎖\n      读音: へいさ\n      意思: closing\n      来源:  closure\n      同义词: 閉鎖\n    ',
   },
   {
@@ -11339,7 +11339,7 @@ const n1 = [
   },
   {
     question: '変動',
-    answer: 'hendō',
+    answer: 'hendo',
     explantion: '\n      汉字: 変動\n      读音: へんどう\n      意思: change\n      来源:  fluctuation\n      同义词: 変動\n    ',
   },
   {
@@ -11374,7 +11374,7 @@ const n1 = [
   },
   {
     question: '返答',
-    answer: 'hentō',
+    answer: 'hento',
     explantion: '\n      汉字: 返答\n      读音: へんとう\n      意思: reply\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -11394,7 +11394,7 @@ const n1 = [
   },
   {
     question: '弁償',
-    answer: 'benshō',
+    answer: 'bensho',
     explantion: '\n      汉字: 弁償\n      读音: べんしょう\n      意思: next word\n      来源:  compensation\n      同义词: 弁償\n    ',
   },
   {
@@ -11414,7 +11414,7 @@ const n1 = [
   },
   {
     question: '保温',
-    answer: 'hoon',
+    answer: 'hon',
     explantion: '\n      汉字: 保温\n      读音: ほおん\n      意思: retaining warmth\n      来源:  keeping heat in\n      同义词: 保温\n    ',
   },
   {
@@ -11434,17 +11434,17 @@ const n1 = [
   },
   {
     question: '保守',
-    answer: 'hoshu',
+    answer: 'hoshiyu',
     explantion: '\n      汉字: 保守\n      读音: ほしゅ\n      意思: conservative\n      来源:  maintaining\n      同义词: 保守\n    ',
   },
   {
     question: '保養',
-    answer: 'hoyō',
+    answer: 'hoyo',
     explantion: '\n      汉字: 保養\n      读音: ほよう\n      意思: health preservation\n      来源:  recuperation\n      同义词: 保養\n    ',
   },
   {
     question: '舗装',
-    answer: 'hosō',
+    answer: 'hoso',
     explantion: '\n      汉字: 舗装\n      读音: ほそう\n      意思: pavement\n      来源:  road surface\n      同义词: 舗装, 鋪装\n    ',
   },
   {
@@ -11459,7 +11459,7 @@ const n1 = [
   },
   {
     question: '捕虜',
-    answer: 'horyo',
+    answer: 'horiyo',
     explantion: '\n      汉字: 捕虜\n      读音: ほりょ\n      意思: prisoner (of war)\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -11479,17 +11479,17 @@ const n1 = [
   },
   {
     question: '補給',
-    answer: 'hokyū',
+    answer: 'hokyu',
     explantion: '\n      汉字: 補給\n      读音: ほきゅう\n      意思: supply\n      来源:  supplying\n      同义词: 補給\n    ',
   },
   {
     question: '補強',
-    answer: 'hokyō',
+    answer: 'hokyo',
     explantion: '\n      汉字: 補強\n      读音: ほきょう\n      意思: compensation\n      来源:  reinforcement\n      同义词: 補強\n    ',
   },
   {
     question: '補充',
-    answer: 'hojū',
+    answer: 'hoju',
     explantion: '\n      汉字: 補充\n      读音: ほじゅう\n      意思: supplementation\n      来源:  supplement\n      同义词: 補充\n    ',
   },
   {
@@ -11499,7 +11499,7 @@ const n1 = [
   },
   {
     question: '補償',
-    answer: 'hoshō',
+    answer: 'hosho',
     explantion: '\n      汉字: 補償\n      读音: ほしょう\n      意思: compensation\n      来源:  reparation\n      同义词: 補償\n    ',
   },
   {
@@ -11529,7 +11529,7 @@ const n1 = [
   },
   {
     question: '母校',
-    answer: 'bokō',
+    answer: 'boko',
     explantion: '\n      汉字: 母校\n      读音: ぼこう\n      意思: alma mater\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -11544,32 +11544,32 @@ const n1 = [
   },
   {
     question: '呆然',
-    answer: 'bōzen',
+    answer: 'bozen',
     explantion: '\n      汉字: 呆然\n      读音: ぼうぜん\n      意思: dumbfounded\n      来源:  overcome with surprise\n      同义词: 呆然, 茫然, ぼう然, 惘然, 惘然, \n    ',
   },
   {
     question: '報じる',
-    answer: 'hōjiru',
+    answer: 'hojiru',
     explantion: '\n      汉字: 報じる\n      读音: ほうじる\n      意思: to inform\n      来源:  to report\n      同义词: 報じる\n    ',
   },
   {
     question: '報ずる',
-    answer: 'hōzuru',
+    answer: 'hozuru',
     explantion: '\n      汉字: 報ずる\n      读音: ほうずる\n      意思: to inform\n      来源:  to report\n      同义词: 報ずる\n    ',
   },
   {
     question: '報酬',
-    answer: 'hōshū',
+    answer: 'hoshu',
     explantion: '\n      汉字: 報酬\n      读音: ほうしゅう\n      意思: remuneration\n      来源:  recompense\n      同义词: 報酬\n    ',
   },
   {
     question: '報道',
-    answer: 'hōdō',
+    answer: 'hodo',
     explantion: '\n      汉字: 報道\n      读音: ほうどう\n      意思: information\n      来源:  report\n      同义词: 報道\n    ',
   },
   {
     question: '奉仕',
-    answer: 'hōshi',
+    answer: 'hoshi',
     explantion: '\n      汉字: 奉仕\n      读音: ほうし\n      意思: attendance\n      来源:  service\n      同义词: 奉仕\n    ',
   },
   {
@@ -11579,7 +11579,7 @@ const n1 = [
   },
   {
     question: '崩壊',
-    answer: 'hōkai',
+    answer: 'hokai',
     explantion: '\n      汉字: 崩壊\n      读音: ほうかい\n      意思: collapse\n      来源:  decay (physics)\n      同义词: 崩壊, 崩潰\n    ',
   },
   {
@@ -11589,62 +11589,62 @@ const n1 = [
   },
   {
     question: '放り込む',
-    answer: 'hōrikomu',
+    answer: 'horikomu',
     explantion: '\n      汉字: 放り込む\n      读音: ほうりこむ\n      意思: to throw into\n      来源: waller\n      同义词: ほうり込む\n    ',
   },
   {
     question: '放り出す',
-    answer: 'hōridasu',
+    answer: 'horidasu',
     explantion: '\n      汉字: 放り出す\n      读音: ほうりだす\n      意思: to throw out\n      来源:  to fire\n      同义词: 放り出す, ほうり出す\n    ',
   },
   {
     question: '放棄',
-    answer: 'hōki',
+    answer: 'hoki',
     explantion: '\n      汉字: 放棄\n      读音: ほうき\n      意思: abandonment\n      来源:  renunciation\n      同义词: 放棄, 抛棄\n    ',
   },
   {
     question: '放射',
-    answer: 'hōsha',
+    answer: 'hosha',
     explantion: '\n      汉字: 放射\n      读音: ほうしゃ\n      意思: radiation\n      来源:  emission\n      同义词: 放射\n    ',
   },
   {
     question: '放射能',
-    answer: 'hōshanō',
+    answer: 'hoshano',
     explantion: '\n      汉字: 放射能\n      读音: ほうしゃのう\n      意思: radioactivity\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '放出',
-    answer: 'hōshutsu',
+    answer: 'hoshutsu',
     explantion: '\n      汉字: 放出\n      读音: ほうしゅつ\n      意思: release\n      来源:  emit\n      同义词: 放出\n    ',
   },
   {
     question: '放置',
-    answer: 'hōchi',
+    answer: 'houchi',
     explantion: '\n      汉字: 放置\n      读音: ほうち\n      意思: leave as is\n      来源:  leave to chance\n      同义词: 放置\n    ',
   },
   {
     question: '方策',
-    answer: 'hōsaku',
+    answer: 'hosaku',
     explantion: '\n      汉字: 方策\n      读音: ほうさく\n      意思: plan\n      来源:  policy\n      同义词: 方策\n    ',
   },
   {
     question: '方式',
-    answer: 'hōshiki',
+    answer: 'hoshiki',
     explantion: '\n      汉字: 方式\n      读音: ほうしき\n      意思: form\n      来源:  method\n      同义词: 方式\n    ',
   },
   {
     question: '法案',
-    answer: 'hōan',
+    answer: 'hoan',
     explantion: '\n      汉字: 法案\n      读音: ほうあん\n      意思: bill (law)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '法学',
-    answer: 'hōgaku',
+    answer: 'hogaku',
     explantion: '\n      汉字: 法学\n      读音: ほうがく\n      意思: law\n      来源:  jurisprudence\n      同义词: 法学\n    ',
   },
   {
     question: '法廷',
-    answer: 'hōtei',
+    answer: 'hotei',
     explantion: '\n      汉字: 法廷\n      读音: ほうてい\n      意思: courtroom\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -11654,7 +11654,7 @@ const n1 = [
   },
   {
     question: '褒美',
-    answer: 'hōbi',
+    answer: 'hobi',
     explantion: '\n      汉字: 褒美\n      读音: ほうび\n      意思: reward\n      来源:  prize\n      同义词: 褒美\n    ',
   },
   {
@@ -11664,32 +11664,32 @@ const n1 = [
   },
   {
     question: '豊作',
-    answer: 'hōsaku',
+    answer: 'hosaku',
     explantion: '\n      汉字: 豊作\n      读音: ほうさく\n      意思: abundant harvest\n      来源:  bumper crop\n      同义词: 豊作\n    ',
   },
   {
     question: '飽和',
-    answer: 'hōwa',
+    answer: 'howa',
     explantion: '\n      汉字: 飽和\n      读音: ほうわ\n      意思: saturation\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '妨害',
-    answer: 'bōgai',
+    answer: 'bougai',
     explantion: '\n      汉字: 妨害\n      读音: ぼうがい\n      意思: disturbance\n      来源:  obstruction\n      同义词: 妨害, 妨碍, 妨礙\n    ',
   },
   {
     question: '暴動',
-    answer: 'bōdō',
+    answer: 'boudo',
     explantion: '\n      汉字: 暴動\n      读音: ぼうどう\n      意思: insurrection\n      来源:  rebellion\n      同义词: 暴動\n    ',
   },
   {
     question: '暴風',
-    answer: 'bōfū',
+    answer: 'boufu',
     explantion: '\n      汉字: 暴風\n      读音: ぼうふう\n      意思: storm\n      来源:  windstorm\n      同义词: 暴風, 暴風\n    ',
   },
   {
     question: '暴力',
-    answer: 'bōryoku',
+    answer: 'bouriyoku',
     explantion: '\n      汉字: 暴力\n      读音: ぼうりょく\n      意思: violence\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -11699,37 +11699,37 @@ const n1 = [
   },
   {
     question: '冒頭',
-    answer: 'bōtō',
+    answer: 'bouto',
     explantion: '\n      汉字: 冒頭\n      读音: ぼうとう\n      意思: beginning\n      来源:  start\n      同义词: 冒頭\n    ',
   },
   {
     question: '紡績',
-    answer: 'bōseki',
+    answer: 'bouseki',
     explantion: '\n      汉字: 紡績\n      读音: ぼうせき\n      意思: spinning\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '膨脹',
-    answer: 'bōchō',
+    answer: 'bocho',
     explantion: '\n      汉字: 膨脹\n      读音: ぼうちょう\n      意思: expansion\n      来源:  swelling\n      同义词: 膨脹, 膨張, ぼう張\n    ',
   },
   {
     question: '防衛',
-    answer: 'bōei',
+    answer: 'bouei',
     explantion: '\n      汉字: 防衛\n      读音: ぼうえい\n      意思: defense\n      来源:  protection\n      同义词: 防衛\n    ',
   },
   {
     question: '防火',
-    answer: 'bōka',
+    answer: 'bouka',
     explantion: '\n      汉字: 防火\n      读音: ぼうか\n      意思: fire prevention\n      来源:  fire fighting\n      同义词: 防火\n    ',
   },
   {
     question: '頬っぺた',
-    answer: 'hōtsupeta',
+    answer: 'hoppeta',
     explantion: '\n      汉字: 頬っぺた\n      读音: ほっぺた\n      意思: cheek\n      来源: waller\n      同义词: , 頰っぺた, 頬っ辺, 頰っ辺\n    ',
   },
   {
     question: '僕',
-    answer: 'boku',
+    answer: 'shimobe',
     explantion: '\n      汉字: 僕\n      读音: しもべ\n      意思: manservant\n      来源:  servant (of God)\n      同义词: 僕, , 下部, 隷\n    ',
   },
   {
@@ -11739,7 +11739,7 @@ const n1 = [
   },
   {
     question: '没収',
-    answer: 'bosshū',
+    answer: 'bosshu',
     explantion: '\n      汉字: 没収\n      读音: ぼっしゅう\n      意思: forfeited\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -11779,7 +11779,7 @@ const n1 = [
   },
   {
     question: '本場',
-    answer: 'homba',
+    answer: 'honba',
     explantion: '\n      汉字: 本場\n      读音: ほんば\n      意思: home\n      来源:  habitat\n      同义词: 本場\n    ',
   },
   {
@@ -11789,12 +11789,12 @@ const n1 = [
   },
   {
     question: '本能',
-    answer: 'honnō',
+    answer: 'honnou',
     explantion: '\n      汉字: 本能\n      读音: ほんのう\n      意思: instinct\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '本名',
-    answer: 'hommyō',
+    answer: 'honmyo',
     explantion: '\n      汉字: 本名\n      读音: ほんみょう\n      意思: real name\n      来源: waller\n      同义词: 本名\n    ',
   },
   {
@@ -11814,7 +11814,7 @@ const n1 = [
   },
   {
     question: '埋蔵',
-    answer: 'maizō',
+    answer: 'maizou',
     explantion: '\n      汉字: 埋蔵\n      读音: まいぞう\n      意思: buried property\n      来源:  treasure trove\n      同义词: 埋蔵\n    ',
   },
   {
@@ -11824,7 +11824,7 @@ const n1 = [
   },
   {
     question: '毎',
-    answer: 'mai',
+    answer: 'goto',
     explantion: '\n      汉字: 毎\n      读音: ごと\n      意思: each respectively\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -11834,7 +11834,7 @@ const n1 = [
   },
   {
     question: '末',
-    answer: 'sue',
+    answer: 'ura',
     explantion: '\n      汉字: 末\n      读音: うら\n      意思: top end\n      来源:  tip\n      同义词: 末\n    ',
   },
   {
@@ -11854,7 +11854,7 @@ const n1 = [
   },
   {
     question: '満場',
-    answer: 'manjō',
+    answer: 'manjiyou',
     explantion: '\n      汉字: 満場\n      读音: まんじょう\n      意思: unanimous\n      来源:  whole audience\n      同义词: 満場\n    ',
   },
   {
@@ -11869,7 +11869,7 @@ const n1 = [
   },
   {
     question: '未',
-    answer: 'mi',
+    answer: 'hitsuji',
     explantion: '\n      汉字: 未\n      读音: ひつじ\n      意思: eighth sign of Chinese zodiac (The Ram 1pm-3pm south-southwest June)\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -11889,7 +11889,7 @@ const n1 = [
   },
   {
     question: '未熟',
-    answer: 'mijuku',
+    answer: 'mijiyuku',
     explantion: '\n      汉字: 未熟\n      读音: みじゅく\n      意思: inexperience\n      来源:  unripeness\n      同义词: 未熟\n    ',
   },
   {
@@ -11909,7 +11909,7 @@ const n1 = [
   },
   {
     question: '密集',
-    answer: 'misshū',
+    answer: 'misshu',
     explantion: '\n      汉字: 密集\n      读音: みっしゅう\n      意思: crowd\n      来源:  close formation\n      同义词: 密集\n    ',
   },
   {
@@ -11929,7 +11929,7 @@ const n1 = [
   },
   {
     question: '民主',
-    answer: 'minshu',
+    answer: 'minshiyu',
     explantion: '\n      汉字: 民主\n      读音: みんしゅ\n      意思: democratic\n      来源:  the head of the nation\n      同义词: 民主\n    ',
   },
   {
@@ -11959,7 +11959,7 @@ const n1 = [
   },
   {
     question: '無効',
-    answer: 'mukō',
+    answer: 'muko',
     explantion: '\n      汉字: 無効\n      读音: むこう\n      意思: invalid\n      来源:  no effect\n      同义词: 無効\n    ',
   },
   {
@@ -12014,12 +12014,12 @@ const n1 = [
   },
   {
     question: '無能',
-    answer: 'munō',
+    answer: 'munou',
     explantion: '\n      汉字: 無能\n      读音: むのう\n      意思: inefficiency\n      来源:  incompetence\n      同义词: 無能\n    ',
   },
   {
     question: '無用',
-    answer: 'muyō',
+    answer: 'muyou',
     explantion: '\n      汉字: 無用\n      读音: むよう\n      意思: useless\n      来源:  futility\n      同义词: 無用\n    ',
   },
   {
@@ -12059,7 +12059,7 @@ const n1 = [
   },
   {
     question: '名称',
-    answer: 'meishō',
+    answer: 'meisho',
     explantion: '\n      汉字: 名称\n      读音: めいしょう\n      意思: name\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -12079,7 +12079,7 @@ const n1 = [
   },
   {
     question: '命中',
-    answer: 'meichū',
+    answer: 'meichiyuu',
     explantion: '\n      汉字: 命中\n      读音: めいちゅう\n      意思: a hit\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -12089,7 +12089,7 @@ const n1 = [
   },
   {
     question: '明くる',
-    answer: 'akakuru',
+    answer: 'akuru',
     explantion: '\n      汉字: 明くる\n      读音: あくる\n      意思: next\n      来源:  following\n      同义词: 明くる, , 翌る\n    ',
   },
   {
@@ -12099,12 +12099,12 @@ const n1 = [
   },
   {
     question: '明瞭',
-    answer: 'meiryō',
+    answer: 'meiryo',
     explantion: '\n      汉字: 明瞭\n      读音: めいりょう\n      意思: clarity\n      来源: waller\n      同义词: 明りょう, 明亮, 明了\n    ',
   },
   {
     question: '明朗',
-    answer: 'meirō',
+    answer: 'meiro',
     explantion: '\n      汉字: 明朗\n      读音: めいろう\n      意思: bright\n      来源:  clear\n      同义词: 明朗\n    ',
   },
   {
@@ -12114,12 +12114,12 @@ const n1 = [
   },
   {
     question: '滅亡',
-    answer: 'metsubō',
+    answer: 'metsubou',
     explantion: '\n      汉字: 滅亡\n      读音: めつぼう\n      意思: downfall\n      来源:  ruin\n      同义词: 滅亡\n    ',
   },
   {
     question: '免除',
-    answer: 'menjo',
+    answer: 'menjiyo',
     explantion: '\n      汉字: 免除\n      读音: めんじょ\n      意思: exemption\n      来源:  exoneration\n      同义词: 免除\n    ',
   },
   {
@@ -12164,17 +12164,17 @@ const n1 = [
   },
   {
     question: '模倣',
-    answer: 'mohō',
+    answer: 'moho',
     explantion: '\n      汉字: 模倣\n      读音: もほう\n      意思: imitation\n      来源:  copying\n      同义词: 模倣, 摸倣\n    ',
   },
   {
     question: '猛烈',
-    answer: 'mōretsu',
+    answer: 'mouretsu',
     explantion: '\n      汉字: 猛烈\n      读音: もうれつ\n      意思: violent\n      来源:  vehement\n      同义词: 猛烈\n    ',
   },
   {
     question: '盲点',
-    answer: 'mōten',
+    answer: 'moten',
     explantion: '\n      汉字: 盲点\n      读音: もうてん\n      意思: blind spot\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -12184,7 +12184,7 @@ const n1 = [
   },
   {
     question: '木綿',
-    answer: 'kowata',
+    answer: 'kiwata',
     explantion: '\n      汉字: 木綿\n      读音: きわた\n      意思: cotton\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -12244,7 +12244,7 @@ const n1 = [
   },
   {
     question: '野党',
-    answer: 'yatō',
+    answer: 'yatou',
     explantion: '\n      汉字: 野党\n      读音: やとう\n      意思: opposition party\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -12259,7 +12259,7 @@ const n1 = [
   },
   {
     question: '役',
-    answer: 'yaku',
+    answer: 'eki',
     explantion: '\n      汉字: 役\n      读音: えき\n      意思: war\n      来源:  campaign\n      同义词: 役, 役\n    ',
   },
   {
@@ -12284,47 +12284,47 @@ const n1 = [
   },
   {
     question: '優',
-    answer: 'yū',
+    answer: 'yasa',
     explantion: '\n      汉字: 優\n      读音: やさ\n      意思: gentle\n      来源:  affectionate\n      同义词: 優\n    ',
   },
   {
     question: '優位',
-    answer: 'yūi',
+    answer: 'yuui',
     explantion: '\n      汉字: 優位\n      读音: ゆうい\n      意思: predominance\n      来源:  ascendancy\n      同义词: 優位\n    ',
   },
   {
     question: '優越',
-    answer: 'yūetsu',
+    answer: 'yuuetsu',
     explantion: '\n      汉字: 優越\n      读音: ゆうえつ\n      意思: supremacy\n      来源:  predominance\n      同义词: 優越\n    ',
   },
   {
     question: '優勢',
-    answer: 'yūsei',
+    answer: 'yusei',
     explantion: '\n      汉字: 優勢\n      读音: ゆうせい\n      意思: superiority\n      来源:  superior power\n      同义词: 優勢\n    ',
   },
   {
     question: '優先',
-    answer: 'yūsen',
+    answer: 'yusen',
     explantion: '\n      汉字: 優先\n      读音: ゆうせん\n      意思: preference\n      来源:  priority\n      同义词: 優先\n    ',
   },
   {
     question: '優美',
-    answer: 'yūbi',
+    answer: 'yuubi',
     explantion: '\n      汉字: 優美\n      读音: ゆうび\n      意思: grace\n      来源:  refinement\n      同义词: 優美\n    ',
   },
   {
     question: '勇敢',
-    answer: 'yūkan',
+    answer: 'yuukan',
     explantion: '\n      汉字: 勇敢\n      读音: ゆうかん\n      意思: bravery\n      来源:  heroism\n      同义词: 勇敢\n    ',
   },
   {
     question: '幽霊',
-    answer: 'yūrei',
+    answer: 'yuurei',
     explantion: '\n      汉字: 幽霊\n      读音: ゆうれい\n      意思: ghost\n      来源:  specter\n      同义词: 幽霊\n    ',
   },
   {
     question: '有する',
-    answer: 'yūsuru',
+    answer: 'yusuru',
     explantion: '\n      汉字: 有する\n      读音: ゆうする\n      意思: to own\n      来源:  to be endowed with\n      同义词: 有する\n    ',
   },
   {
@@ -12339,52 +12339,52 @@ const n1 = [
   },
   {
     question: '有益',
-    answer: 'yūeki',
+    answer: 'yueki',
     explantion: '\n      汉字: 有益\n      读音: ゆうえき\n      意思: beneficial\n      来源:  profitable\n      同义词: 有益\n    ',
   },
   {
     question: '有機',
-    answer: 'yūki',
+    answer: 'yuuki',
     explantion: '\n      汉字: 有機\n      读音: ゆうき\n      意思: organic\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '有望',
-    answer: 'yūbō',
+    answer: 'yuubou',
     explantion: '\n      汉字: 有望\n      读音: ゆうぼう\n      意思: good prospects\n      来源:  full of hope\n      同义词: 有望\n    ',
   },
   {
     question: '有力',
-    answer: 'yūryoku',
+    answer: 'yuuriyoku',
     explantion: '\n      汉字: 有力\n      读音: ゆうりょく\n      意思: 1. influence\n      来源:  prominence\n      同义词: 有力\n    ',
   },
   {
     question: '誘導',
-    answer: 'yūdō',
+    answer: 'yuudo',
     explantion: '\n      汉字: 誘導\n      读音: ゆうどう\n      意思: guidance\n      来源:  leading\n      同义词: 誘導\n    ',
   },
   {
     question: '誘惑',
-    answer: 'yūwaku',
+    answer: 'yuuwaku',
     explantion: '\n      汉字: 誘惑\n      读音: ゆうわく\n      意思: temptation\n      来源:  allurement\n      同义词: 誘惑\n    ',
   },
   {
     question: '遊牧',
-    answer: 'yūboku',
+    answer: 'yuuboku',
     explantion: '\n      汉字: 遊牧\n      读音: ゆうぼく\n      意思: nomadism\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '融資',
-    answer: 'yūshi',
+    answer: 'yuushi',
     explantion: '\n      汉字: 融資\n      读音: ゆうし\n      意思: financing\n      来源:  loan\n      同义词: 融資\n    ',
   },
   {
     question: '夕焼け',
-    answer: 'yūyake',
+    answer: 'yuuyake',
     explantion: '\n      汉字: 夕焼け\n      读音: ゆうやけ\n      意思: sunset\n      来源: waller\n      同义词: 夕焼\n    ',
   },
   {
     question: '夕暮れ',
-    answer: 'yūgure',
+    answer: 'yugure',
     explantion: '\n      汉字: 夕暮れ\n      读音: ゆうぐれ\n      意思: evening\n      来源:  (evening) twilight\n      同义词: 夕暮れ, 夕暮, 夕ぐれ\n    ',
   },
   {
@@ -12404,7 +12404,7 @@ const n1 = [
   },
   {
     question: '予想',
-    answer: 'yosō',
+    answer: 'yoso',
     explantion: '\n      汉字: 予想\n      读音: よそう\n      意思: expectation\n      来源:  anticipation\n      同义词: 予想\n    ',
   },
   {
@@ -12414,7 +12414,7 @@ const n1 = [
   },
   {
     question: '余興',
-    answer: 'yokyō',
+    answer: 'yokyo',
     explantion: '\n      汉字: 余興\n      读音: よきょう\n      意思: side show\n      来源:  entertainment\n      同义词: 余興\n    ',
   },
   {
@@ -12429,7 +12429,7 @@ const n1 = [
   },
   {
     question: '与党',
-    answer: 'yotō',
+    answer: 'yotou',
     explantion: '\n      汉字: 与党\n      读音: よとう\n      意思: government party\n      来源:  (ruling) party in power\n      同义词: 与党\n    ',
   },
   {
@@ -12454,67 +12454,67 @@ const n1 = [
   },
   {
     question: '様',
-    answer: 'yō',
+    answer: 'sama',
     explantion: '\n      汉字: 様\n      读音: さま\n      意思: Mr. or Mrs.\n      来源:  manner\n      同义词: 様, 方, 状\n    ',
   },
   {
     question: '様式',
-    answer: 'yōshiki',
+    answer: 'yoshiki',
     explantion: '\n      汉字: 様式\n      读音: ようしき\n      意思: style\n      来源:  form\n      同义词: 様式\n    ',
   },
   {
     question: '様相',
-    answer: 'yōsō',
+    answer: 'yoso',
     explantion: '\n      汉字: 様相\n      读音: ようそう\n      意思: aspect\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '洋風',
-    answer: 'yōfū',
+    answer: 'yofu',
     explantion: '\n      汉字: 洋風\n      读音: ようふう\n      意思: western style\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '溶液',
-    answer: 'yōeki',
+    answer: 'yoeki',
     explantion: '\n      汉字: 溶液\n      读音: ようえき\n      意思: solution (liquid)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '用件',
-    answer: 'yōken',
+    answer: 'yoken',
     explantion: '\n      汉字: 用件\n      读音: ようけん\n      意思: business\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '用紙',
-    answer: 'yōshi',
+    answer: 'yoshi',
     explantion: '\n      汉字: 用紙\n      读音: ようし\n      意思: blank form\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '用品',
-    answer: 'yōhin',
+    answer: 'yohin',
     explantion: '\n      汉字: 用品\n      读音: ようひん\n      意思: articles\n      来源:  supplies\n      同义词: 用品\n    ',
   },
   {
     question: '用法',
-    answer: 'yōhō',
+    answer: 'yoho',
     explantion: '\n      汉字: 用法\n      读音: ようほう\n      意思: directions\n      来源:  rules of use\n      同义词: 用法\n    ',
   },
   {
     question: '要する',
-    answer: 'yōsuru',
+    answer: 'yosuru',
     explantion: '\n      汉字: 要する\n      读音: ようする\n      意思: to demand\n      来源:  to require\n      同义词: 要する\n    ',
   },
   {
     question: '要因',
-    answer: 'yōin',
+    answer: 'yoin',
     explantion: '\n      汉字: 要因\n      读音: よういん\n      意思: primary factor\n      来源:  main cause\n      同义词: 要因\n    ',
   },
   {
     question: '要請',
-    answer: 'yōsei',
+    answer: 'yosei',
     explantion: '\n      汉字: 要請\n      读音: ようせい\n      意思: claim\n      来源:  demand\n      同义词: 要請\n    ',
   },
   {
     question: '要望',
-    answer: 'yōbō',
+    answer: 'yobou',
     explantion: '\n      汉字: 要望\n      读音: ようぼう\n      意思: demand for\n      来源:  request\n      同义词: 要望\n    ',
   },
   {
@@ -12529,7 +12529,7 @@ const n1 = [
   },
   {
     question: '養成',
-    answer: 'yōsei',
+    answer: 'yosei',
     explantion: '\n      汉字: 養成\n      读音: ようせい\n      意思: training\n      来源:  development\n      同义词: 養成\n    ',
   },
   {
@@ -12549,7 +12549,7 @@ const n1 = [
   },
   {
     question: '欲望',
-    answer: 'yokubō',
+    answer: 'yokubou',
     explantion: '\n      汉字: 欲望\n      读音: よくぼう\n      意思: desire\n      来源:  appetite\n      同义词: 欲望, 慾望\n    ',
   },
   {
@@ -12589,7 +12589,7 @@ const n1 = [
   },
   {
     question: '酪農',
-    answer: 'rakunō',
+    answer: 'rakuno',
     explantion: '\n      汉字: 酪農\n      读音: らくのう\n      意思: dairy (farm)\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -12604,7 +12604,7 @@ const n1 = [
   },
   {
     question: '濫用',
-    answer: 'ran\'yō',
+    answer: 'ranyo',
     explantion: '\n      汉字: 濫用\n      读音: らんよう\n      意思: abuse\n      来源:  misuse\n      同义词: 濫用, 乱用, らん用\n    ',
   },
   {
@@ -12659,17 +12659,17 @@ const n1 = [
   },
   {
     question: '立体',
-    answer: 'rittai',
+    answer: 'ritsutai',
     explantion: '\n      汉字: 立体\n      读音: りったい\n      意思: solid body\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '立方',
-    answer: 'rippō',
+    answer: 'tachikata',
     explantion: '\n      汉字: 立方\n      读音: たちかた\n      意思: dancing (geisha)\n      来源: waller\n      同义词: 立ち方\n    ',
   },
   {
     question: '立法',
-    answer: 'rippō',
+    answer: 'rippo',
     explantion: '\n      汉字: 立法\n      读音: りっぽう\n      意思: legislation\n      来源:  lawmaking\n      同义词: 立法\n    ',
   },
   {
@@ -12679,7 +12679,7 @@ const n1 = [
   },
   {
     question: '流',
-    answer: 'ryū',
+    answer: 'ryu',
     explantion: '\n      汉字: 流\n      读音: りゅう\n      意思: styleof\n      来源:  method of\n      同义词: 流\n    ',
   },
   {
@@ -12689,7 +12689,7 @@ const n1 = [
   },
   {
     question: '流通',
-    answer: 'ryūtsū',
+    answer: 'ryutsu',
     explantion: '\n      汉字: 流通\n      读音: りゅうつう\n      意思: circulation of money or goods\n      来源:  flow of water or air\n      同义词: 流通\n    ',
   },
   {
@@ -12699,32 +12699,32 @@ const n1 = [
   },
   {
     question: '旅客',
-    answer: 'ryokaku',
+    answer: 'riyokaku',
     explantion: '\n      汉字: 旅客\n      读音: りょかく\n      意思: passenger (transport)\n      来源: waller\n      同义词: 旅客\n    ',
   },
   {
     question: '旅券',
-    answer: 'ryoken',
+    answer: 'riyoken',
     explantion: '\n      汉字: 旅券\n      读音: りょけん\n      意思: passport\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '了',
-    answer: 'ryō',
+    answer: 'ryo',
     explantion: '\n      汉字: 了\n      读音: りょう\n      意思: finish\n      来源:  completion\n      同义词: 了\n    ',
   },
   {
     question: '了解',
-    answer: 'ryōkai',
+    answer: 'ryokai',
     explantion: '\n      汉字: 了解\n      读音: りょうかい\n      意思: comprehension\n      来源:  consent\n      同义词: 了解, 諒解, 領解, 領会\n    ',
   },
   {
     question: '両極',
-    answer: 'ryōkyoku',
+    answer: 'ryokyoku',
     explantion: '\n      汉字: 両極\n      读音: りょうきょく\n      意思: both extremities\n      来源:  north and south poles\n      同义词: 両極\n    ',
   },
   {
     question: '両立',
-    answer: 'ryōritsu',
+    answer: 'ryoritsu',
     explantion: '\n      汉字: 両立\n      读音: りょうりつ\n      意思: compatibility\n      来源:  coexistence\n      同义词: 両立\n    ',
   },
   {
@@ -12734,47 +12734,47 @@ const n1 = [
   },
   {
     question: '料',
-    answer: 'ryō',
+    answer: 'ryo',
     explantion: '\n      汉字: 料\n      读音: りょう\n      意思: material\n      来源:  charge\n      同义词: 料\n    ',
   },
   {
     question: '良好',
-    answer: 'ryōkō',
+    answer: 'ryoko',
     explantion: '\n      汉字: 良好\n      读音: りょうこう\n      意思: favorable\n      来源:  satisfactory\n      同义词: 良好\n    ',
   },
   {
     question: '良識',
-    answer: 'ryōshiki',
+    answer: 'ryoshiki',
     explantion: '\n      汉字: 良識\n      读音: りょうしき\n      意思: good sense\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '良質',
-    answer: 'ryōshitsu',
+    answer: 'ryoshitsu',
     explantion: '\n      汉字: 良質\n      读音: りょうしつ\n      意思: good quality\n      来源:  superior quality\n      同义词: 良質\n    ',
   },
   {
     question: '良心',
-    answer: 'ryōshin',
+    answer: 'ryoshin',
     explantion: '\n      汉字: 良心\n      读音: りょうしん\n      意思: conscience\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '領域',
-    answer: 'ryōiki',
+    answer: 'ryoiki',
     explantion: '\n      汉字: 領域\n      读音: りょういき\n      意思: area\n      来源:  domain\n      同义词: 領域\n    ',
   },
   {
     question: '領地',
-    answer: 'ryōchi',
+    answer: 'ryochi',
     explantion: '\n      汉字: 領地\n      读音: りょうち\n      意思: territory\n      来源:  dominion\n      同义词: 領地\n    ',
   },
   {
     question: '領土',
-    answer: 'ryōdo',
+    answer: 'ryodo',
     explantion: '\n      汉字: 領土\n      读音: りょうど\n      意思: dominion\n      来源:  territory\n      同义词: 領土\n    ',
   },
   {
     question: '林業',
-    answer: 'ringyō',
+    answer: 'ringyou',
     explantion: '\n      汉字: 林業\n      读音: りんぎょう\n      意思: forestry\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -12784,7 +12784,7 @@ const n1 = [
   },
   {
     question: '輪',
-    answer: 'wa',
+    answer: 'rin',
     explantion: '\n      汉字: 輪\n      读音: りん\n      意思: counter for wheels and flowers\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -12809,7 +12809,7 @@ const n1 = [
   },
   {
     question: '冷蔵',
-    answer: 'reizō',
+    answer: 'reizou',
     explantion: '\n      汉字: 冷蔵\n      读音: れいぞう\n      意思: cold storage\n      来源:  refrigeration\n      同义词: 冷蔵\n    ',
   },
   {
@@ -12844,7 +12844,7 @@ const n1 = [
   },
   {
     question: '恋愛',
-    answer: 'ren\'ai',
+    answer: 'renai',
     explantion: '\n      汉字: 恋愛\n      读音: れんあい\n      意思: love\n      来源:  love-making\n      同义词: 恋愛\n    ',
   },
   {
@@ -12854,7 +12854,7 @@ const n1 = [
   },
   {
     question: '蓮',
-    answer: 'hachisu',
+    answer: 'hasu',
     explantion: '\n      汉字: 蓮\n      读音: はす\n      意思: lotus\n      来源: waller\n      同义词: , , 蓮, 藕, \n    ',
   },
   {
@@ -12869,7 +12869,7 @@ const n1 = [
   },
   {
     question: '連休',
-    answer: 'renkyū',
+    answer: 'renkyu',
     explantion: '\n      汉字: 連休\n      读音: れんきゅう\n      意思: consecutive holidays\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -12879,7 +12879,7 @@ const n1 = [
   },
   {
     question: '連中',
-    answer: 'renchū',
+    answer: 'renju',
     explantion: '\n      汉字: 連中\n      读音: れんじゅう\n      意思: colleagues\n      来源:  company\n      同义词: 連中, 連中, 連中\n    ',
   },
   {
@@ -12889,17 +12889,17 @@ const n1 = [
   },
   {
     question: '連邦',
-    answer: 'rempō',
+    answer: 'renpo',
     explantion: '\n      汉字: 連邦\n      读音: れんぽう\n      意思: commonwealth\n      来源:  federation of states\n      同义词: 連邦, 聯邦\n    ',
   },
   {
     question: '連盟',
-    answer: 'remmei',
+    answer: 'renmei',
     explantion: '\n      汉字: 連盟\n      读音: れんめい\n      意思: league\n      来源:  union\n      同义词: 連盟, 聯盟\n    ',
   },
   {
     question: '露',
-    answer: 'ro',
+    answer: 'tsuyu',
     explantion: '\n      汉字: 露\n      读音: つゆ\n      意思: dew\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -12909,27 +12909,27 @@ const n1 = [
   },
   {
     question: '労る',
-    answer: 'rōru',
+    answer: 'itawaru',
     explantion: '\n      汉字: 労る\n      读音: いたわる\n      意思: to pity\n      来源:  to sympathize with\n      同义词: 労る, , 労わる\n    ',
   },
   {
     question: '労力',
-    answer: 'rōryoku',
+    answer: 'rouriyoku',
     explantion: '\n      汉字: 労力\n      读音: ろうりょく\n      意思: labour\n      来源:  effort\n      同义词: 労力\n    ',
   },
   {
     question: '弄る',
-    answer: 'ijikuru',
+    answer: 'ijiru',
     explantion: '\n      汉字: 弄る\n      读音: いじる\n      意思: to touch\n      来源:  to tamper with\n      同义词: 弄る, , , 弄る\n    ',
   },
   {
     question: '朗読',
-    answer: 'rōdoku',
+    answer: 'rodoku',
     explantion: '\n      汉字: 朗読\n      读音: ろうどく\n      意思: reading aloud\n      来源:  recitation\n      同义词: 朗読\n    ',
   },
   {
     question: '浪費',
-    answer: 'rōhi',
+    answer: 'rohi',
     explantion: '\n      汉字: 浪費\n      读音: ろうひ\n      意思: waste\n      来源:  extravagance\n      同义词: 浪費\n    ',
   },
   {
@@ -12949,7 +12949,7 @@ const n1 = [
   },
   {
     question: '老衰',
-    answer: 'rōsui',
+    answer: 'rousui',
     explantion: '\n      汉字: 老衰\n      读音: ろうすい\n      意思: senility\n      来源:  senile decay\n      同义词: 老衰\n    ',
   },
   {
@@ -12979,7 +12979,7 @@ const n1 = [
   },
   {
     question: '和風',
-    answer: 'wafū',
+    answer: 'wafu',
     explantion: '\n      汉字: 和風\n      读音: わふう\n      意思: Japanese style\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -13019,7 +13019,7 @@ const n1 = [
   },
   {
     question: '几帳面',
-    answer: 'kichōmen',
+    answer: 'kichomen',
     explantion: '\n      汉字: 几帳面\n      读音: きちょうめん\n      意思: methodical\n      来源:  punctual\n      同义词: 几帳面\n    ',
   },
   {
@@ -13049,12 +13049,12 @@ const n1 = [
   },
   {
     question: '嗚呼',
-    answer: 'ā',
+    answer: 'a',
     explantion: '\n      汉字: 嗚呼\n      读音: ああ\n      意思: Ah!\n      来源:  Oh!\n      同义词: 嗚呼, , 噫, 嗟, , , , , \n    ',
   },
   {
     question: '嗜好',
-    answer: 'shikō',
+    answer: 'shiko',
     explantion: '\n      汉字: 嗜好\n      读音: しこう\n      意思: taste\n      来源:  liking\n      同义词: 嗜好\n    ',
   },
   {
@@ -13084,7 +13084,7 @@ const n1 = [
   },
   {
     question: '傲る',
-    answer: '傲ru',
+    answer: 'ogoru',
     explantion: '\n      汉字: 傲る\n      读音: おごる\n      意思: to be proud\n      来源: waller\n      同义词: , 奢る, 驕る\n    ',
   },
   {
@@ -13094,7 +13094,7 @@ const n1 = [
   },
   {
     question: '嫋か',
-    answer: '嫋ka',
+    answer: 'shinayaka',
     explantion: '\n      汉字: 嫋か\n      读音: しなやか\n      意思: supple\n      来源:  flexible\n      同义词: 嫋か, , 靭やか, 靱やか\n    ',
   },
   {
@@ -13104,7 +13104,7 @@ const n1 = [
   },
   {
     question: '屎尿',
-    answer: 'shinyō',
+    answer: 'shiniyou',
     explantion: '\n      汉字: 屎尿\n      读音: しにょう\n      意思: excreta\n      来源:  raw sewage\n      同义词: 屎尿, し尿\n    ',
   },
   {
@@ -13134,7 +13134,7 @@ const n1 = [
   },
   {
     question: '揶揄う',
-    answer: 'yayuu',
+    answer: 'karakau',
     explantion: '\n      汉字: 揶揄う\n      读音: からかう\n      意思: to ridicule\n      来源:  to tease\n      同义词: 揶揄う\n    ',
   },
   {
@@ -13144,7 +13144,7 @@ const n1 = [
   },
   {
     question: '鬱陶しい',
-    answer: 'uttōshii',
+    answer: 'uttoshii',
     explantion: '\n      汉字: 鬱陶しい\n      读音: うっとうしい\n      意思: gloomy\n      来源:  depressing\n      同义词: 鬱陶しい, , , 鬱陶しい\n    ',
   },
   {
@@ -13154,7 +13154,7 @@ const n1 = [
   },
   {
     question: '洒落',
-    answer: 'share',
+    answer: 'sharaku',
     explantion: '\n      汉字: 洒落\n      读音: しゃらく\n      意思: frank\n      来源:  open-hearted\n      同义词: 洒落, 灑落\n    ',
   },
   {
@@ -13184,7 +13184,7 @@ const n1 = [
   },
   {
     question: '煌々',
-    answer: 'kōkō',
+    answer: 'koko',
     explantion: '\n      汉字: 煌々\n      读音: こうこう\n      意思: brilliantly\n      来源:  brightly\n      同义词: 煌々, 煌煌, 晃々, 晃晃\n    ',
   },
   {
@@ -13214,7 +13214,7 @@ const n1 = [
   },
   {
     question: '目蓋',
-    answer: 'mefuta',
+    answer: 'mabuta',
     explantion: '\n      汉字: 目蓋\n      读音: まぶた\n      意思: eyelid\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -13224,7 +13224,7 @@ const n1 = [
   },
   {
     question: '稍',
-    answer: '稍',
+    answer: 'yaya',
     explantion: '\n      汉字: 稍\n      读音: やや\n      意思: a little\n      来源:  partially\n      同义词: 稍, , 漸\n    ',
   },
   {
@@ -13234,7 +13234,7 @@ const n1 = [
   },
   {
     question: '煌びやか',
-    answer: '煌biyaka',
+    answer: 'kirabiyaka',
     explantion: '\n      汉字: 煌びやか\n      读音: きらびやか\n      意思: gorgeous\n      来源:  gaudy\n      同义词: 煌びやか, , 綺羅びやか\n    ',
   },
   {
@@ -13269,7 +13269,7 @@ const n1 = [
   },
   {
     question: '諄い',
-    answer: '諄i',
+    answer: 'kudoi',
     explantion: '\n      汉字: 諄い\n      读音: くどい\n      意思: verbose\n      来源:  importunate\n      同义词: 諄い\n    ',
   },
   {
@@ -13279,7 +13279,7 @@ const n1 = [
   },
   {
     question: '齎らす',
-    answer: '齎rasu',
+    answer: 'motarasu',
     explantion: '\n      汉字: 齎らす\n      读音: もたらす\n      意思: to bring\n      来源:  to take\n      同义词: 齎らす, , 齎す\n    ',
   },
   {
@@ -13319,7 +13319,7 @@ const n1 = [
   },
   {
     question: '霰',
-    answer: '霰',
+    answer: 'arare',
     explantion: '\n      汉字: 霰\n      读音: あられ\n      意思: kind of cookie\n      来源:  cartoon character\n      同义词: 霰, \n    ',
   },
   {
@@ -13349,12 +13349,12 @@ const n1 = [
   },
   {
     question: '愛憎',
-    answer: 'aizō',
+    answer: 'aizou',
     explantion: '\n      汉字: 愛憎\n      读音: あいぞう\n      意思: likes and dislikes\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '悪口',
-    answer: 'waruguchi',
+    answer: 'atsuko',
     explantion: '\n      汉字: 悪口\n      读音: あっこう\n      意思: abuse\n      来源:  insult\n      同义词: 悪口\n    ',
   },
   {
@@ -13364,7 +13364,7 @@ const n1 = [
   },
   {
     question: '依存',
-    answer: 'izon',
+    answer: 'ison',
     explantion: '\n      汉字: 依存\n      读音: いそん\n      意思: dependence\n      来源:  dependent\n      同义词: 依存, 依存\n    ',
   },
   {
@@ -13374,7 +13374,7 @@ const n1 = [
   },
   {
     question: '一言',
-    answer: 'hitokoto',
+    answer: 'ichigen',
     explantion: '\n      汉字: 一言\n      读音: いちげん\n      意思: single word\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -13389,12 +13389,12 @@ const n1 = [
   },
   {
     question: '一日',
-    answer: 'ichinichi',
+    answer: 'ichijitsu',
     explantion: '\n      汉字: 一日\n      读音: いちじつ\n      意思: 1. one day\n      来源:  2. first of month\n      同义词: 一日\n    ',
   },
   {
     question: '卯',
-    answer: 'u',
+    answer: 'bou',
     explantion: '\n      汉字: 卯\n      读音: ぼう\n      意思: fourth sign of Chinese zodiac (The Hare 5am-7am east February)\n      来源: waller\n      同义词: 卯\n    ',
   },
   {
@@ -13404,7 +13404,7 @@ const n1 = [
   },
   {
     question: '黄色',
-    answer: 'kiiro',
+    answer: 'oushoku',
     explantion: '\n      汉字: 黄色\n      读音: おうしょく\n      意思: yellow\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -13414,7 +13414,7 @@ const n1 = [
   },
   {
     question: '音',
-    answer: 'oto',
+    answer: 'ne',
     explantion: '\n      汉字: 音\n      读音: ね\n      意思: sound\n      来源:  note\n      同义词: 音\n    ',
   },
   {
@@ -13429,7 +13429,7 @@ const n1 = [
   },
   {
     question: '何時でも',
-    answer: 'nanjidemo',
+    answer: 'itsudemo',
     explantion: '\n      汉字: 何時でも\n      读音: いつでも\n      意思: (at) any time\n      来源:  always\n      同义词: 何時でも\n    ',
   },
   {
@@ -13444,22 +13444,22 @@ const n1 = [
   },
   {
     question: '暇',
-    answer: 'hima',
+    answer: 'itoma',
     explantion: '\n      汉字: 暇\n      读音: いとま\n      意思: free time\n      来源:  leisure\n      同义词: 暇\n    ',
   },
   {
     question: '火傷',
-    answer: 'kashō',
+    answer: 'kasho',
     explantion: '\n      汉字: 火傷\n      读音: かしょう\n      意思: burn\n      来源:  scald\n      同义词: 火傷\n    ',
   },
   {
     question: '冠',
-    answer: 'kammuri',
+    answer: 'kan',
     explantion: '\n      汉字: 冠\n      读音: かん\n      意思: crown\n      来源:  diadem\n      同义词: 冠\n    ',
   },
   {
     question: '幹',
-    answer: 'miki',
+    answer: 'kan',
     explantion: '\n      汉字: 幹\n      读音: かん\n      意思: (tree) trunk\n      来源: waller\n      同义词: 幹\n    ',
   },
   {
@@ -13469,27 +13469,27 @@ const n1 = [
   },
   {
     question: '眼鏡',
-    answer: 'megane',
+    answer: 'gankyo',
     explantion: '\n      汉字: 眼鏡\n      读音: がんきょう\n      意思: spectacles\n      来源:  glasses\n      同义词: 眼鏡\n    ',
   },
   {
     question: '寄贈',
-    answer: 'kizō',
+    answer: 'kisou',
     explantion: '\n      汉字: 寄贈\n      读音: きそう\n      意思: donation\n      来源:  presentation\n      同义词: 寄贈, 寄贈\n    ',
   },
   {
     question: '贋物',
-    answer: 'nisemono',
+    answer: 'ganbutsu',
     explantion: '\n      汉字: 贋物\n      读音: がんぶつ\n      意思: imitation\n      来源:  counterfeit\n      同义词: 贋物, 偽物, 偽物, 偽物, 贋物, 贋物, ニセ物, ニセ物, にせ物, にせ物, , \n    ',
   },
   {
     question: '敵',
-    answer: 'teki',
+    answer: 'kataki',
     explantion: '\n      汉字: 敵\n      读音: かたき\n      意思: enemy\n      来源:  rival\n      同义词: 敵, 仇\n    ',
   },
   {
     question: '旧事',
-    answer: 'kyūkoto',
+    answer: 'kuji',
     explantion: '\n      汉字: 旧事\n      读音: くじ\n      意思: past events\n      来源:  bygones\n      同义词: 旧事, 旧事\n    ',
   },
   {
@@ -13499,32 +13499,32 @@ const n1 = [
   },
   {
     question: '共存',
-    answer: 'kyōzon',
+    answer: 'kyoson',
     explantion: '\n      汉字: 共存\n      读音: きょうそん\n      意思: coexistence\n      来源: waller\n      同义词: 共存\n    ',
   },
   {
     question: '脅かす',
-    answer: 'obiyakasu',
+    answer: 'odokasu',
     explantion: '\n      汉字: 脅かす\n      读音: おどかす\n      意思: to threaten\n      来源:  to coerce\n      同义词: 脅かす\n    ',
   },
   {
     question: '近々',
-    answer: 'chikajika',
+    answer: 'kinkin',
     explantion: '\n      汉字: 近々\n      读音: きんきん\n      意思: nearness\n      来源:  before long\n      同义词: 近々\n    ',
   },
   {
     question: '金庫',
-    answer: 'kinko',
+    answer: 'kanegura',
     explantion: '\n      汉字: 金庫\n      读音: かねぐら\n      意思: safe\n      来源:  vault\n      同义词: 金庫, 金蔵, 金蔵\n    ',
   },
   {
     question: '傾く',
-    answer: 'katamuku',
+    answer: 'katabuku',
     explantion: '\n      汉字: 傾く\n      读音: かたぶく\n      意思: to incline toward\n      来源:  to slant\n      同义词: 傾く\n    ',
   },
   {
     question: '兼業',
-    answer: 'kengyō',
+    answer: 'kengyou',
     explantion: '\n      汉字: 兼業\n      读音: けんぎょう\n      意思: side line\n      来源:  second business\n      同义词: 兼業\n    ',
   },
   {
@@ -13539,62 +13539,62 @@ const n1 = [
   },
   {
     question: '哉',
-    answer: '哉',
+    answer: 'kana',
     explantion: '\n      汉字: 哉\n      读音: かな\n      意思: question mark\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '三',
-    answer: 'san',
+    answer: 'mi',
     explantion: '\n      汉字: 三\n      读音: み\n      意思: (num) three\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '三味線',
-    answer: 'shamisen',
+    answer: 'samisen',
     explantion: '\n      汉字: 三味線\n      读音: さみせん\n      意思: three-stringed Japanese guitar\n      来源:  shamisen\n      同义词: 三味線, 三味線\n    ',
   },
   {
     question: '姉妹',
-    answer: 'shimai',
+    answer: 'kyodai',
     explantion: '\n      汉字: 姉妹\n      读音: きょうだい\n      意思: sisters\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '施行',
-    answer: 'shikō',
+    answer: 'shigyou',
     explantion: '\n      汉字: 施行\n      读音: しぎょう\n      意思: 1. execution\n      来源:  enforcing\n      同义词: 施行, 施行, 施行, 施行\n    ',
   },
   {
     question: '次',
-    answer: 'tsugi',
+    answer: 'ji',
     explantion: '\n      汉字: 次\n      读音: じ\n      意思: order\n      来源:  sequence\n      同义词: 次\n    ',
   },
   {
     question: '七日',
-    answer: 'nananichi',
+    answer: 'nanuka',
     explantion: '\n      汉字: 七日\n      读音: なぬか\n      意思: seven days\n      来源:  the seventh day (of the month)\n      同义词: 七日\n    ',
   },
   {
     question: '重複',
-    answer: 'jūfuku',
+    answer: 'jufuku',
     explantion: '\n      汉字: 重複\n      读音: じゅうふく\n      意思: duplication\n      来源:  repetition\n      同义词: 重複, 重複\n    ',
   },
   {
     question: '重宝',
-    answer: 'chōhō',
+    answer: 'juho',
     explantion: '\n      汉字: 重宝\n      读音: じゅうほう\n      意思: priceless treasure\n      来源:  convenience\n      同义词: 重宝, 重宝\n    ',
   },
   {
     question: '出生',
-    answer: 'shusshō',
+    answer: 'shutsusho',
     explantion: '\n      汉字: 出生\n      读音: しゅっしょう\n      意思: birth\n      来源: waller\n      同义词: 出生\n    ',
   },
   {
     question: '出来物',
-    answer: 'dekibutsu',
+    answer: 'dekimono',
     explantion: '\n      汉字: 出来物\n      读音: できもの\n      意思: able man\n      来源:  tumour\n      同义词: 出来物, \n    ',
   },
   {
     question: '瞬き',
-    answer: 'mabataki',
+    answer: 'matataki',
     explantion: '\n      汉字: 瞬き\n      读音: またたき\n      意思: wink\n      来源:  twinkling (of stars)\n      同义词: 瞬き, 瞬き, 瞬き, 瞬き\n    ',
   },
   {
@@ -13604,42 +13604,42 @@ const n1 = [
   },
   {
     question: '商人',
-    answer: 'shōnin',
+    answer: 'akiudo',
     explantion: '\n      汉字: 商人\n      读音: あきうど\n      意思: trader\n      来源:  shopkeeper\n      同义词: 商人\n    ',
   },
   {
     question: '少女',
-    answer: 'shōjo',
+    answer: 'otome',
     explantion: '\n      汉字: 少女\n      读音: おとめ\n      意思: daughter\n      来源:  young lady\n      同义词: 少女\n    ',
   },
   {
     question: '掌',
-    answer: 'tenohira',
+    answer: 'tanagokoro',
     explantion: '\n      汉字: 掌\n      读音: たなごころ\n      意思: the palm\n      来源: waller\n      同义词: 手のひら, 掌, 掌, 手の平\n    ',
   },
   {
     question: '消耗',
-    answer: 'shōmō',
+    answer: 'shoko',
     explantion: '\n      汉字: 消耗\n      读音: しょうこう\n      意思: exhaustion\n      来源:  consumption\n      同义词: 消耗\n    ',
   },
   {
     question: '上手',
-    answer: 'jōzu',
+    answer: 'uwate',
     explantion: '\n      汉字: 上手\n      读音: うわて\n      意思: 1. upper part\n      来源:  upper stream\n      同义词: 上手, 上手\n    ',
   },
   {
     question: '丈夫',
-    answer: 'jōbu',
+    answer: 'jofu',
     explantion: '\n      汉字: 丈夫\n      读音: じょうふ\n      意思: 1. hero\n      来源:  gentleman\n      同义词: 丈夫, 丈夫, 益荒男\n    ',
   },
   {
     question: '乗客',
-    answer: 'jōkyaku',
+    answer: 'jiyoukaku',
     explantion: '\n      汉字: 乗客\n      读音: じょうかく\n      意思: passenger\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '情緒',
-    answer: 'jōcho',
+    answer: 'joshiyo',
     explantion: '\n      汉字: 情緒\n      读音: じょうしょ\n      意思: emotion\n      来源:  feeling\n      同义词: 情緒, 情緒\n    ',
   },
   {
@@ -13649,7 +13649,7 @@ const n1 = [
   },
   {
     question: '人目',
-    answer: 'hitome',
+    answer: 'jinmoku',
     explantion: '\n      汉字: 人目\n      读音: じんもく\n      意思: glimpse\n      来源:  public gaze\n      同义词: 人目, 人目, 人眼\n    ',
   },
   {
@@ -13664,17 +13664,17 @@ const n1 = [
   },
   {
     question: '早急',
-    answer: 'sōkyū',
+    answer: 'sakkyu',
     explantion: '\n      汉字: 早急\n      读音: さっきゅう\n      意思: urgent\n      来源: waller\n      同义词: 早急\n    ',
   },
   {
     question: '側',
-    answer: 'gawa',
+    answer: 'kawa',
     explantion: '\n      汉字: 側\n      读音: かわ\n      意思: side\n      来源:  row\n      同义词: 側, 側\n    ',
   },
   {
     question: '他人',
-    answer: 'tanin',
+    answer: 'adabito',
     explantion: '\n      汉字: 他人\n      读音: あだびと\n      意思: another person\n      来源:  unrelated person\n      同义词: 他人\n    ',
   },
   {
@@ -13689,32 +13689,32 @@ const n1 = [
   },
   {
     question: '値',
-    answer: 'ne',
+    answer: 'atai',
     explantion: '\n      汉字: 値\n      读音: あたい\n      意思: value\n      来源:  price\n      同义词: 値, 価, 價\n    ',
   },
   {
     question: '中指',
-    answer: 'nakayubi',
+    answer: 'chushi',
     explantion: '\n      汉字: 中指\n      读音: ちゅうし\n      意思: middle finger\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '昼間',
-    answer: 'hiruma',
+    answer: 'chiyuukan',
     explantion: '\n      汉字: 昼間\n      读音: ちゅうかん\n      意思: daytime\n      来源:  during the day\n      同义词: 昼間\n    ',
   },
   {
     question: '剃る',
-    answer: 'soru',
+    answer: 'suru',
     explantion: '\n      汉字: 剃る\n      读音: する\n      意思: to shave\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '天地',
-    answer: 'tenchi',
+    answer: 'ametsuchi',
     explantion: '\n      汉字: 天地\n      读音: あめつち\n      意思: heaven and earth\n      来源:  the universe\n      同义词: 天地, 天地\n    ',
   },
   {
     question: '店',
-    answer: 'mise',
+    answer: 'ten',
     explantion: '\n      汉字: 店\n      读音: てん\n      意思: store\n      来源:  shop\n      同义词: 店\n    ',
   },
   {
@@ -13724,17 +13724,17 @@ const n1 = [
   },
   {
     question: '等',
-    answer: 'hitoshi',
+    answer: 'tou',
     explantion: '\n      汉字: 等\n      读音: とう\n      意思: et cetera\n      来源:  etc.\n      同义词: 等\n    ',
   },
   {
     question: '銅',
-    answer: 'dō',
+    answer: 'akagane',
     explantion: '\n      汉字: 銅\n      读音: あかがね\n      意思: copper\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '鈍る',
-    answer: 'niburu',
+    answer: 'namaru',
     explantion: '\n      汉字: 鈍る\n      读音: なまる\n      意思: to become less capable\n      来源:  to grow dull\n      同义词: 鈍る, 鈍る\n    ',
   },
   {
@@ -13749,7 +13749,7 @@ const n1 = [
   },
   {
     question: '入口',
-    answer: 'iriguchi',
+    answer: 'irikuchi',
     explantion: '\n      汉字: 入口\n      读音: いりくち\n      意思: entrance\n      来源:  gate\n      同义词: 入口\n    ',
   },
   {
@@ -13759,17 +13759,17 @@ const n1 = [
   },
   {
     question: '発足',
-    answer: 'hossoku',
+    answer: 'hassoku',
     explantion: '\n      汉字: 発足\n      读音: はっそく\n      意思: starting\n      来源:  inauguration\n      同义词: 発足, 発足\n    ',
   },
   {
     question: '斑',
-    answer: 'mura',
+    answer: 'buchi',
     explantion: '\n      汉字: 斑\n      读音: ぶち\n      意思: spots\n      来源:  speckles\n      同义词: 斑, , , 斑, , 斑, , 斑, 駁, 駁, 駮, 駮\n    ',
   },
   {
     question: '否',
-    answer: 'ina',
+    answer: 'ie',
     explantion: '\n      汉字: 否\n      读音: いいえ\n      意思: no\n      来源:  nay\n      同义词: 否\n    ',
   },
   {
@@ -13794,12 +13794,12 @@ const n1 = [
   },
   {
     question: '墓地',
-    answer: 'bochi',
+    answer: 'wakachi',
     explantion: '\n      汉字: 墓地\n      读音: はかち\n      意思: cemetery\n      来源:  graveyard\n      同义词: 墓地, 墓地\n    ',
   },
   {
     question: '奉る',
-    answer: 'matsuru',
+    answer: 'tatematsuru',
     explantion: '\n      汉字: 奉る\n      读音: たてまつる\n      意思: to offer\n      来源:  to present\n      同义词: 奉る, 奉る, 献る\n    ',
   },
   {
@@ -13809,27 +13809,27 @@ const n1 = [
   },
   {
     question: '本文',
-    answer: 'hombun',
+    answer: 'honbun',
     explantion: '\n      汉字: 本文\n      读音: ほんぶん\n      意思: text (of document)\n      来源:  body (of letter)\n      同义词: 本文, 本文\n    ',
   },
   {
     question: '埋まる',
-    answer: 'umaru',
+    answer: 'uzumaru',
     explantion: '\n      汉字: 埋まる\n      读音: うずまる\n      意思: to be buried\n      来源:  to be surrounded\n      同义词: 埋まる, 埋まる\n    ',
   },
   {
     question: '万人',
-    answer: 'mannin',
+    answer: 'banjin',
     explantion: '\n      汉字: 万人\n      读音: ばんじん\n      意思: all people\n      来源:  everybody\n      同义词: 万人, 万人, 万人\n    ',
   },
   {
     question: '万能',
-    answer: 'bannō',
+    answer: 'banno',
     explantion: '\n      汉字: 万能\n      读音: ばんのう\n      意思: all-purpose\n      来源:  almighty\n      同义词: 万能, 万能\n    ',
   },
   {
     question: '明後日',
-    answer: 'myōgonichi',
+    answer: 'asatte',
     explantion: '\n      汉字: 明後日\n      读音: あさって\n      意思: day after tomorrow\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -13839,37 +13839,37 @@ const n1 = [
   },
   {
     question: '面',
-    answer: 'men',
+    answer: 'omo',
     explantion: '\n      汉字: 面\n      读音: おも\n      意思: face\n      来源: waller\n      同义词: 面, 面, 面\n    ',
   },
   {
     question: '問屋',
-    answer: 'ton\'ya',
+    answer: 'toiya',
     explantion: '\n      汉字: 問屋\n      读音: といや\n      意思: wholesale store\n      来源: waller\n      同义词: 問屋\n    ',
   },
   {
     question: '門',
-    answer: 'mon',
+    answer: 'kado',
     explantion: '\n      汉字: 門\n      读音: かど\n      意思: gate\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '夜行',
-    answer: 'yakō',
+    answer: 'yagyou',
     explantion: '\n      汉字: 夜行\n      读音: やぎょう\n      意思: walking around at night\n      来源:  night train\n      同义词: 夜行\n    ',
   },
   {
     question: '夜中',
-    answer: 'yonaka',
+    answer: 'yachiyuu',
     explantion: '\n      汉字: 夜中\n      读音: やちゅう\n      意思: all night\n      来源:  the whole night\n      同义词: 夜中\n    ',
   },
   {
     question: '融通',
-    answer: 'yūzū',
+    answer: 'yuzu',
     explantion: '\n      汉字: 融通\n      读音: ゆうずう\n      意思: lending (money)\n      来源:  accommodation\n      同义词: 融通, 融通, 融通\n    ',
   },
   {
     question: '余り',
-    answer: 'amari',
+    answer: 'ammari',
     explantion: '\n      汉字: 余り\n      读音: あんまり\n      意思: not very (this form only used as adverb)\n      来源:  not much\n      同义词: 余り\n    ',
   },
   {
@@ -13879,12 +13879,12 @@ const n1 = [
   },
   {
     question: '来場',
-    answer: 'raijō',
+    answer: 'raijiyou',
     explantion: '\n      汉字: 来場\n      读音: らいじょう\n      意思: attendance\n      来源: waller\n      同义词: 来場\n    ',
   },
   {
     question: '雷',
-    answer: 'kaminari',
+    answer: 'ikazuchi',
     explantion: '\n      汉字: 雷\n      读音: いかずち\n      意思: thunder\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -13894,7 +13894,7 @@ const n1 = [
   },
   {
     question: '六',
-    answer: 'roku',
+    answer: 'mu',
     explantion: '\n      汉字: 六\n      读音: む\n      意思: (num) six\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -13909,17 +13909,17 @@ const n1 = [
   },
   {
     question: '偖',
-    answer: '偖',
+    answer: 'sate',
     explantion: '\n      汉字: 偖\n      读音: さて\n      意思: well\n      来源:  now\n      同义词: 偖\n    ',
   },
   {
     question: '吝嗇',
-    answer: 'rinshoku',
+    answer: 'kechi',
     explantion: '\n      汉字: 吝嗇\n      读音: けち\n      意思: stinginess\n      来源:  miser\n      同义词: 吝嗇, 吝嗇, 悋嗇, 悋嗇\n    ',
   },
   {
     question: '瞑る',
-    answer: 'tsumuru',
+    answer: 'tsuburu',
     explantion: '\n      汉字: 瞑る\n      读音: つぶる\n      意思: to close the eyes\n      来源: waller\n      同义词: , , 瞑る, 暝る, 暝る\n    ',
   },
   {
@@ -13929,17 +13929,17 @@ const n1 = [
   },
   {
     question: '凡ゆる',
-    answer: '凡yuru',
+    answer: 'arayuru',
     explantion: '\n      汉字: 凡ゆる\n      读音: あらゆる\n      意思: all\n      来源:  every\n      同义词: 凡ゆる\n    ',
   },
   {
     question: '有難う',
-    answer: 'arigatō',
+    answer: 'arigato',
     explantion: '\n      汉字: 有難う\n      读音: ありがとう\n      意思: Thank you\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '或る',
-    answer: 'aruru',
+    answer: 'aru',
     explantion: '\n      汉字: 或る\n      读音: ある\n      意思: a certain...\n      来源:  some...\n      同义词: 或る\n    ',
   },
   {
@@ -13949,7 +13949,7 @@ const n1 = [
   },
   {
     question: '言い訳',
-    answer: 'īwake',
+    answer: 'iwake',
     explantion: '\n      汉字: 言い訳\n      读音: いいわけ\n      意思: excuse\n      来源:  explanation\n      同义词: 言い訳, 言いわけ, 言訳, 言い分け, 言分け\n    ',
   },
   {
@@ -13959,7 +13959,7 @@ const n1 = [
   },
   {
     question: '軍',
-    answer: 'gun',
+    answer: 'ikusa',
     explantion: '\n      汉字: 軍\n      读音: いくさ\n      意思: war\n      来源:  battle\n      同义词: 軍, 兵, 戦\n    ',
   },
   {
@@ -13974,7 +13974,7 @@ const n1 = [
   },
   {
     question: '意向',
-    answer: 'ikō',
+    answer: 'iko',
     explantion: '\n      汉字: 意向\n      读音: いこう\n      意思: intention\n      来源:  idea\n      同义词: 意向, 意嚮\n    ',
   },
   {
@@ -13989,12 +13989,12 @@ const n1 = [
   },
   {
     question: '厭々',
-    answer: 'iya々',
+    answer: 'iyaiya',
     explantion: '\n      汉字: 厭々\n      读音: いやいや\n      意思: unwillingly\n      来源:  grudgingly\n      同义词: 厭々, , 嫌々, 嫌嫌, 厭厭\n    ',
   },
   {
     question: '愈々',
-    answer: 'iyoiyo々',
+    answer: 'iyoiyo',
     explantion: '\n      汉字: 愈々\n      读音: いよいよ\n      意思: more and more\n      来源:  all the more\n      同义词: 愈々\n    ',
   },
   {
@@ -14004,12 +14004,12 @@ const n1 = [
   },
   {
     question: '苛々',
-    answer: '苛々',
+    answer: 'iraira',
     explantion: '\n      汉字: 苛々\n      读音: いらいら\n      意思: getting nervous\n      来源:  irritation\n      同义词: 苛々\n    ',
   },
   {
     question: '威力',
-    answer: 'iryoku',
+    answer: 'iriyoku',
     explantion: '\n      汉字: 威力\n      读音: いりょく\n      意思: power\n      来源:  might\n      同义词: 威力, 偉力\n    ',
   },
   {
@@ -14054,7 +14054,7 @@ const n1 = [
   },
   {
     question: '運送',
-    answer: 'unsō',
+    answer: 'unso',
     explantion: '\n      汉字: 運送\n      读音: うんそう\n      意思: shipping\n      来源:  marine transportation\n      同义词: 運送, 運漕\n    ',
   },
   {
@@ -14069,12 +14069,12 @@ const n1 = [
   },
   {
     question: '大げさ',
-    answer: 'ōgesa',
+    answer: 'ogesa',
     explantion: '\n      汉字: 大げさ\n      读音: おおげさ\n      意思: grandiose\n      来源:  exaggerated\n      同义词: 大げさ, 大袈裟\n    ',
   },
   {
     question: 'お菜',
-    answer: 'osai',
+    answer: 'okazu',
     explantion: '\n      汉字: お菜\n      读音: おかず\n      意思: side dish\n      来源:  accompaniment for rice dishes\n      同义词: お菜\n    ',
   },
   {
@@ -14089,7 +14089,7 @@ const n1 = [
   },
   {
     question: '雄',
-    answer: 'yū',
+    answer: 'osu',
     explantion: '\n      汉字: 雄\n      读音: おす\n      意思: male (animal)\n      来源: waller\n      同义词: , , 雄, 牡, 牡, \n    ',
   },
   {
@@ -14099,12 +14099,12 @@ const n1 = [
   },
   {
     question: '重なる',
-    answer: 'kasanaru',
+    answer: 'omonaru',
     explantion: '\n      汉字: 重なる\n      读音: おもなる\n      意思: main\n      来源:  principal\n      同义词: 重なる, 主なる\n    ',
   },
   {
     question: 'お八',
-    answer: 'ohachi',
+    answer: 'oyatsu',
     explantion: '\n      汉字: お八\n      读音: おやつ\n      意思: 1. (uk) between meal snack\n      来源:  afternoon refreshment\n      同义词: お八\n    ',
   },
   {
@@ -14139,7 +14139,7 @@ const n1 = [
   },
   {
     question: '箇条書き',
-    answer: 'kajōgaki',
+    answer: 'kajiyougaki',
     explantion: '\n      汉字: 箇条書き\n      读音: かじょうがき\n      意思: itemized form\n      来源:  itemization\n      同义词: 箇条書き, 個条書き, 箇条書\n    ',
   },
   {
@@ -14169,17 +14169,17 @@ const n1 = [
   },
   {
     question: '可成',
-    answer: 'kashigeru',
+    answer: 'kanari',
     explantion: '\n      汉字: 可成\n      读音: かなり\n      意思: considerably\n      来源:  fairly\n      同义词: 可成\n    ',
   },
   {
     question: '加留多',
-    answer: 'katometa',
+    answer: 'karuta',
     explantion: '\n      汉字: 加留多\n      读音: かるた\n      意思: (pt:) (n) playing cards (pt: carta)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '可哀想',
-    answer: 'kawaisō',
+    answer: 'kawaiso',
     explantion: '\n      汉字: 可哀想\n      读音: かわいそう\n      意思: poor\n      来源:  pitiable\n      同义词: 可哀想\n    ',
   },
   {
@@ -14194,7 +14194,7 @@ const n1 = [
   },
   {
     question: '代わる代わる',
-    answer: 'kawarukawaru',
+    answer: 'kawarugawaru',
     explantion: '\n      汉字: 代わる代わる\n      读音: かわるがわる\n      意思: alternately\n      来源: waller\n      同义词: 代る代る\n    ',
   },
   {
@@ -14204,7 +14204,7 @@ const n1 = [
   },
   {
     question: '完璧',
-    answer: 'kampeki',
+    answer: 'kanpeki',
     explantion: '\n      汉字: 完璧\n      读音: かんぺき\n      意思: perfection\n      来源:  completeness\n      同义词: 完璧, 完ぺき, 完壁, 完壁\n    ',
   },
   {
@@ -14229,7 +14229,7 @@ const n1 = [
   },
   {
     question: '来る',
-    answer: 'kuru',
+    answer: 'kitaru',
     explantion: '\n      汉字: 来る\n      读音: きたる\n      意思: to come\n      来源:  to arrive\n      同义词: 来る, 来たる\n    ',
   },
   {
@@ -14269,7 +14269,7 @@ const n1 = [
   },
   {
     question: '僅々',
-    answer: '僅々',
+    answer: 'kinkin',
     explantion: '\n      汉字: 僅々\n      读音: きんきん\n      意思: a little\n      来源:  small quantity\n      同义词: 僅々, 僅僅\n    ',
   },
   {
@@ -14289,7 +14289,7 @@ const n1 = [
   },
   {
     question: '群集',
-    answer: 'gunshū',
+    answer: 'gunshuu',
     explantion: '\n      汉字: 群集\n      读音: ぐんしゅう\n      意思: (social) group\n      来源:  crowd\n      同义词: 群集, 群聚\n    ',
   },
   {
@@ -14299,7 +14299,7 @@ const n1 = [
   },
   {
     question: '小売',
-    answer: 'kouri',
+    answer: 'kori',
     explantion: '\n      汉字: 小売\n      读音: こうり\n      意思: retail\n      来源: waller\n      同义词: 小売り\n    ',
   },
   {
@@ -14319,7 +14319,7 @@ const n1 = [
   },
   {
     question: 'ご馳走',
-    answer: 'gochisō',
+    answer: 'gochiso',
     explantion: '\n      汉字: ご馳走\n      读音: ごちそう\n      意思: feast\n      来源:  treating (someone)\n      同义词: ご馳走\n    ',
   },
   {
@@ -14344,7 +14344,7 @@ const n1 = [
   },
   {
     question: '明々後日',
-    answer: 'akira々gojitsu',
+    answer: 'shiasatte',
     explantion: '\n      汉字: 明々後日\n      读音: しあさって\n      意思: two days after tomorrow\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -14354,7 +14354,7 @@ const n1 = [
   },
   {
     question: '為来り',
-    answer: 'tamekitari',
+    answer: 'shikitari',
     explantion: '\n      汉字: 為来り\n      读音: しきたり\n      意思: customs\n      来源: waller\n      同义词: , 仕来り, 仕来たり, 為来たり\n    ',
   },
   {
@@ -14379,17 +14379,17 @@ const n1 = [
   },
   {
     question: '収集',
-    answer: 'shūshū',
+    answer: 'shushu',
     explantion: '\n      汉字: 収集\n      读音: しゅうしゅう\n      意思: gathering up\n      来源:  collection\n      同义词: 収集, 蒐集, 拾集, 蒐輯\n    ',
   },
   {
     question: '執着',
-    answer: 'shūchaku',
+    answer: 'shujaku',
     explantion: '\n      汉字: 執着\n      读音: しゅうじゃく\n      意思: attachment\n      来源:  adhesion\n      同义词: 執着, 執着, 執著, 執著\n    ',
   },
   {
     question: '種々',
-    answer: 'shuju',
+    answer: 'kusagusa',
     explantion: '\n      汉字: 種々\n      读音: くさぐさ\n      意思: variety\n      来源: waller\n      同义词: 種々, 種種, 種種\n    ',
   },
   {
@@ -14409,7 +14409,7 @@ const n1 = [
   },
   {
     question: '実情',
-    answer: 'jitsujō',
+    answer: 'jitsujo',
     explantion: '\n      汉字: 実情\n      读音: じつじょう\n      意思: real condition\n      来源:  actual circumstances\n      同义词: 実情, 実状\n    ',
   },
   {
@@ -14434,22 +14434,22 @@ const n1 = [
   },
   {
     question: '図々しい',
-    answer: 'zūzūshii',
+    answer: 'zuzushii',
     explantion: '\n      汉字: 図々しい\n      读音: ずうずうしい\n      意思: impudent\n      来源:  shameless\n      同义词: 図々しい\n    ',
   },
   {
     question: '先先月',
-    answer: 'sakisengetsu',
+    answer: 'sensengetsu',
     explantion: '\n      汉字: 先先月\n      读音: せんせんげつ\n      意思: month before last\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '専用',
-    answer: 'sen\'yō',
+    answer: 'senyo',
     explantion: '\n      汉字: 専用\n      读音: せんよう\n      意思: exclusive use\n      来源:  personal use\n      同义词: 専用\n    ',
   },
   {
     question: '総合',
-    answer: 'sōgō',
+    answer: 'sogou',
     explantion: '\n      汉字: 総合\n      读音: そうごう\n      意思: synthesis\n      来源:  coordination\n      同义词: 総合, 綜合\n    ',
   },
   {
@@ -14469,7 +14469,7 @@ const n1 = [
   },
   {
     question: '率直',
-    answer: 'sotchoku',
+    answer: 'sotsuchoku',
     explantion: '\n      汉字: 率直\n      读音: そっちょく\n      意思: frankness\n      来源:  candour\n      同义词: 率直\n    ',
   },
   {
@@ -14479,7 +14479,7 @@ const n1 = [
   },
   {
     question: '類',
-    answer: 'rui',
+    answer: 'tagui',
     explantion: '\n      汉字: 類\n      读音: たぐい\n      意思: a kind\n      来源: waller\n      同义词: , 類い, 比い, 比\n    ',
   },
   {
@@ -14524,7 +14524,7 @@ const n1 = [
   },
   {
     question: '丁々',
-    answer: 'chōchō',
+    answer: 'toto',
     explantion: '\n      汉字: 丁々\n      读音: とうとう\n      意思: clashing of swords\n      来源:  felling of trees\n      同义词: 丁々, 丁々, 丁丁, 丁丁\n    ',
   },
   {
@@ -14579,12 +14579,12 @@ const n1 = [
   },
   {
     question: '尊い',
-    answer: 'tōtoi',
+    answer: 'tattoi',
     explantion: '\n      汉字: 尊い\n      读音: たっとい\n      意思: precious\n      来源:  valuable\n      同义词: 尊い, 尊い, 貴い, 貴い\n    ',
   },
   {
     question: '尊ぶ',
-    answer: 'tōtobu',
+    answer: 'tattobu',
     explantion: '\n      汉字: 尊ぶ\n      读音: たっとぶ\n      意思: to value\n      来源:  to prize\n      同义词: 尊ぶ, 貴ぶ, 貴ぶ, 尊ぶ\n    ',
   },
   {
@@ -14594,7 +14594,7 @@ const n1 = [
   },
   {
     question: '跡切れる',
-    answer: 'atokireru',
+    answer: 'togireru',
     explantion: '\n      汉字: 跡切れる\n      读音: とぎれる\n      意思: to pause\n      来源:  to be interrupted\n      同义词: 跡切れる, 途切れる\n    ',
   },
   {
@@ -14609,7 +14609,7 @@ const n1 = [
   },
   {
     question: '所々',
-    answer: 'tokorodokoro',
+    answer: 'shosho',
     explantion: '\n      汉字: 所々\n      读音: しょしょ\n      意思: here and there\n      来源:  some parts (of something)\n      同义词: 所々\n    ',
   },
   {
@@ -14619,7 +14619,7 @@ const n1 = [
   },
   {
     question: '取っ手',
-    answer: 'totte',
+    answer: 'totsute',
     explantion: '\n      汉字: 取っ手\n      读音: とって\n      意思: handle\n      来源:  grip\n      同义词: 取っ手, 把手, 把手, 把っ手, 取手\n    ',
   },
   {
@@ -14629,7 +14629,7 @@ const n1 = [
   },
   {
     question: '留める',
-    answer: 'tomeru',
+    answer: 'todomeru',
     explantion: '\n      汉字: 留める\n      读音: とどめる\n      意思: to stop\n      来源:  to cease\n      同义词: 留める, 停める, 止める\n    ',
   },
   {
@@ -14674,12 +14674,12 @@ const n1 = [
   },
   {
     question: '堂々',
-    answer: 'dōdō',
+    answer: 'dodo',
     explantion: '\n      汉字: 堂々\n      读音: どうどう\n      意思: magnificent\n      来源:  grand\n      同义词: 堂々, 堂堂\n    ',
   },
   {
     question: '同盟',
-    answer: 'dōmei',
+    answer: 'domei',
     explantion: '\n      汉字: 同盟\n      读音: どうめい\n      意思: alliance\n      来源:  union\n      同义词: 同盟\n    ',
   },
   {
@@ -14714,7 +14714,7 @@ const n1 = [
   },
   {
     question: '俄か',
-    answer: 'niwakaka',
+    answer: 'niwaka',
     explantion: '\n      汉字: 俄か\n      读音: にわか\n      意思: sudden\n      来源:  abrupt\n      同义词: 俄か\n    ',
   },
   {
@@ -14744,7 +14744,7 @@ const n1 = [
   },
   {
     question: '果ない',
-    answer: 'hatenai',
+    answer: 'hakanai',
     explantion: '\n      汉字: 果ない\n      读音: はかない\n      意思: fleeting\n      来源:  transient\n      同义词: 果ない, , 儚い, 果敢ない, 果敢無い, 果無い, 果敢い\n    ',
   },
   {
@@ -14754,7 +14754,7 @@ const n1 = [
   },
   {
     question: '剥がす',
-    answer: 'hegasu',
+    answer: 'hagasu',
     explantion: '\n      汉字: 剥がす\n      读音: はがす\n      意思: to tear off\n      来源:  to peel off\n      同义词: 剥がす\n    ',
   },
   {
@@ -14779,17 +14779,17 @@ const n1 = [
   },
   {
     question: '填まる',
-    answer: 'hamamaru',
+    answer: 'hamaru',
     explantion: '\n      汉字: 填まる\n      读音: はまる\n      意思: to get into\n      来源:  to go into\n      同义词: 填まる, , 嵌まる, 嵌る, 填る, \n    ',
   },
   {
     question: '歯磨',
-    answer: 'hamigaki',
+    answer: 'wamigaki',
     explantion: '\n      汉字: 歯磨\n      读音: はみがき\n      意思: dentifrice\n      来源:  toothpaste\n      同义词: 歯磨\n    ',
   },
   {
     question: '早める',
-    answer: 'hayameru',
+    answer: 'wayameru',
     explantion: '\n      汉字: 早める\n      读音: はやめる\n      意思: to hasten\n      来源:  to quicken\n      同义词: 早める, 速める\n    ',
   },
   {
@@ -14799,7 +14799,7 @@ const n1 = [
   },
   {
     question: '散蒔く',
-    answer: 'chimaku',
+    answer: 'baramaku',
     explantion: '\n      汉字: 散蒔く\n      读音: ばらまく\n      意思: to disseminate\n      来源:  to scatter\n      同义词: 散蒔く, , ばら撒く, ばら蒔く, 散播く\n    ',
   },
   {
@@ -14829,12 +14829,12 @@ const n1 = [
   },
   {
     question: '単',
-    answer: 'tan',
+    answer: 'hitoe',
     explantion: '\n      汉字: 単\n      读音: ひとえ\n      意思: one layer\n      来源:  single\n      同义词: 単, 一重\n    ',
   },
   {
     question: '一まず',
-    answer: 'ichimazu',
+    answer: 'hitomazu',
     explantion: '\n      汉字: 一まず\n      读音: ひとまず\n      意思: for the present\n      来源:  once\n      同义词: 一まず\n    ',
   },
   {
@@ -14849,7 +14849,7 @@ const n1 = [
   },
   {
     question: '百科辞典',
-    answer: 'hyakkajiten',
+    answer: 'hiyakkajiten',
     explantion: '\n      汉字: 百科辞典\n      读音: ひゃっかじてん\n      意思: encyclopedia\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -14869,7 +14869,7 @@ const n1 = [
   },
   {
     question: '不便',
-    answer: 'fuben',
+    answer: 'fubin',
     explantion: '\n      汉字: 不便\n      读音: ふびん\n      意思: pity\n      来源:  compassion\n      同义词: 不便, 不憫, 不愍\n    ',
   },
   {
@@ -14894,7 +14894,7 @@ const n1 = [
   },
   {
     question: '保障',
-    answer: 'hoshō',
+    answer: 'hosho',
     explantion: '\n      汉字: 保障\n      读音: ほしょう\n      意思: guarantee\n      来源:  security\n      同义词: 保障\n    ',
   },
   {
@@ -14914,7 +14914,7 @@ const n1 = [
   },
   {
     question: '坊ちゃん',
-    answer: 'botchan',
+    answer: 'botsuchan',
     explantion: '\n      汉字: 坊ちゃん\n      读音: ぼっちゃん\n      意思: son (of others)\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -14944,17 +14944,17 @@ const n1 = [
   },
   {
     question: '跨がる',
-    answer: 'matagagaru',
+    answer: 'matagaru',
     explantion: '\n      汉字: 跨がる\n      读音: またがる\n      意思: to extend over or into\n      来源:  to straddle\n      同义词: 跨がる, , 跨る, 股がる\n    ',
   },
   {
     question: '区々',
-    answer: 'kuku',
+    answer: 'machimachi',
     explantion: '\n      汉字: 区々\n      读音: まちまち\n      意思: 1. several\n      来源:  various\n      同义词: 区々, , 区区\n    ',
   },
   {
     question: '末期',
-    answer: 'makki',
+    answer: 'matsuki',
     explantion: '\n      汉字: 末期\n      读音: まっき\n      意思: closing years (period days)\n      来源:  last stage\n      同义词: 末期, 末季\n    ',
   },
   {
@@ -14989,7 +14989,7 @@ const n1 = [
   },
   {
     question: '見通し',
-    answer: 'mitōshi',
+    answer: 'mitoshi',
     explantion: '\n      汉字: 見通し\n      读音: みとおし\n      意思: perspective\n      来源:  unobstructed view\n      同义词: 見通し, 見透し, 見通\n    ',
   },
   {
@@ -15024,12 +15024,12 @@ const n1 = [
   },
   {
     question: '申し込み',
-    answer: 'mōshikomi',
+    answer: 'moshikomi',
     explantion: '\n      汉字: 申し込み\n      读音: もうしこみ\n      意思: application\n      来源:  entry\n      同义词: 申し込み, 申込み, 申込\n    ',
   },
   {
     question: '物体ない',
-    answer: 'buttainai',
+    answer: 'mottainai',
     explantion: '\n      汉字: 物体ない\n      读音: もったいない\n      意思: too good\n      来源:  more than one deserves\n      同义词: 物体ない\n    ',
   },
   {
@@ -15054,7 +15054,7 @@ const n1 = [
   },
   {
     question: '憂鬱',
-    answer: 'yūutsu',
+    answer: 'yuutsu',
     explantion: '\n      汉字: 憂鬱\n      读音: ゆううつ\n      意思: depression\n      来源:  melancholy\n      同义词: 憂鬱, 憂うつ, 憂欝, 悒鬱, 幽鬱, 幽欝, 悒欝\n    ',
   },
   {
@@ -15069,12 +15069,12 @@ const n1 = [
   },
   {
     question: '養護',
-    answer: 'yōgo',
+    answer: 'yogo',
     explantion: '\n      汉字: 養護\n      读音: ようご\n      意思: protection\n      来源:  nursing\n      同义词: 養護\n    ',
   },
   {
     question: '依って',
-    answer: 'yotsute',
+    answer: 'yotte',
     explantion: '\n      汉字: 依って\n      读音: よって\n      意思: therefore\n      来源:  consequently\n      同义词: 依って, , 因って, 仍って, 依て, 仍て\n    ',
   },
   {
@@ -15084,7 +15084,7 @@ const n1 = [
   },
   {
     question: '夜更かし',
-    answer: 'yorufukashi',
+    answer: 'yofukashi',
     explantion: '\n      汉字: 夜更かし\n      读音: よふかし\n      意思: staying up late\n      来源:  keeping late hours\n      同义词: 夜更かし, 夜更し, 夜ふかし\n    ',
   },
   {
@@ -15114,12 +15114,12 @@ const n1 = [
   },
   {
     question: '了承',
-    answer: 'ryōshō',
+    answer: 'ryosho',
     explantion: '\n      汉字: 了承\n      读音: りょうしょう\n      意思: acknowledgement\n      来源:  understanding (e.g. please be understanding of the mess during our renovation)\n      同义词: 了承, 諒承, 領承\n    ',
   },
   {
     question: '態々',
-    answer: 'tai々',
+    answer: 'wazawaza',
     explantion: '\n      汉字: 態々\n      读音: わざわざ\n      意思: expressly\n      来源:  specially\n      同义词: 態々, , 態態\n    ',
   },
   {
@@ -15144,7 +15144,7 @@ const n1 = [
   },
   {
     question: '隔週',
-    answer: 'kakushū',
+    answer: 'kakushuu',
     explantion: '\n      汉字: 隔週\n      读音: かくしゅう\n      意思: every other week\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -15169,12 +15169,12 @@ const n1 = [
   },
   {
     question: '月日',
-    answer: 'tsukihi',
+    answer: 'gatsupi',
     explantion: '\n      汉字: 月日\n      读音: がっぴ\n      意思: (the) date\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '潜る',
-    answer: 'moguru',
+    answer: 'kuguru',
     explantion: '\n      汉字: 潜る\n      读音: くぐる\n      意思: 1. to drive\n      来源:  to pass through\n      同义词: 潜る, \n    ',
   },
   {
@@ -15189,7 +15189,7 @@ const n1 = [
   },
   {
     question: '沿い',
-    answer: 'soi',
+    answer: 'zoi',
     explantion: '\n      汉字: 沿い\n      读音: ぞい\n      意思: along\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -15199,7 +15199,7 @@ const n1 = [
   },
   {
     question: '長大',
-    answer: 'chōdai',
+    answer: 'chodai',
     explantion: '\n      汉字: 長大\n      读音: ちょうだい\n      意思: very long\n      来源:  great length\n      同义词: 長大\n    ',
   },
   {
@@ -15219,7 +15219,7 @@ const n1 = [
   },
   {
     question: '噛る',
-    answer: '噛ru',
+    answer: 'kajiru',
     explantion: '\n      汉字: 噛る\n      读音: かじる\n      意思: to chew\n      来源:  to bite (at)\n      同义词: 噛る\n    ',
   },
   {
@@ -15254,7 +15254,7 @@ const n1 = [
   },
   {
     question: '領海',
-    answer: 'ryōkai',
+    answer: 'ryokai',
     explantion: '\n      汉字: 領海\n      读音: りょうかい\n      意思: territorial waters\n      来源: waller\n      同义词: \n    ',
   },
   {
@@ -15274,12 +15274,12 @@ const n1 = [
   },
   {
     question: '彼方此方',
-    answer: 'kanata此kata',
+    answer: 'achirakochira',
     explantion: '\n      汉字: 彼方此方\n      读音: あちらこちら\n      意思: here and there\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '彼此',
-    answer: 'hishi',
+    answer: 'arekore',
     explantion: '\n      汉字: 彼此\n      读音: あれこれ\n      意思: one thing or another\n      来源:  this and that\n      同义词: 彼此\n    ',
   },
   {
@@ -15294,12 +15294,12 @@ const n1 = [
   },
   {
     question: 'お早う',
-    answer: 'ohayō',
+    answer: 'ohayo',
     explantion: '\n      汉字: お早う\n      读音: おはよう\n      意思: Good morning\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '然うして',
-    answer: 'shikaushite',
+    answer: 'soshite',
     explantion: '\n      汉字: 然うして\n      读音: そうして\n      意思: and\n      来源:  like that\n      同义词: 然うして\n    ',
   },
   {
@@ -15324,7 +15324,7 @@ const n1 = [
   },
   {
     question: '艶',
-    answer: 'tsuya',
+    answer: 'en',
     explantion: '\n      汉字: 艶\n      读音: えん\n      意思: charming\n      来源:  fascinating\n      同义词: 艶\n    ',
   },
   {
@@ -15334,42 +15334,42 @@ const n1 = [
   },
   {
     question: '此れ',
-    answer: '此re',
+    answer: 'kore',
     explantion: '\n      汉字: 此れ\n      读音: これ\n      意思: this\n      来源: waller\n      同义词: , 是, 是れ, 之, 之れ, 維, 惟, 此\n    ',
   },
   {
     question: '共和',
-    answer: 'kyōwa',
+    answer: 'kyowa',
     explantion: '\n      汉字: 共和\n      读音: きょうわ\n      意思: republicanism\n      来源:  cooperation\n      同义词: 共和\n    ',
   },
   {
     question: '高',
-    answer: 'kō',
+    answer: 'taka',
     explantion: '\n      汉字: 高\n      读音: たか\n      意思: quantity\n      来源:  amount\n      同义词: 高, 高\n    ',
   },
   {
     question: '問',
-    answer: 'toi',
+    answer: 'mon',
     explantion: '\n      汉字: 問\n      读音: もん\n      意思: problem\n      来源:  question\n      同义词: 問\n    ',
   },
   {
     question: '偶に',
-    answer: '偶ni',
+    answer: 'tamani',
     explantion: '\n      汉字: 偶に\n      读音: たまに\n      意思: occasionally\n      来源:  once in a while\n      同义词: 偶に\n    ',
   },
   {
     question: '擦る',
-    answer: 'kosuru',
+    answer: 'kasuru',
     explantion: '\n      汉字: 擦る\n      读音: かする\n      意思: to touch lightly\n      来源:  to take a percentage (from)\n      同义词: 擦る, , 掠る\n    ',
   },
   {
     question: '座標',
-    answer: 'zahyō',
+    answer: 'zahyou',
     explantion: '\n      汉字: 座標\n      读音: ざひょう\n      意思: coordinate(s)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '均し',
-    answer: 'hitoshi',
+    answer: 'narashi',
     explantion: '\n      汉字: 均し\n      读音: ならし\n      意思: equilibrium\n      来源:  balance\n      同义词: 均し, 平し\n    ',
   },
   {
@@ -15389,17 +15389,17 @@ const n1 = [
   },
   {
     question: '戸',
-    answer: 'to',
+    answer: 'ko',
     explantion: '\n      汉字: 戸\n      读音: こ\n      意思: counter for houses\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '空間',
-    answer: 'kūkan',
+    answer: 'akima',
     explantion: '\n      汉字: 空間\n      读音: あきま\n      意思: vacancy\n      来源:  room for rent or lease\n      同义词: 空間, 空き間\n    ',
   },
   {
     question: '鉄棒',
-    answer: 'tetsubō',
+    answer: 'kanabou',
     explantion: '\n      汉字: 鉄棒\n      读音: かなぼう\n      意思: iron rod\n      来源:  crowbar\n      同义词: 鉄棒, 金棒\n    ',
   },
   {
@@ -15409,12 +15409,12 @@ const n1 = [
   },
   {
     question: '御負け',
-    answer: 'gomake',
+    answer: 'omake',
     explantion: '\n      汉字: 御負け\n      读音: おまけ\n      意思: 1. a discount\n      来源:  a prize\n      同义词: 御負け, , お負け\n    ',
   },
   {
     question: '土産',
-    answer: 'miyage',
+    answer: 'dosan',
     explantion: '\n      汉字: 土産\n      读音: どさん\n      意思: product of the land\n      来源: waller\n      同义词: 土産\n    ',
   },
   {
@@ -15429,12 +15429,12 @@ const n1 = [
   },
   {
     question: '一見',
-    answer: 'ikken',
+    answer: 'ichigen',
     explantion: '\n      汉字: 一見\n      读音: いちげん\n      意思: unfamiliar\n      来源:  never before met\n      同义词: 一見, 一現\n    ',
   },
   {
     question: '宝器',
-    answer: 'takaraki',
+    answer: 'hoki',
     explantion: '\n      汉字: 宝器\n      读音: ほうき\n      意思: treasured article or vessel\n      来源:  outstanding individual\n      同义词: 宝器\n    ',
   },
   {
@@ -15459,67 +15459,67 @@ const n1 = [
   },
   {
     question: '強気',
-    answer: 'tsuyoki',
+    answer: 'gogi',
     explantion: '\n      汉字: 強気\n      读音: ごうぎ\n      意思: great\n      来源:  grand\n      同义词: 強気, 豪儀, 豪儀, 豪気, 豪気, 強気\n    ',
   },
   {
     question: '先先週',
-    answer: 'sakizakishū',
+    answer: 'sensenshu',
     explantion: '\n      汉字: 先先週\n      读音: せんせんしゅう\n      意思: week before last\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '歎',
-    answer: '歎',
+    answer: 'tan',
     explantion: '\n      汉字: 歎\n      读音: たん\n      意思: grief\n      来源:  sigh\n      同义词: 歎, 嘆\n    ',
   },
   {
     question: '泊',
-    answer: 'tomari',
+    answer: 'haku',
     explantion: '\n      汉字: 泊\n      读音: はく\n      意思: counter for nights of a stay\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '玉',
-    answer: 'tama',
+    answer: 'gyoku',
     explantion: '\n      汉字: 玉\n      读音: ぎょく\n      意思: king (shogi)\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '織',
-    answer: 'o',
+    answer: 'ori',
     explantion: '\n      汉字: 織\n      读音: おり\n      意思: weave\n      来源:  weaving\n      同义词: 織, 織り\n    ',
   },
   {
     question: '館',
-    answer: 'tate',
+    answer: 'kan',
     explantion: '\n      汉字: 館\n      读音: かん\n      意思: house\n      来源:  hall\n      同义词: 館\n    ',
   },
   {
     question: '濠',
-    answer: 'hori',
+    answer: 'gou',
     explantion: '\n      汉字: 濠\n      读音: ごう\n      意思: moat\n      来源: waller\n      同义词: 壕\n    ',
   },
   {
     question: '著',
-    answer: 'shiru',
+    answer: 'cho',
     explantion: '\n      汉字: 著\n      读音: ちょ\n      意思: counter for suits of clothing\n      来源:  arriving at ..\n      同义词: 著\n    ',
   },
   {
     question: '魂',
-    answer: 'tamashī',
+    answer: 'kon',
     explantion: '\n      汉字: 魂\n      读音: こん\n      意思: soul\n      来源:  spirit\n      同义词: 魂\n    ',
   },
   {
     question: '頃',
-    answer: 'koro',
+    answer: 'kei',
     explantion: '\n      汉字: 頃\n      读音: けい\n      意思: time\n      来源:  about\n      同义词: 頃\n    ',
   },
   {
     question: '基',
-    answer: 'moto',
+    answer: 'motoi',
     explantion: '\n      汉字: 基\n      读音: もとい\n      意思: basis\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '個',
-    answer: 'ko',
+    answer: 'ka',
     explantion: '\n      汉字: 個\n      读音: か\n      意思: article counter\n      来源: waller\n      同义词: 箇, 个, \n    ',
   },
   {
@@ -15529,22 +15529,22 @@ const n1 = [
   },
   {
     question: '校',
-    answer: 'kō',
+    answer: 'ko',
     explantion: '\n      汉字: 校\n      读音: こう\n      意思: -school\n      来源:  proof\n      同义词: 校\n    ',
   },
   {
     question: '甲',
-    answer: 'kabuto',
+    answer: 'kinoe',
     explantion: '\n      汉字: 甲\n      读音: きのえ\n      意思: 1st in rank\n      来源:  first sign of the Chinese calendar\n      同义词: 甲\n    ',
   },
   {
     question: '秭',
-    answer: '秭',
+    answer: 'shi',
     explantion: '\n      汉字: 秭\n      读音: し\n      意思: 10^24 (kanji is JIS X 0212 kuten 4906)\n      来源:  septillion (American)\n      同义词: 秭\n    ',
   },
   {
     question: '伝言',
-    answer: 'dengon',
+    answer: 'tsutekoto',
     explantion: '\n      汉字: 伝言\n      读音: つてこと\n      意思: verbal message\n      来源:  rumor\n      同义词: 伝言\n    ',
   },
   {
@@ -15554,32 +15554,32 @@ const n1 = [
   },
   {
     question: '長',
-    answer: 'naga',
+    answer: 'osa',
     explantion: '\n      汉字: 長\n      读音: おさ\n      意思: chief\n      来源:  head\n      同义词: 長\n    ',
   },
   {
     question: '修行',
-    answer: 'shugyō',
+    answer: 'shugyo',
     explantion: '\n      汉字: 修行\n      读音: しゅぎょう\n      意思: pursuit of knowledge\n      来源:  studying\n      同义词: 修行, 修行\n    ',
   },
   {
     question: '止まる',
-    answer: 'tomaru',
+    answer: 'todomaru',
     explantion: '\n      汉字: 止まる\n      读音: とどまる\n      意思: to be limited to\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '例',
-    answer: 'rei',
+    answer: 'tameshi',
     explantion: '\n      汉字: 例\n      读音: ためし\n      意思: instance\n      来源:  example\n      同义词: 例, 様, 例し\n    ',
   },
   {
     question: '打付ける',
-    answer: 'uchitsukeru',
+    answer: 'butsukeru',
     explantion: '\n      汉字: 打付ける\n      读音: ぶつける\n      意思: to knock\n      来源:  to run into\n      同义词: 打付ける\n    ',
   },
   {
     question: '華奢',
-    answer: 'kyasha',
+    answer: 'kasha',
     explantion: '\n      汉字: 華奢\n      读音: かしゃ\n      意思: luxury\n      来源:  pomp\n      同义词: 華奢\n    ',
   },
   {
@@ -15589,12 +15589,12 @@ const n1 = [
   },
   {
     question: '地方',
-    answer: 'chihō',
+    answer: 'jikata',
     explantion: '\n      汉字: 地方\n      读音: じかた\n      意思: area\n      来源:  locality\n      同义词: 地方\n    ',
   },
   {
     question: '含嗽',
-    answer: 'gansō',
+    answer: 'ugai',
     explantion: '\n      汉字: 含嗽\n      读音: うがい\n      意思: gargle\n      来源:  rinse mouth\n      同义词: 含嗽, 含嗽, 含漱\n    ',
   },
   {
@@ -15604,12 +15604,12 @@ const n1 = [
   },
   {
     question: '各',
-    answer: 'kaku',
+    answer: 'onoono',
     explantion: '\n      汉字: 各\n      读音: おのおの\n      意思: each\n      来源:  every\n      同义词: 各\n    ',
   },
   {
     question: '予言',
-    answer: 'yogen',
+    answer: 'kanegoto',
     explantion: '\n      汉字: 予言\n      读音: かねごと\n      意思: prediction\n      来源:  promise\n      同义词: 予言, 兼言, 兼ね言\n    ',
   },
   {
@@ -15619,27 +15619,27 @@ const n1 = [
   },
   {
     question: '余っ程',
-    answer: 'amatsuhodo',
+    answer: 'yoppodo',
     explantion: '\n      汉字: 余っ程\n      读音: よっぽど\n      意思: very\n      来源:  greatly\n      同义词: 余っ程, \n    ',
   },
   {
     question: '包む',
-    answer: 'tsutsumu',
+    answer: 'kurumu',
     explantion: '\n      汉字: 包む\n      读音: くるむ\n      意思: to be engulfed in\n      来源:  to be enveloped by\n      同义词: 包む\n    ',
   },
   {
     question: '大事',
-    answer: 'daiji',
+    answer: 'ogoto',
     explantion: '\n      汉字: 大事\n      读音: おおごと\n      意思: important\n      来源:  valuable\n      同义词: 大事, 大ごと\n    ',
   },
   {
     question: '流行',
-    answer: 'ryūkō',
+    answer: 'hayari',
     explantion: '\n      汉字: 流行\n      读音: はやり\n      意思: fashionable\n      来源:  fad\n      同义词: 流行, 流行り\n    ',
   },
   {
     question: '平行',
-    answer: 'heikō',
+    answer: 'eiko',
     explantion: '\n      汉字: 平行\n      读音: へいこう\n      意思: (going) side by side\n      来源:  concurrent\n      同义词: 平行\n    ',
   },
   {
@@ -15649,27 +15649,27 @@ const n1 = [
   },
   {
     question: '傑',
-    answer: 'suguru',
+    answer: 'ketsu',
     explantion: '\n      汉字: 傑\n      读音: けつ\n      意思: excellence\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '弟',
-    answer: 'otōto',
+    answer: 'oto',
     explantion: '\n      汉字: 弟\n      读音: おと\n      意思: younger brother\n      来源: waller\n      同义词: 乙\n    ',
   },
   {
     question: '天皇',
-    answer: 'tennō',
+    answer: 'sumeragi',
     explantion: '\n      汉字: 天皇\n      读音: すめらぎ\n      意思: Emperor of Japan\n      来源: waller\n      同义词: 天皇, 天皇, 天皇\n    ',
   },
   {
     question: '辺り',
-    answer: 'atari',
+    answer: 'hotori',
     explantion: '\n      汉字: 辺り\n      读音: ほとり\n      意思: (in the) neighbourhood\n      来源:  vicinity\n      同义词: 辺り, , 辺, 畔\n    ',
   },
   {
     question: '如何',
-    answer: 'ika',
+    answer: 'ikaga',
     explantion: '\n      汉字: 如何\n      读音: いかが\n      意思: how\n      来源:  in what way\n      同义词: 如何\n    ',
   },
   {
@@ -15679,12 +15679,12 @@ const n1 = [
   },
   {
     question: '塩',
-    answer: 'shio',
+    answer: 'en',
     explantion: '\n      汉字: 塩\n      读音: えん\n      意思: salt\n      来源: waller\n      同义词: \n    ',
   },
   {
     question: '根本',
-    answer: 'kompon',
+    answer: 'konpon',
     explantion: '\n      汉字: 根本\n      读音: こんぽん\n      意思: origin\n      来源:  source\n      同义词: 根本, 根本\n    ',
   },
   {
@@ -15694,12 +15694,12 @@ const n1 = [
   },
   {
     question: '灯',
-    answer: 'akari',
+    answer: 'tomoshibi',
     explantion: '\n      汉字: 灯\n      读音: ともしび\n      意思: light\n      来源: waller\n      同义词: 灯火, 燭, 燈火, 灯し火\n    ',
   },
   {
     question: '南',
-    answer: 'minami',
+    answer: 'nan',
     explantion: '\n      汉字: 南\n      读音: なん\n      意思: south\n      来源: waller\n      同义词: 於, 仮, 割, 乾, 蓋, 傾, 巨, 傷, 働, 伐, 倣\n    ',
   },
 ]
