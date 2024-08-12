@@ -821,7 +821,7 @@ export const hour: QuestionList = {
       answer: 'juuniji',
       explantion: '十二時 / じゅうにじ',
     },
-    
+
   ],
 }
 

@@ -1,6 +1,5 @@
 <script lang='tsx' setup>
 import { nav } from '~/db/nav'
-import { scopeMap } from '~/db/scope'
 
 const { updateScope } = useAppStore()
 

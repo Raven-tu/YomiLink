@@ -1,4 +1,4 @@
-import type { Question, QuestionList } from '~/types'
+import type { QuestionList } from '~/types'
 
 const modules = import.meta.glob('./scope/*.ts', { import: 'default', eager: true })
 
@@ -10,6 +10,7 @@ Object.keys(modules).forEach((key) => {
   const mod = (modules[key] || {})
 
   Object.keys(mod).forEach((subKey) => {
+    // @ts-expect-error-next-line
     const subMod = mod[subKey] as QuestionList
     const scopeName = subKey
     scopeMap[scopeName] = subMod

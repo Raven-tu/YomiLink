@@ -25,7 +25,6 @@ const showAnswer = computed(() => {
       </div>
 
       <div class="game-head-action flex-center !ml-auto space-x-2">
-    
         <slot />
       </div>
     </div>
