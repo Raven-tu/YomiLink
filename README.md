@@ -1,49 +1,45 @@
 # YomiLink
 
-YomiLink 是一个专注于日语词汇背诵的应用程序，帮助用户通过正确拼写日语单词来提升他们的词汇量。学习者必须在每个单词上正确拼写，然后才能继续下一个单词。
+[English | [中文](./README_ZH.md)]
 
-## 特性
+YomiLink is an application focused on Japanese vocabulary memorization, helping users enhance their vocabulary by correctly spelling Japanese words. Learners must correctly spell each word before moving on to the next one.
 
-- **日语单词拼写练习**：用户必须通过正确地拼写日语单词才能进入下一个单词。
-- **即时反馈**：在用户输入完单词后，立即给予拼写是否正确的反馈。
-- **逐步进阶**：根据学习进度调整单词难度，帮助用户不断挑战自我。
-- **用户进度跟踪**：记录每个用户的学习进度和表现，以便可以看到自己的成长。
+## Features
 
-## 安装
+- **Japanese Word Spelling Practice**: Users must correctly spell Japanese words to proceed to the next one.
+- **Instant Feedback**: Provides immediate feedback on whether the word was spelled correctly after the user inputs the word.
+- **Gradual Progression**: Adjusts word difficulty based on learning progress, helping users continuously challenge themselves.
+- **User Progress Tracking**: Records each user's learning progress and performance, allowing users to see their growth.
 
-请确保您已经安装了 [Node.js](https://nodejs.org/) 和 [npm](https://www.npmjs.com/)。
+## Installation
 
-1. 克隆这个仓库到本地
+Please ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
+
+1. Clone this repository to your local machine
 
 ```sh
 git clone https://github.com/Raven-tu/YomiLink.git
-```
 
-2. 进入项目目录
+1. Navigate to the project directory
 
-```sh
 cd yomilink
-```
 
-3. 安装依赖
+1. Install dependencies
 
-```sh
 npm install
-```
 
-## 运行
+Running
 
-在开发模式下启动应用
+Start the application in development mode
 
-```sh
 npm start
 
-在浏览器中打开 http://localhost:3000 查看你的应用。
+Open your browser and go to http://localhost:3000 to view your application.
 
-用法
+Usage
 
-1. 启动应用后，您将看到一个界面显示第一个日语单词。
-2. 在输入框中输入单词的正确拼写。
-3. 按下“提交”按钮后，应用将验证拼写的正确性。
-4. 如果拼写正确，应用将显示下一个单词；如果拼写错误，将提示重新输入。
+1. After starting the application, you will see an interface displaying the first Japanese word.
+2. Enter the correct spelling of the word in the input box.
+3. After pressing the “Submit” button, the application will validate the spelling.
+4. If the spelling is correct, the application will display the next word; if the spelling is incorrect, you will be prompted to re-enter.
 ```
