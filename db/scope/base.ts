@@ -648,8 +648,188 @@ export const youon: QuestionList = {
   ],
 }
 
+export const week: QuestionList = {
+  name: 'week',
+  title: '曜日',
+  data: [
+    {
+      question: '月曜日',
+      answer: 'Getsuyoubi',
+      explantion: '月曜日 / げつようび',
+    },
+    {
+      question: '火曜日',
+      answer: 'kayoubi',
+      explantion: '火曜日 / かようび',
+    },
+    {
+      question: '水曜日',
+      answer: 'Suiyoubi',
+      explantion: '水曜日 / すいようび',
+    },
+    {
+      question: '木曜日',
+      answer: 'Mokuyoubi',
+      explantion: '木曜日 / もくようび',
+    },
+    {
+      question: '金曜日',
+      answer: 'Kinyoubi',
+      explantion: '金曜日 / きんようび',
+    },
+    {
+      question: '土曜日',
+      answer: 'Doyoubi',
+      explantion: '土曜日 / どようび',
+    },
+    {
+      question: '日曜日',
+      answer: 'Nichiyoubi',
+      explantion: '日曜日 / にちようび',
+    },
+  ],
+}
+
+export const month: QuestionList = {
+  name: 'month',
+  title: '月',
+  data: [
+    {
+      question: '一月',
+      answer: 'ichigatsu',
+      explantion: '一月 / いちがつ',
+    },
+    {
+      question: '二月',
+      answer: 'nigatsu',
+      explantion: '二月 / にがつ',
+    },
+    {
+      question: '三月',
+      answer: 'sangatsu',
+      explantion: '三月 / さんがつ',
+    },
+    {
+      question: '四月',
+      answer: 'shigatsu',
+      explantion: '四月 / しがつ',
+    },
+    {
+      question: '五月',
+      answer: 'gogatsu',
+      explantion: '五月 / ごがつ',
+    },
+    {
+      question: '六月',
+      answer: 'rokugatsu',
+      explantion: '六月 / ろくがつ',
+    },
+    {
+      question: '七月',
+      answer: 'shichigatsu',
+      explantion: '七月 / しちがつ',
+    },
+    {
+      question: '八月',
+      answer: 'hachigatsu',
+      explantion: '八月 / はちがつ',
+    },
+    {
+      question: '九月',
+      answer: 'kugatsu',
+      explantion: '九月 / くがつ',
+    },
+    {
+      question: '十月',
+      answer: 'jugatsu',
+      explantion: '十月 / じゅうがつ',
+    },
+    {
+      question: '十一月',
+      answer: 'juichigatsu',
+      explantion: '十一月 / じゅういちがつ',
+    },
+    {
+      question: '十二月',
+      answer: 'juniigatsu',
+      explantion: '十二月 / じゅうにがつ',
+    },
+  ],
+}
+
+export const hour: QuestionList = {
+  title: '時間',
+  name: 'hour',
+  data: [
+    {
+      question: '一時',
+      answer: 'ichiji',
+      explantion: '一時 / いちじ',
+    },
+    {
+      question: '二時',
+      answer: 'niji',
+      explantion: '二時 / にじ',
+    },
+    {
+      question: '三時',
+      answer: 'sanji',
+      explantion: '三時 / さんじ',
+    },
+    {
+      question: '四時',
+      answer: 'yoji',
+      explantion: '四時 / よじ',
+    },
+    {
+      question: '五時',
+      answer: 'goji',
+      explantion: '五時 / ごじ',
+    },
+    {
+      question: '六時',
+      answer: 'rokuji',
+      explantion: '六時 / ろくじ',
+    },
+    {
+      question: '七時',
+      answer: 'shichiji',
+      explantion: '七時 / しちじ',
+    },
+    {
+      question: '八時',
+      answer: 'hachiji',
+      explantion: '八時 / はちじ',
+    },
+    {
+      question: '九時',
+      answer: 'kuji',
+      explantion: '九時 / くじ',
+    },
+    {
+      question: '十時',
+      answer: 'juuji',
+      explantion: '十時 / じゅうじ',
+    },
+    {
+      question: '十一時',
+      answer: 'juuichiji',
+      explantion: '十一時 / じゅういちじ',
+    },
+    {
+      question: '十二時',
+      answer: 'juuniji',
+      explantion: '十二時 / じゅうにじ',
+    },
+    
+  ],
+}
+
 export default {
   hiragana,
   katakana,
   youon,
+  week,
+  month,
+  hour,
 }

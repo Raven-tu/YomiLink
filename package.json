@@ -24,6 +24,7 @@
     "@nuxt/eslint": "^0.3.12",
     "@nuxtjs/color-mode": "^3.4.1",
     "@pinia/nuxt": "^0.5.1",
+    "@types/lodash-es": "^4.17.7",
     "@unocss/eslint-config": "^0.60.0",
     "@unocss/nuxt": "^0.60.0",
     "@vite-pwa/nuxt": "^0.7.0",
@@ -33,6 +34,9 @@
     "dayjs": "^1.11.9",
     "eslint": "^9.2.0",
     "eslint-plugin-format": "^0.1.1",
+    "kuroshiro": "~1.1.2",
+    "kuroshiro-analyzer-kuromoji": "^1.1.0",
+    "lodash-es": "^4.17.21",
     "nuxt": "^3.11.2",
     "pinia": "^2.1.7",
     "std-env": "^3.3.3",
@@ -40,5 +44,4 @@
     "unocss-preset-daisy": "^7.0.0",
     "vue-tsc": "^2.0.17"
   }
-
 }

@@ -7,7 +7,7 @@ const panelMenuWidth = ref(250)
 <template>
   <main class="relative w-full">
     <section
-      class="app-side fixed left-0 top-0 h-full overflow-hidden transition-width duration-300"
+      class="app-side fixed left-0 top-0 h-full overflow-x-hidden overflow-y-auto bg-base-200 transition-width duration-300"
       :style="{ width: `${panelMenuWidth}px` }"
     >
       <Aside />

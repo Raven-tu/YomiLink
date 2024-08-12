@@ -13,14 +13,14 @@ provide('currentInput', currentInput)
 
 <template>
   <section class="flex-center flex-1 overflow-auto p-20">
-    <div v-if="currentQuestion" class="flex-center h-full max-w-560px w-full flex-col space-y-4">
+    <div v-if="currentQuestion" class="h-full max-w-560px w-full flex-center flex-col space-y-4">
       <GameHead :scope-title :current-idx :question-size />
       <GameMain :attempts-count :current-question :submit-answer />
-      <GameFoot :current-question-answer :attempts-count :current-question-explantion />
+      <GameFoot :attempts-count :current-question />
     </div>
     <!--  -->
     <div v-else class="hero">
-      <div class="hero-content text-center">
+      <div class="text-center hero-content">
         <div class="max-w-md">
           <h1 class="text-5xl font-bold">
             Hello there

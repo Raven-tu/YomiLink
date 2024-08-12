@@ -1,7 +1,10 @@
 <script lang='tsx' setup>
 import { nav } from '~/db/nav'
+import { scopeMap } from '~/db/scope'
 
 const { updateScope } = useAppStore()
+console.log('nav', nav)
+console.log('scopeMap', scopeMap)
 
 function update(id: string) {
   updateScope(id)
@@ -9,9 +12,9 @@ function update(id: string) {
 </script>
 
 <template>
-  <ul class="menu bg-base-200 rounded-box h-full w-56">
-    <li v-for="(item, index) in nav" :key="index">
-      <details v-if="item.sub" open>
+  <ul class="w-full overflow-x-hidden overflow-y-auto bg-base-200 menu rounded-box">
+    <li v-for="(item, index) in nav" :key="index" class="w-full">
+      <details v-if="item.sub" :open="item.title === 'base'">
         <summary>{{ item.title }}</summary>
         <ul>
           <li v-for="(subChild, subIdx) in item.sub" :key="subIdx">

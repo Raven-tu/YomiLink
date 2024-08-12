@@ -1,8 +1,9 @@
 <script lang='ts' setup>
+import type { Question } from '~/types'
+
 const props = defineProps<{
-  currentQuestionAnswer: string
-  currentQuestionExplantion: string
   attemptsCount: number
+  currentQuestion: Question | undefined
 }>()
 
 const showAnswer = computed(() => {
@@ -14,17 +15,17 @@ const showAnswer = computed(() => {
   <div class="game-foot min-h-30 w-full flex flex-col rounded-md p-4 space-y-2">
     <div class="game-foot-answer flex justify-start space-x-2">
       <div class="game-foot-answer-title font-bold">
-        <span> {{ props.currentQuestionExplantion }}</span>
+        <span> {{ props.currentQuestion?.question ?? '' }}</span>
       </div>
       <div class="game-foot-answer-count">
         <span> （{{ props.attemptsCount }}）</span>
       </div>
       <div class="game-foot-answer-content">
-        <span v-show="showAnswer" class="game-foot-answer-content-text">{{ props.currentQuestionAnswer }}</span>
+        <span v-show="showAnswer" class="game-foot-answer-content-text">{{ props.currentQuestion?.answer }}</span>
       </div>
     </div>
-    <div class="game-foot-explanation">
-      {{ props.currentQuestionExplantion }}
+    <div class="game-foot-explanation break-normal" style="white-space: preserve-breaks;">
+      {{ props.currentQuestion?.explantion }}
     </div>
   </div>
 </template>
