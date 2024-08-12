@@ -4,6 +4,10 @@
 
 YomiLink is an application focused on Japanese vocabulary memorization, helping users enhance their vocabulary by correctly spelling Japanese words. Learners must correctly spell each word before moving on to the next one.
 
+## Screenshot
+
+![YomiLink](./constants/Screenshot.jpg)
+
 ## Features
 
 - **Japanese Word Spelling Practice**: Users must correctly spell Japanese words to proceed to the next one.
