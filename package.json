@@ -43,5 +43,8 @@
     "typescript": "^5.4.5",
     "unocss-preset-daisy": "^7.0.0",
     "vue-tsc": "^2.0.17"
+  },
+  "dependencies": {
+    "@iconify-json/lets-icons": "^1.1.3"
   }
 }

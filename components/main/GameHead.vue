@@ -18,14 +18,15 @@ const props = withDefaults(defineProps<Props>(), {
       <div class="numbers-mobile">
         {{ props.currentIdx }} / {{ props.questionSize }}
       </div>
-      <progress class="progress w-56" :value="props.currentIdx" :max="props.questionSize" />
+      <progress class="w-56 progress" :value="props.currentIdx" :max="props.questionSize" />
       <div class="number">
         {{ props.questionSize }}
       </div>
     </div>
     <!--  -->
-    <div class="game-head-action">
-      {{ props.scopeTitle }}
+    <div class="game-head-action flex-center space-x-2">
+      <span> {{ props.scopeTitle }}</span>
+      <DarkToggle />
     </div>
   </section>
 </template>

@@ -5,7 +5,7 @@ import GameMain from './GameMain.vue'
 
 import { useGame } from '~/composables/useGame'
 
-const { currentIdx, attemptsCount, currentQuestionAnswer, currentQuestionExplantion, currentInput, scopeTitle, currentQuestion, initGame, questionList, questionSize, submitAnswer } = useGame()
+const { currentIdx, attemptsCount, currentInput, scopeTitle, currentQuestion, questionSize, submitAnswer } = useGame()
 
 provide('currentInput', currentInput)
 provide('currentInput', currentInput)
@@ -13,7 +13,7 @@ provide('currentInput', currentInput)
 
 <template>
   <section class="flex-center flex-1 overflow-auto p-20">
-    <div v-if="currentQuestion" class="h-full max-w-560px w-full flex-center flex-col space-y-4">
+    <div v-if="currentQuestion" class="h-full max-w-560px w-full flex-center flex-col space-y-10">
       <GameHead :scope-title :current-idx :question-size />
       <GameMain :attempts-count :current-question :submit-answer />
       <GameFoot :attempts-count :current-question />
