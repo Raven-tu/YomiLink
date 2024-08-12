@@ -4,7 +4,7 @@ import type { Question } from '~/types'
 const props = defineProps<{
   attemptsCount: number
   currentQuestion: Question | undefined
-  submitAnswer: (answer: string) => void
+  submitAnswer: (answer: string) => boolean
 }>()
 
 const anserInput = ref('')

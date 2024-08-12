@@ -3,8 +3,6 @@ import { nav } from '~/db/nav'
 import { scopeMap } from '~/db/scope'
 
 const { updateScope } = useAppStore()
-console.log('nav', nav)
-console.log('scopeMap', scopeMap)
 
 function update(id: string) {
   updateScope(id)

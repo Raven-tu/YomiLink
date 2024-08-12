@@ -5,10 +5,9 @@ import GameMain from './GameMain.vue'
 
 import { useGame } from '~/composables/useGame'
 
-const { currentIdx, attemptsCount, currentInput, scopeTitle, currentQuestion, questionSize, submitAnswer } = useGame()
+const { currentIdx, attemptsCount, scopeTitle, currentQuestion, questionSize, orderType, changeOrderType, submitAnswer } = useGame()
 
-provide('currentInput', currentInput)
-provide('currentInput', currentInput)
+const isSortMode = computed(() => orderType.value === 'sort')
 </script>
 
 <template>
@@ -16,7 +15,13 @@ provide('currentInput', currentInput)
     <div v-if="currentQuestion" class="h-full max-w-560px w-full flex-center flex-col space-y-10">
       <GameHead :scope-title :current-idx :question-size />
       <GameMain :attempts-count :current-question :submit-answer />
-      <GameFoot :attempts-count :current-question />
+      <GameFoot :attempts-count :current-question>
+        <button class="text-2xl !outline-none" @click="changeOrderType">
+          <div v-if="isSortMode" class="i-lets-icons-sort-down" />
+          <div v-else class="i-lets-icons-sort-random" />
+        </button>
+        <a class="i-carbon-logo-github text-xl" href="https://github.com/Raven-tu/YomiLink" target="_blank" />
+      </GameFoot>
     </div>
     <!--  -->
     <div v-else class="hero">

@@ -6,8 +6,13 @@ export function useGame() {
   const currentIdx = ref(0)
   const attemptsCount = ref(0)
   const currentInput = ref('')
+  const orderType: Ref<'random' | 'sort'> = ref('sort')
   const scopeTitle = computed(() => currentScope.value?.title ?? '')
-  const questionList = computed(() => currentScope.value?.data ?? [])
+  const questionList = computed(() => {
+    if (orderType.value === 'sort')
+      return currentScope.value?.data ?? []
+    return currentScope.value?.data.sort(() => Math.random() - 0.5) ?? []
+  })
   const questionSize = computed(() => questionList.value.length)
   const currentQuestion = computed(() => questionList.value.at(currentIdx.value))
   const currentQuestionAnswer = computed(() => questionList.value.at(currentIdx.value)?.answer ?? '')
@@ -24,13 +29,21 @@ export function useGame() {
     currentInput.value = ''
   }
 
+  function changeOrderType() {
+    orderType.value = orderType.value === 'sort' ? 'random' : 'sort'
+    initGame()
+    return orderType.value
+  }
+
   function nextQuestion() {
     attemptsCount.value = 0
     currentIdx.value++
+    if (currentIdx.value === questionSize.value)
+      currentIdx.value = 0
   }
 
   function judgement() {
-    return currentInput.value === currentQuestionAnswer.value
+    return currentInput.value.toLocaleLowerCase() === currentQuestionAnswer.value.toLocaleLowerCase()
   }
 
   function tryAgain() {
@@ -54,6 +67,8 @@ export function useGame() {
     currentQuestion,
     attemptsCount,
     currentQuestionAnswer,
+    orderType,
+    changeOrderType,
     currentQuestionExplantion,
     initGame,
     questionList,

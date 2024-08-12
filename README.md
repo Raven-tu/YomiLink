@@ -16,7 +16,7 @@ YomiLink 是一个专注于日语词汇背诵的应用程序，帮助用户通�
 1. 克隆这个仓库到本地
 
 ```sh
-git clone https://github.com/yourusername/yomilink.git
+git clone https://github.com/Raven-tu/YomiLink.git
 ```
 
 2. 进入项目目录
