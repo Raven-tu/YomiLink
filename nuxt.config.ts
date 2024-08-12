@@ -1,3 +1,4 @@
+import path from 'node:path'
 import { pwa } from './config/pwa'
 import { appDescription } from './constants/index'
 
@@ -39,9 +40,14 @@ export default defineNuxtConfig({
       routes: ['/'],
       ignore: ['/hi'],
     },
+    output: {
+      publicDir: path.join(__dirname, 'docs'),
+    },
   },
 
   app: {
+    baseURL: '/nuxt-github-pages/',
+    buildAssetsDir: 'nuxt_assets',
     head: {
       viewport: 'width=device-width,initial-scale=1',
       link: [
